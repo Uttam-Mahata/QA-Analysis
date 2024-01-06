@@ -1,7 +1,5 @@
 # Student Assesment Checker
 
-
-
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
@@ -14,10 +12,6 @@ git remote add origin <Your_Url>
 git branch -M main
 git push -uf origin main
 ```
-
-
-
-***
 
 # Editing this README
 
