@@ -41,17 +41,31 @@ def create_project_directory_structure(num_subjects, num_students, num_questions
             with open(reference_file, 'w') as reference_file:
                 reference_file.write(f"Reference answer for Subject {subject_num}, Question {question_id}")
 
-        for student_id in range(1, num_students + 1):
-            student_dir = os.path.join(subject_dir, f'student_{student_id}')
-            os.makedirs(student_dir, exist_ok=True)
+        # Add specific Geography questions and answers for Subject_1
+        if subject_num == 5:
+            history_questions = [
+                "Explain the causes and consequences of the Industrial Revolution in the 18th and 19th centuries.",
+                "Discuss the impact of the French Revolution on European societies and global politics.",
+                "Analyze the role of imperialism in shaping the development of colonies during the 19th and 20th centuries.",
+                "Examine the factors that led to the outbreak of World War I. How did the war reshape global geopolitics?",
+                "Discuss the events and consequences of the Great Depression in the 1930s.",
+                "Explore the causes and outcomes of the Cold War between the United States and the Soviet Union.",
+                "Analyze the social and political changes brought about by the Civil Rights Movement in the United States.",
+                "Discuss the causes, events, and aftermath of the Cuban Missile Crisis during the Cold War.",
+                "Examine the impact of decolonization on African and Asian nations in the mid-20th century.",
+                "Discuss the factors that contributed to the fall of the Berlin Wall and the reunification of Germany.",
+            ]
+            for student_id in range(1, num_students + 1):
+                student_dir = os.path.join(subject_dir, f'student_{student_id}')
+                os.makedirs(student_dir, exist_ok=True)
 
-            for question_id in range(1, num_questions + 1):
-                question_filename = f'question_{question_id}.txt'
-                question_path = os.path.join(student_dir, question_filename)
+                for question_id, geography_question in enumerate(history_questions, start=1):
+                    question_filename = f'question_{question_id}.txt'
+                    question_path = os.path.join(student_dir, question_filename)
 
-                # Create placeholder content for each question file
-                with open(question_path, 'w') as question_file:
-                    question_file.write(f"Question {question_id}\nAnswer for Question {question_id} by Student {student_id}")
+                    # Write Geography question and answer content to each file
+                    with open(question_path, 'w') as question_file:
+                        question_file.write(f"History Question {question_id}\n{geography_question}\nAnswer for Question {question_id} by Student {student_id}")
 
     # Create processed_data subdirectories
     processed_data_subdirs = ['pos_tagged', 'named_entities']
