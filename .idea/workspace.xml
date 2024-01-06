@@ -13,6 +13,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitLabMergeRequestFiltersHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPENED",
+    "assignee": {
+      "type": "org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue",
+      "username": "uttam123a",
+      "fullname": "uttamm_a1"
+    }
+  }
+}]]></component>
+  <component name="GitLabMergeRequestsSettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "first": "https://gitlab.com/uttam123a/student-assesment-checker.git",
+    "second": "c7b4581b-49a7-4f3d-b880-755d61706e22"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -27,7 +43,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "!1 on master"
   }
 }]]></component>
   <component name="RunManager">
@@ -94,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704502866045</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Questions Created Subjectwise">
+      <option name="closed" value="true" />
+      <created>1704503030490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704503030490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
