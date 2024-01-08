@@ -44,17 +44,17 @@ def create_directory_structure():
             question_file.write(question)
 
     # Create answers directory and text files
-    answers_path = os.path.join(raw_data_path, 'answers')
-    os.makedirs(answers_path, exist_ok=True)
+    # answers_path = os.path.join(raw_data_path, 'answers')
+    # os.makedirs(answers_path, exist_ok=True)
 
-    for i, question in enumerate(questions, start=1):
-        question_answers_path = os.path.join(answers_path, f'question{i}')
-        os.makedirs(question_answers_path, exist_ok=True)
+    # for i, question in enumerate(questions, start=1):
+    #     question_answers_path = os.path.join(answers_path, f'question{i}')
+    #     os.makedirs(question_answers_path, exist_ok=True)
         
-        for j in range(21, 101):
-            answer_file_path = os.path.join(question_answers_path, f'student{j}_answer.txt')
-            with open(answer_file_path, 'w', encoding='utf-8') as answer_file:
-                answer_file.write(f" ")
+    #     for j in range(21, 101):
+    #         answer_file_path = os.path.join(question_answers_path, f'student{j}_answer.txt')
+    #         with open(answer_file_path, 'w', encoding='utf-8') as answer_file:
+    #             answer_file.write(f" ")
 
     # Create reference answers and text files
     reference_answers_path = os.path.join(reference_path)
