@@ -1,0 +1,1 @@
+[('Local Emissions Reduction', 'ORG'), ('Lifecycle Emissions', 'ORG'), ('Renewable Energy Integration', 'ORG'), ('Battery Production Manufacturing EV', 'ORG'), ('EV', 'ORG')]

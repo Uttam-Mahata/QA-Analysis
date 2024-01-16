@@ -1,0 +1,1 @@
+[('World War', 'EVENT'), ('Emoji', 'PERSON'), ('Interstellar Morse Code', 'ORG'), ('the Emoji Consortium', 'ORG'), ('the Morse Code Coalition Territorial', 'ORG'), ('Language Laboratories', 'LOC'), ('Morse', 'PERSON'), ('emoji', 'NORP'), ('Morse', 'PERSON'), ('Nations', 'PERSON'), ('Linguistic Armageddon', 'LOC'), ('Morse', 'NORP')]

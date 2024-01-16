@@ -1,0 +1,1 @@
+[('Local Emissions Increase', 'ORG'), ('Limited Battery Lifespan', 'ORG'), ('Resource Depletion', 'ORG'), ('Noise Pollution Contrary', 'ORG'), ('Land Use', 'PERSON'), ('Adverse Health', 'ORG'), ('Social Strife', 'WORK_OF_ART'), ('EV', 'ORG')]

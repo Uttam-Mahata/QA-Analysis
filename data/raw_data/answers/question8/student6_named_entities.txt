@@ -1,0 +1,1 @@
+[('the Industrial Revolution', 'EVENT'), ('Attempts', 'PRODUCT'), ('Levitating Villages', 'PERSON'), ('Transportation', 'ORG'), ('Teleportation Tumults', 'PERSON'), ('Socially', 'PERSON'), ('Wand Wielders Whims', 'ORG'), ('the Industrial Revolution', 'EVENT')]

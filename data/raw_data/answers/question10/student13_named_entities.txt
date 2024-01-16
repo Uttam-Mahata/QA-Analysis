@@ -1,0 +1,1 @@
+[('zero', 'CARDINAL'), ('Battery Production Concerns Critics', 'ORG'), ('EV', 'ORG'), ('Disposal Challenges', 'WORK_OF_ART'), ('EV', 'ORG'), ('Dependency on Grid Decarbonization', 'ORG')]

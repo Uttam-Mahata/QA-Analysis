@@ -1,0 +1,1 @@
+[('Inefficiency in Energy Usage', 'ORG'), ('Resource Depletion', 'ORG'), ('EV', 'ORG'), ('Limited Battery Lifespan', 'ORG'), ('EV', 'ORG'), ('Fossil Fuels Critics', 'ORG'), ('Grid Overload', 'WORK_OF_ART'), ('Social Disruption', 'ORG'), ('False Marketing Claims Critics', 'WORK_OF_ART')]

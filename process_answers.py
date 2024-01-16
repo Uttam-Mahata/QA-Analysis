@@ -1,7 +1,6 @@
 import os
 import spacy
 import nltk
-from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
@@ -17,11 +16,8 @@ def lemmatize_with_nltk(answer):
     # Initialize the lemmatizer
     lemmatizer = WordNetLemmatizer()
 
-    # Lemmatize each word, filter out non-alphabetic words and remove stop words
-    lemmatized_words = [lemmatizer.lemmatize(word) for word in words if word.isalpha() and word.lower() not in stopwords.words('english')]
-
-    # Join the lemmatized words back into a processed answer
-    processed_answer = ' '.join(lemmatized_words)
+    # Lemmatize each word and join them back into a processed answer
+    processed_answer = ' '.join([lemmatizer.lemmatize(word) for word in words if word.isalpha()])
 
     return processed_answer
 
@@ -58,13 +54,13 @@ def process_student_answers():
         question_answers_path = os.path.join(raw_data_path, f'question{i}')
 
         for j in range(1, 16):  # Adjusted the range to 15 students
-            answer_file_path = os.path.join(question_answers_path, f'student{j}_processed_answer.txt')
+            answer_file_path = os.path.join(question_answers_path, f'student{j}_answer.txt')
 
             # Read the processed answer from the file
             with open(answer_file_path, 'r', encoding='utf-8') as answer_file:
                 processed_answer = answer_file.read()
 
-            # Perform NLTK lemmatization
+            # Perform NLTK lemmatization without removing stopwords
             processed_answer = lemmatize_with_nltk(processed_answer)
 
             # Perform POS tagging

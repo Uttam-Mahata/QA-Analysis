@@ -1,0 +1,1 @@
+[('the Industrial Revolution wa the Grand Masquerade Quest', 'EVENT'), ('Renaissance', 'ORG'), ('Factories', 'PRODUCT'), ('Costume Ateliers', 'ORG'), ('Mask Magic', 'PERSON'), ('Masked Galas', 'GPE'), ('Transportation', 'ORG'), ('Phantom Carriages', 'ORG'), ('Dance Duels', 'PERSON'), ('the Industrial Revolution', 'EVENT')]

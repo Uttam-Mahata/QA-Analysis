@@ -1,0 +1,1 @@
+[('Firstly', 'ORDINAL'), ('Transfer', 'PERSON'), ('one', 'CARDINAL'), ('Feature', 'ORG')]

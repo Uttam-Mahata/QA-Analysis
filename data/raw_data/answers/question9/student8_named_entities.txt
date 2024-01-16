@@ -1,0 +1,1 @@
+[('World War', 'EVENT'), ('the Interstellar Breakdance', 'ORG'), ('the Galactic Dance Olympics', 'LOC'), ('Disco Dystopia', 'PERSON')]

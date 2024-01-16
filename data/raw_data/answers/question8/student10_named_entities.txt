@@ -1,0 +1,1 @@
+[('the Industrial Revolution', 'EVENT'), ('Epicurean Factories', 'ORG'), ('Culinary Contraptions', 'ORG'), ('Gourmet Metropolises', 'PERSON'), ('Transportation', 'ORG'), ('Gastronomic Expeditions', 'ORG'), ('Flavorful Negotiations', 'ORG'), ('the Industrial Revolution', 'EVENT')]

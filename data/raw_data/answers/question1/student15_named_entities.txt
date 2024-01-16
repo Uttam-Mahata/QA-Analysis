@@ -1,0 +1,1 @@
+[('Continental', 'ORG'), ('Earth', 'LOC'), ('Fossils', 'ORG'), ('South America', 'LOC'), ('Africa', 'LOC'), ('Seismic', 'NORP'), ('Earth', 'LOC'), ('Earth', 'LOC')]

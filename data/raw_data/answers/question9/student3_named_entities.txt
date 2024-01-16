@@ -1,0 +1,1 @@
+[('World War', 'EVENT'), ('the United States', 'GPE'), ('China', 'GPE'), ('Russia', 'GPE'), ('South China Sea', 'LOC'), ('Ukraine', 'GPE'), ('Climate', 'ORG'), ('United Nations', 'ORG'), ('World War', 'EVENT')]

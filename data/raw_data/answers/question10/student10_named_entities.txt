@@ -1,0 +1,1 @@
+[('Zero Emissions During Operation', 'ORG'), ('zero', 'CARDINAL'), ('Renewable Energy Impact The environmental benefit of EVs', 'WORK_OF_ART'), ('Energy Efficiency Electric', 'ORG'), ('Lifecycle Emissions Challenges', 'ORG'), ('EV', 'ORG'), ('Battery Production Impact Extracting', 'ORG'), ('Infrastructure Challenges The', 'ORG'), ('Limited', 'ORG')]

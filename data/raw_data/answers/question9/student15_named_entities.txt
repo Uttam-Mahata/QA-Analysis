@@ -1,0 +1,1 @@
+[('China', 'GPE'), ('Russia', 'GPE'), ('Territorial Disputes Ongoing', 'WORK_OF_ART'), ('the South China Sea', 'LOC'), ('Kashmir', 'LOC'), ('Cyber Warfare Escalating', 'PERSON')]

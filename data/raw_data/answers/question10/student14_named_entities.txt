@@ -1,0 +1,1 @@
+[('zero', 'CARDINAL'), ('Renewable Energy Integration', 'ORG'), ('Utilizing', 'ORG'), ('Energy Efficiency Electric', 'ORG'), ('Lifecycle Emissions Reduction', 'ORG'), ('Battery Production Impact', 'ORG'), ('Charging Infrastructure', 'ORG'), ('EV', 'ORG')]

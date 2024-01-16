@@ -1,0 +1,1 @@
+[('World War', 'EVENT'), ('the Magenta Coalition', 'ORG'), ('Alliance Territorial', 'ORG'), ('Color Cannons', 'ORG'), ('Nations', 'PERSON'), ('the Palette Olympics', 'FAC'), ('Chromatic Catastrophes', 'ORG')]
