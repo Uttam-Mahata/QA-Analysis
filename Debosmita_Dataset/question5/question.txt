@@ -1,2 +1,0 @@
-Discuss the significance of data science in extracting valuable insights from large
-datasets. Provide an example of a real-world application of data science.
