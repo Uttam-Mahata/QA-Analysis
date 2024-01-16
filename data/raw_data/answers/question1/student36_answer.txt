@@ -1,1 +1,15 @@
- 
+Explain the concept of continental drift and provide evidence supporting this theory.
+Ans-
+The concept of continental drift, proposed by Alfred Wegener in the early 20th century, revolutionized our understanding of Earth's geology. This theory suggests that continents were once part of a supercontinent called Pangaea and have since drifted apart over geological time scales.
+
+Wegener supported his theory with compelling evidence from different scientific fields. Firstly, the matching coastlines of continents, particularly the eastern coast of South America with the western coast of Africa, hinted at a possible connection. The geometric fit was so precise that it seemed implausible for it to be a mere coincidence.
+
+Secondly, identical fossil evidence on continents separated by vast oceans supported the idea of past connections. Similar fossils of plants and animals found on continents now separated by oceans suggested that these regions were once part of the same landmass.
+
+Furthermore, geological features, such as mountain ranges and rock formations, provided additional evidence. For instance, the Appalachian Mountains in North America seemed to align with the Caledonian Mountains in Scotland and Scandinavia, reinforcing the notion that these regions were once contiguous.
+
+Paleoclimatic evidence, including glacial deposits and evidence of past climates, also bolstered the theory. Wegener noted that certain geological formations, such as glacial striations and tillites, were found in regions that are currently widely separated by oceans. This indicated that these areas were once positioned much closer to each other within a single landmass.
+
+Despite Wegener's compelling evidence, the scientific community initially resisted the idea of continental drift. It wasn't until the mid-20th century, with the development of the theory of plate tectonics, that the concept gained widespread acceptance. Plate tectonics provided a comprehensive framework, explaining how Earth's lithosphere is divided into rigid plates that move over the semi-fluid asthenosphere, leading to the gradual drifting of continents over millions of years.
+
+In essence, continental drift revolutionized our understanding of Earth's dynamic geological history, and the subsequent development of plate tectonics provided a unifying theory that brought together diverse geological phenomena, offering a comprehensive explanation for the movement of continents.
