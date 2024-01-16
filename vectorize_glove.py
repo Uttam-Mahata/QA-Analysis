@@ -3,7 +3,7 @@ import numpy as np
 from nltk.tokenize import sent_tokenize
 from gensim.models import KeyedVectors
 import spacy
-
+ 
 # Load spaCy English language model
 nlp = spacy.load("en_core_web_sm")
 
