@@ -1,1 +1,0 @@
-[('the Industrial Revolution', 'EVENT'), ('the Middle Ages', 'LOC'), ('Factories', 'PERSON'), ('Labor', 'ORG'), ('the Industrial Revolution', 'EVENT')]

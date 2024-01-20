@@ -1,1 +1,0 @@
-[('the Industrial Revolution', 'EVENT'), ('Extravagant Soap', 'ORG'), ('Bubble Alchemy', 'PERSON'), ('Urbanization', 'PERSON'), ('Transportation', 'ORG'), ('Bubble Contests', 'WORK_OF_ART'), ('the Industrial Revolution', 'EVENT')]

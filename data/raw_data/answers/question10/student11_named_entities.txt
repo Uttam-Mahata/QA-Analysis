@@ -1,1 +1,0 @@
-[('Hidden Emissions While', 'ORG'), ('zero', 'CARDINAL'), ('Energy Inefficiency Critics', 'ORG'), ('Battery Production', 'LOC'), ('Limited Environmental Advantages', 'ORG'), ('Fossil Fuels Skeptics', 'ORG'), ('Resource Depletion', 'ORG'), ('EV', 'ORG'), ('Charging Infrastructure Challenges', 'ORG'), ('False Marketing Claims', 'WORK_OF_ART')]

@@ -1,1 +1,0 @@
-[('Unsupervised', 'ORG'), ('Transfer', 'PERSON'), ('one', 'CARDINAL'), ('Feature', 'ORG')]

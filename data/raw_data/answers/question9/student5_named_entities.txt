@@ -1,1 +1,0 @@
-[('World War', 'EVENT'), ('outlandish technology like hoverboards', 'ORG'), ('Ludicrous Speed', 'PERSON')]

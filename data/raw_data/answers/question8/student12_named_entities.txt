@@ -1,1 +1,0 @@
-[('The Industrial Revolution', 'EVENT'), ('the Great Pillow Fight Fiasco', 'FAC'), ('Renaissance', 'ORG'), ('Fluffy Battlegrounds', 'ORG'), ('Urbanization', 'PERSON'), ('Pillow Palaces', 'ORG'), ('Transportation', 'ORG'), ('Carriages', 'ORG'), ('Pillow Diplomacy', 'ORG'), ('the Industrial Revolution', 'EVENT')]

@@ -1,1 +1,0 @@
-[('Local Emissions Reduction', 'ORG'), ('zero', 'CARDINAL'), ('Lifecycle Emissions', 'ORG'), ('Renewable Energy Integration A', 'ORG'), ('Efficiency Gains Electric', 'ORG'), ('EV', 'ORG'), ('Challenges of Battery Production', 'ORG'), ('EV', 'ORG'), ('Holistic Approach', 'PERSON')]

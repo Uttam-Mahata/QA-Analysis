@@ -1,1 +1,0 @@
-[('Relational Database Management System', 'ORG'), ('Firstly', 'ORDINAL'), ('second', 'ORDINAL'), ('third', 'ORDINAL'), ('fourth', 'ORDINAL'), ('fifth', 'ORDINAL'), ('SQL', 'ORG'), ('Transactions', 'PERSON'), ('sixth', 'ORDINAL'), ('seventh', 'ORDINAL'), ('eighth', 'ORDINAL'), ('Backup', 'PERSON'), ('ninth', 'ORDINAL'), ('tenth', 'ORDINAL')]

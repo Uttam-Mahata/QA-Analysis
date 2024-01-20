@@ -1,1 +1,0 @@
-[('Zero', 'CARDINAL'), ('Renewable Energy Integration', 'ORG'), ('Energy Efficiency Electric', 'ORG'), ('Lifecycle Emissions Reduction Advances', 'ORG'), ('Reduced Noise Pollution EVs', 'ORG'), ('Improving Air Quality', 'ORG'), ('EV', 'ORG'), ('Public Awareness Increasing', 'WORK_OF_ART')]

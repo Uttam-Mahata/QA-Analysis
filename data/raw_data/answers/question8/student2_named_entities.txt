@@ -1,1 +1,0 @@
-[('The Industrial Revolution', 'EVENT'), ('the early century', 'DATE'), ('Firstly', 'ORDINAL'), ('Urbanization', 'ORG'), ('Economically the Industrial Revolution', 'WORK_OF_ART'), ('Industrialized', 'ORG'), ('Transportation', 'ORG'), ('The Industrial Revolution', 'EVENT'), ('Socially', 'PERSON'), ('the Industrial Revolution', 'EVENT')]

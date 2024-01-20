@@ -1,1 +1,0 @@
-[('Contrary', 'LOC')]

@@ -1,1 +1,0 @@
-[('Local Emissions Reduction', 'ORG'), ('zero', 'CARDINAL'), ('Lifecycle Emissions', 'ORG'), ('Renewable Energy Integration', 'ORG'), ('Grid Challenges', 'ORG'), ('Limited Range', 'WORK_OF_ART')]

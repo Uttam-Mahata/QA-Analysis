@@ -1,1 +1,0 @@
-[('The French Revolution', 'EVENT'), ('European', 'NORP'), ('European', 'NORP'), ('France', 'GPE'), ('Europe Absolute', 'LOC'), ('Nationalism', 'NORP'), ('France', 'GPE'), ('Napoleon Bonaparte', 'ORG'), ('The Congress of Vienna', 'ORG'), ('the French Revolution', 'EVENT'), ('France Political', 'ORG'), ('European', 'NORP'), ('France', 'GPE')]

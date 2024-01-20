@@ -1,1 +1,0 @@
-[('The Industrial Revolution', 'EVENT'), ('Transportation', 'ORG'), ('Interstellar Shimmies', 'ORG'), ('one', 'CARDINAL'), ('Funky Mediation Sessions', 'EVENT'), ('the Industrial Revolution', 'EVENT')]
