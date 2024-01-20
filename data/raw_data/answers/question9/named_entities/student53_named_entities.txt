@@ -1,0 +1,1 @@
+[('the South China Sea', 'LOC'), ('Eastern Europe', 'LOC'), ('the Middle East', 'LOC')]

@@ -1,0 +1,1 @@
+[('continental', 'ORG'), ('Imagine Earth', 'FAC'), ('continental', 'ORG'), ('Centuries ago', 'DATE'), ('Earth', 'LOC'), ('South America', 'LOC'), ('Africa', 'LOC'), ('millions of years', 'DATE'), ('Fossil', 'PERSON'), ('Continental', 'ORG'), ('Pangea', 'GPE'), ('Earth', 'LOC'), ('Today', 'DATE'), ('continental', 'ORG'), ('Earth', 'LOC')]

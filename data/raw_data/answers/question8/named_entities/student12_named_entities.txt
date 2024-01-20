@@ -1,0 +1,1 @@
+[('The Industrial Revolution', 'EVENT'), ('the "Great Pillow Fight Fiasco', 'EVENT'), ('Renaissance', 'ORG'), ('Fluffy Battlegrounds', 'WORK_OF_ART'), ('Contraptions', 'ORG'), ('Pillow Palaces', 'WORK_OF_ART'), ('Transportation', 'ORG'), ('Pillow Diplomacy', 'WORK_OF_ART'), ('the Industrial Revolution', 'EVENT')]

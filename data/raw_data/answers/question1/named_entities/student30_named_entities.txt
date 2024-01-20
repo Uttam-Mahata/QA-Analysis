@@ -1,0 +1,1 @@
+[('Continental', 'ORG'), ('Earth', 'LOC'), ('Pangaea', 'GPE'), ('millions of years', 'DATE')]

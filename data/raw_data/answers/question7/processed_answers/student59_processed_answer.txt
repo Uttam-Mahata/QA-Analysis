@@ -1,0 +1,10 @@
+A Relational Database Management System (RDBMS) comprises several key components that work together to facilitate efficient data organization and retrieval..
+The fundamental building blocks of an RDBMS are tables, which store data in a structured format..
+Each table consists of rows and columns, where columns represent attributes or fields, and rows contain individual records..
+RDBMS supports various data types, such as integers, strings, and dates, which help define the nature of the information stored in each column..
+This ensures data integrity and allows for efficient storage and retrieval..
+Indexes are essential for optimizing data retrieval..
+They act like a table of contents, providing a quick reference to the location of specific data..
+By creating indexes on columns frequently used in queries, the RDBMS accelerates search and retrieval operations..
+RDBMS supports relationships between tables through primary and foreign keys..
+This feature enables the establishment of connections between related data, ensuring data integrity and facilitating complex queries across multiple tables.

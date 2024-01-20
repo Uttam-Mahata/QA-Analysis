@@ -1,0 +1,1 @@
+[('Artificial Intelligence (AI', 'ORG'), ('AI', 'ORG'), ('AI', 'ORG'), ('AI', 'ORG'), ('AI', 'ORG'), ('AI', 'ORG'), ('AI', 'ORG')]

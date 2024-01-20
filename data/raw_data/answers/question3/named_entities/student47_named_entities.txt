@@ -1,0 +1,1 @@
+[('Society', 'ORG'), ('SES', 'ORG'), ('One', 'CARDINAL'), ('first', 'ORDINAL')]

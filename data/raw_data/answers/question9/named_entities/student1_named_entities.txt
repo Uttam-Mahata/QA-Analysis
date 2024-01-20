@@ -1,0 +1,1 @@
+[('World War 3', 'EVENT'), ('Firstly', 'ORDINAL'), ('Eastern Europe', 'LOC'), ('the South China Sea', 'LOC'), ('the Middle East', 'LOC'), ('Secondly', 'ORDINAL'), ('Cyber', 'PRODUCT'), ('World War 3', 'EVENT')]

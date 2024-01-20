@@ -1,0 +1,1 @@
+[('First', 'ORDINAL'), ('the Industrial Revolution', 'EVENT'), ('Machines', 'ORG'), ('The Industrial Revolution', 'EVENT')]

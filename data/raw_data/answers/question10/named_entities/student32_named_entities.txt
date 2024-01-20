@@ -1,0 +1,1 @@
+[('zero', 'CARDINAL'), ('Firstly', 'ORDINAL'), ('Secondly', 'ORDINAL'), ('Earth', 'LOC'), ('Cleaner', 'PERSON'), ('one', 'CARDINAL'), ('one', 'CARDINAL'), ('EV', 'ORG')]

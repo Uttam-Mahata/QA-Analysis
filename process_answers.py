@@ -1,25 +1,10 @@
 import os
 import spacy
 import nltk
-from nltk.stem import WordNetLemmatizer
-from nltk.tokenize import word_tokenize
+from nltk.tokenize import sent_tokenize
 
 # Download NLTK resources
-nltk.download('stopwords')
 nltk.download('punkt')
-nltk.download('wordnet')
-
-def lemmatize_with_nltk(answer):
-    # Tokenize the answer into words
-    words = word_tokenize(answer)
-
-    # Initialize the lemmatizer
-    lemmatizer = WordNetLemmatizer()
-
-    # Lemmatize each word and join them back into a processed answer
-    processed_answer = ' '.join([lemmatizer.lemmatize(word) for word in words if word.isalpha()])
-
-    return processed_answer
 
 def pos_tagging(answer):
     # Load spaCy English language model
@@ -53,21 +38,35 @@ def process_student_answers():
     for i in range(1, 11):
         question_answers_path = os.path.join(raw_data_path, f'question{i}')
 
-        for j in range(1, 16):  # Adjusted the range to 15 students
+        # Create folders for processed answers, POS tags, and named entities
+        processed_folder = os.path.join(question_answers_path, 'processed_answers')
+        pos_tags_folder = os.path.join(question_answers_path, 'pos_tags')
+        named_entities_folder = os.path.join(question_answers_path, 'named_entities')
+
+        os.makedirs(processed_folder, exist_ok=True)
+        os.makedirs(pos_tags_folder, exist_ok=True)
+        os.makedirs(named_entities_folder, exist_ok=True)
+
+        for j in range(1, 65):  # Adjusted the range to 15 students
             answer_file_path = os.path.join(question_answers_path, f'student{j}_answer.txt')
 
-            # Read the processed answer from the file
+            # Read the raw answer from the file
             with open(answer_file_path, 'r', encoding='utf-8') as answer_file:
-                processed_answer = answer_file.read()
+                raw_answer = answer_file.read()
 
-            # Perform NLTK lemmatization without removing stopwords
-            processed_answer = lemmatize_with_nltk(processed_answer)
+            # Starting a new line after each full stop
+            processed_answer = '.\n'.join(sent_tokenize(raw_answer))
+
+            # Save the processed answer to a file
+            processed_answer_file_path = os.path.join(processed_folder, f'student{j}_processed_answer.txt')
+            with open(processed_answer_file_path, 'w', encoding='utf-8') as processed_answer_file:
+                processed_answer_file.write(processed_answer)
 
             # Perform POS tagging
             pos_tags = pos_tagging(processed_answer)
 
             # Save POS tags to a file
-            pos_tags_file_path = os.path.join(question_answers_path, f'student{j}_pos_tags.txt')
+            pos_tags_file_path = os.path.join(pos_tags_folder, f'student{j}_pos_tags.txt')
             with open(pos_tags_file_path, 'w', encoding='utf-8') as pos_tags_file:
                 pos_tags_file.write(str(pos_tags))
 
@@ -75,11 +74,11 @@ def process_student_answers():
             named_entities = named_entity_extraction(processed_answer)
 
             # Save named entities to a file
-            named_entities_file_path = os.path.join(question_answers_path, f'student{j}_named_entities.txt')
+            named_entities_file_path = os.path.join(named_entities_folder, f'student{j}_named_entities.txt')
             with open(named_entities_file_path, 'w', encoding='utf-8') as named_entities_file:
                 named_entities_file.write(str(named_entities))
 
-    print('NLTK lemmatization, POS tagging, and named entity extraction using spaCy completed successfully.')
+    print('POS tagging and named entity extraction using spaCy completed successfully.')
 
 # Call the function to process student answers
 process_student_answers()

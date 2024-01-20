@@ -1,0 +1,1 @@
+[('Relational Database Management System', 'ORG'), ('Constraints', 'ORG'), ('Structured Query Language', 'ORG'), ('SQL', 'ORG'), ('SQL', 'ORG'), ('one', 'CARDINAL'), ('SQL', 'ORG'), ('ACID', 'ORG')]

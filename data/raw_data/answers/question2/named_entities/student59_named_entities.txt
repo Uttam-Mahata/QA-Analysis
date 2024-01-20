@@ -1,0 +1,1 @@
+[('Chales Darwin', 'PERSON'), ('Earth', 'LOC')]

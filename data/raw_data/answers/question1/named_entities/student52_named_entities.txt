@@ -1,0 +1,1 @@
+[('Continental', 'ORG'), ('today', 'DATE'), ('millions of years', 'DATE'), ('Earth', 'LOC'), ('One', 'CARDINAL'), ('South America', 'LOC'), ('Africa', 'LOC'), ('India', 'GPE'), ('Antarctica', 'LOC'), ('Appalachian Mountains', 'LOC'), ('European', 'NORP'), ('Earth', 'LOC')]

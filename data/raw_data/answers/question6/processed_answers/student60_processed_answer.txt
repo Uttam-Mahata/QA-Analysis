@@ -1,0 +1,8 @@
+Machine learning (ML) is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform tasks without explicit programming..
+Several fundamental principles underpin the field of machine learning, each playing a crucial role in the development of intelligent systems..
+Firstly, the principle of supervised learning involves training a model on a labeled dataset, where the algorithm learns to map input data to corresponding output labels..
+This method is essential for tasks such as classification and regression, where the model makes predictions based on the patterns it learns during training..
+Another key principle is unsupervised learning, which deals with unlabeled data, seeking to discover inherent patterns or relationships within the dataset..
+Clustering and dimensionality reduction are common applications, contributing to the development of intelligent systems capable of uncovering hidden structures in data..
+The principle of reinforcement learning involves training models to make sequences of decisions by interacting with an environment and receiving feedback in the form of rewards or penalties..
+This principle is particularly valuable in creating intelligent systems capable of autonomous decision-making, as seen in applications like game playing and robotics.

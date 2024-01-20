@@ -1,0 +1,1 @@
+[('World War 3', 'EVENT'), ('World War 3', 'EVENT'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('World War II', 'EVENT'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('Ukraine', 'GPE'), ('Taiwan', 'GPE'), ('Iran', 'GPE'), ('5', 'CARDINAL'), ('Russia', 'GPE'), ('China', 'GPE'), ('third', 'ORDINAL'), ('The United States', 'GPE'), ('China', 'GPE'), ('Ukraine', 'GPE')]

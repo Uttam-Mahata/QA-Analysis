@@ -1,0 +1,1 @@
+[('One', 'CARDINAL'), ('anomaly detection', 'GPE')]

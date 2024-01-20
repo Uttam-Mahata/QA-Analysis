@@ -1,0 +1,1 @@
+[('A Relational Database Management System', 'ORG'), ('Primary', 'PERSON'), ('SQL', 'ORG'), ('SELECT', 'ORG'), ('INSERT', 'ORG'), ('UPDATE', 'ORG'), ('DELETE', 'ORG')]

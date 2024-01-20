@@ -1,0 +1,1 @@
+[('Lifecycle Emissions', 'WORK_OF_ART'), ('Renewable Energy Integration', 'ORG'), ('EV', 'ORG')]

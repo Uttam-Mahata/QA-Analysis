@@ -1,0 +1,1 @@
+[('Society', 'ORG'), ('Strata', 'GPE')]

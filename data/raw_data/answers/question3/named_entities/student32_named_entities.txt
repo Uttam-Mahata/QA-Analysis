@@ -1,0 +1,1 @@
+[('Western', 'NORP'), ('U.S.', 'GPE'), ('10%', 'PERCENT'), ('70%', 'PERCENT'), ('2019', 'DATE'), ('the Federal Reserve', 'ORG'), ('1989', 'DATE'), ('just 60%', 'PERCENT'), ('The Federal Reserve', 'ORG'), ('Americans', 'NORP')]

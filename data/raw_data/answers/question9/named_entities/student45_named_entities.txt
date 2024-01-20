@@ -1,0 +1,1 @@
+[('World War 3', 'EVENT'), ('World War III', 'EVENT'), ('Thucydides Trap', 'WORK_OF_ART'), ('Ukraine', 'GPE'), ('Russia', 'GPE'), ('Israeli', 'NORP'), ('Iranian', 'NORP'), ('Iranian', 'NORP'), ('Chinese', 'NORP'), ('Taiwan', 'GPE'), ('World War III', 'EVENT'), ('WW3', 'ORG')]

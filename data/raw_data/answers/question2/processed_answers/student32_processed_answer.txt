@@ -1,0 +1,34 @@
+Elaborate on the concept of natural selection and its role in the theory of evolution..
+Provide examples of how natural selection can lead to the adaptation of species over time..
+Ans-
+The fields of biology and evolution have come a long way since Charles Darwin published The Origin of Species in 1859..
+Nonetheless, Darwin is celebrated for the big ideas that he got right, including descent with modification and adaptation by natural selection..
+The former refers broadly to the fact that evolution has occurred such that organisms living today are different from their ancestors..
+Natural selection is the evolutionary process that explains the match, or fit,between features of organisms and the environments where they live..
+Jean-Baptiste Lamarck and other natural philosophers had previously put forward the idea of evolution in the general sense of descent with modification..
+And Alfred Russel Wallace, a younger contemporary of Darwin, independently came up with the concept of adaptation by natural selection..
+Neither space nor expertise allows me to do justice to the history of these ideas, except to note that Darwin is better known today than Wallace because Darwin brought to bear an extraordinary range of relevant evidence and insights that have, by and large, stood the test of time..
+When Darwin was rushed at the age of 50 to publish The Origin by virtue of Wallace’s discoveries, 
+he produced a 502-page volume rich with insights and details that he called a mere “abstract” of the great book he had intended to publish..
+Over his remaining years, Darwin published many more books—The Variation of Animals and Plants Under Domestication (1868), The Descent of Man, and Selection in Relation to Sex (1871), and The Expression of the Emotions in Man and Animals (1872) among them—that provided further insights and more evidence concerning his core theories of descent with modification and adaptation by natural selection..
+Lamarck is now known largely for his theory of the inheritance of acquired characteristics..
+While Lamarckian inheritance has been soundly rejected as a general theory of biological inheritance, it seems to have foreshadowed certain special cases in biology in which an environmental agent induces an adaptive genetic change..
+For example, when a lysogenic phage infects a bacterium, the phage’s DNA can integrate into the bacterial chromosome and thereby confer immunity to reinfection by another phage..
+Similarly, CRISPR/Cas (clustered regularly interspaced short palindromic repeats/CRISPR-associated protein) systems allow bacteria and archaea to incorporate bits of DNA from phages and plasmids that provide immunity against later infections [1]..
+Cultural evolution in humans also occurs via acquisition from the environment (by learning) and inheritance that is, in that respect, Lamarckian..
+Certain maternal effects and epigenetic mechanisms are also sometimes said to be Lamarckian..
+However, these are special cases and different from the general theory that Lamarck proposed, which has been supplanted by modern genetics and molecular biology..
+Moreover, these quasi-Lamarckian special cases—at least those that confer clear benefits—presumably evolved by the Darwinian process of adaptation by natural selection..
+But Darwin, too, got some things wrong..
+His proposed mechanism for inheritance involved “gemmules” made throughout the body and then concentrated in the reproductive organs, allowing transmission across generations in a rather Lamarckian manner..
+Darwin also thought the process of evolution was too slow to directly observe..
+In The Origin, he wrote: “We see nothing of these slow changes in progress, until the hand of time has marked the long lapse of ages, and then so imperfect is our view … that we only see that the forms of life are now different from what they formerly were.” This view seems rather surprising, given that The Origin began by discussing the process of domestication and using artificial selection as practiced by plant and animal breeders to inform the theory of natural selection..
+Yet even there, he wrote: “Slow and insensible changes of this kind could never be recognised unless actual measurements or careful drawings of the breeds in question had been made long ago, which might serve for comparison.”
+
+The impact and reach of Darwin’s theories are well reflected in T. H. Huxley’s quip, “How extremely stupid not to have thought of that,” and in the title of a paper by Theodosius Dobzhansky [2]: “Nothing in biology makes sense except in the light of evolution.” However, while zoologists and botanists largely embraced adaptation by natural selection following the rediscovery of Mendelian inheritance and the rise of population genetics leading to the Modern Synthesis, many microbiologists were skeptical of its importance to the organisms they studied..
+For example, I. M. Lewis [3] wrote, “The subject of bacterial variation and heredity has reached an almost hopeless state of confusion … There are many advocates of the Lamarckian mode of bacterial inheritance, while others hold to the view that it is essentially Darwinian.” 
+As a consequence, Julian Huxley [4] excluded bacteria from the Modern Synthesis in 1942, writing “They have no genes in the sense of accurately quantized portions of hereditary substance …”
+
+That changed the very next year, however, when Salvador Luria and Max Delbrück [5] published their fluctuation test, which showed that mutations in E. coli that confer resistance to viruses could occur before exposure..
+That meant that natural selection was responsible for the rise in frequency of the resistant mutants following exposure but not for their mutational origin..
+The replica-plating experiment of Joshua and Esther Lederberg [6] provided another, even more direct, demonstration of the conceptual distinction between the origin of genetic variants by mutation and the fate of those variants, which depended on selection.

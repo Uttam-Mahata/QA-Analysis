@@ -1,0 +1,1 @@
+[('Continental', 'ORG'), ('Earth', 'LOC'), ('the early 20th century', 'DATE'), ('Earth', 'LOC'), ('continental', 'ORG'), ('the Atlantic Ocean', 'LOC'), ('continental', 'ORG'), ('Earth', 'LOC'), ('continental', 'ORG'), ('Earth', 'LOC')]

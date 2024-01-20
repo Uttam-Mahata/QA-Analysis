@@ -1,0 +1,1 @@
+[('Continental', 'ORG'), ('Earth', 'LOC'), ('Alfred Wegener', 'PERSON'), ('1912', 'DATE'), ('South America', 'LOC'), ('Africa', 'LOC'), ('Earth', 'LOC'), ('Continental', 'ORG'), ('Earth', 'LOC'), ('Plate', 'ORG')]

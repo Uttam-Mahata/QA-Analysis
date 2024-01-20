@@ -1,0 +1,1 @@
+[('Machine', 'ORG'), ('three', 'CARDINAL'), ('AI', 'ORG'), ('AI', 'ORG'), ('AI', 'ORG'), ('AI', 'ORG')]

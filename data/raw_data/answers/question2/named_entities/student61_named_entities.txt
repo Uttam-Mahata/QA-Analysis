@@ -1,0 +1,1 @@
+[('winter', 'DATE'), ('today', 'DATE')]

@@ -1,0 +1,1 @@
+[('World War 3', 'EVENT'), ('World War 3', 'EVENT'), ('the United States', 'GPE'), ('China', 'GPE'), ('Russia', 'GPE'), ('the South China Sea', 'LOC'), ('Eastern Europe', 'LOC'), ('4:39 pm', 'TIME'), ('World War 3', 'EVENT')]

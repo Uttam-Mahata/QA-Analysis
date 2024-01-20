@@ -1,0 +1,1 @@
+[('Continental', 'ORG'), ('Earth', 'LOC'), ('Alfred Wegener', 'PERSON'), ('the early 20th century', 'DATE'), ('Pangaea', 'ORG'), ('Wegener', 'ORG'), ('continental', 'ORG'), ('One', 'CARDINAL'), ('South America', 'LOC'), ('Africa', 'LOC'), ('Fossil', 'PERSON'), ('Paleoclimatic', 'LOC'), ('continental', 'ORG'), ('Africa', 'LOC'), ('South America', 'LOC')]

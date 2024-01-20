@@ -1,0 +1,1 @@
+[('Amazon', 'ORG'), ('Twitter', 'PRODUCT')]

@@ -1,0 +1,1 @@
+[('World War 3', 'EVENT'), ('Pizza Protection Pacts', 'WORK_OF_ART'), ('World War 3', 'EVENT')]

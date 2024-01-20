@@ -1,0 +1,1 @@
+[('Renewable Energy Influence', 'WORK_OF_ART'), ('Energy Efficiency Gains: Electric', 'ORG'), ('Battery Production Environmental Concerns', 'ORG'), ('EV', 'ORG'), ('Charging Infrastructure Challenges: The', 'ORG'), ('Range Limitations', 'WORK_OF_ART')]
