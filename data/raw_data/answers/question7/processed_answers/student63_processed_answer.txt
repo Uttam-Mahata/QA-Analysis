@@ -1,14 +1,14 @@
 Relational database management systems (RDBMS) excel at efficient data organization and retrieval through several key methods:
 
-Imagine searching a phone book instead of flipping through every page..
-Indexes act like shortcuts, mapping specific data values to their locations..
-This dramatically speeds up retrieval, letting you find what you need instantly..
-RDBMS enforces data consistency through rules and constraints..
-This ensures accuracy and prevents corruption, eliminating the risk of conflicting information or missing data..
-Imagine a world where numbers always add up and every record has a clear owner..
-Sensitive data needs protection..
-RDBMS allows granular control over who can access and modify data, ensuring unauthorized users remain locked out..
-This safeguards crucial information and prevents accidental or malicious tampering..
-As data volumes grow, RDBMS keeps pace..
-Its structured approach and efficient retrieval methods handle large datasets without breaking a sweat..
+Imagine searching a phone book instead of flipping through every page.
+Indexes act like shortcuts, mapping specific data values to their locations.
+This dramatically speeds up retrieval, letting you find what you need instantly.
+RDBMS enforces data consistency through rules and constraints.
+This ensures accuracy and prevents corruption, eliminating the risk of conflicting information or missing data.
+Imagine a world where numbers always add up and every record has a clear owner.
+Sensitive data needs protection.
+RDBMS allows granular control over who can access and modify data, ensuring unauthorized users remain locked out.
+This safeguards crucial information and prevents accidental or malicious tampering.
+As data volumes grow, RDBMS keeps pace.
+Its structured approach and efficient retrieval methods handle large datasets without breaking a sweat.
 Imagine a library that expands gracefully, accommodating ever-growing knowledge without losing order.

@@ -55,7 +55,7 @@ def process_student_answers():
                 raw_answer = answer_file.read()
 
             # Starting a new line after each full stop
-            processed_answer = '.\n'.join(sent_tokenize(raw_answer))
+            processed_answer = '\n'.join(sent_tokenize(raw_answer))
 
             # Save the processed answer to a file
             processed_answer_file_path = os.path.join(processed_folder, f'student{j}_processed_answer.txt')
@@ -65,18 +65,18 @@ def process_student_answers():
             # Perform POS tagging
             pos_tags = pos_tagging(processed_answer)
 
-            # Save POS tags to a file
-            pos_tags_file_path = os.path.join(pos_tags_folder, f'student{j}_pos_tags.txt')
-            with open(pos_tags_file_path, 'w', encoding='utf-8') as pos_tags_file:
-                pos_tags_file.write(str(pos_tags))
+            # # Save POS tags to a file
+            # pos_tags_file_path = os.path.join(pos_tags_folder, f'student{j}_pos_tags.txt')
+            # with open(pos_tags_file_path, 'w', encoding='utf-8') as pos_tags_file:
+            #     pos_tags_file.write(str(pos_tags))
 
             # Perform named entity extraction
             named_entities = named_entity_extraction(processed_answer)
 
-            # Save named entities to a file
-            named_entities_file_path = os.path.join(named_entities_folder, f'student{j}_named_entities.txt')
-            with open(named_entities_file_path, 'w', encoding='utf-8') as named_entities_file:
-                named_entities_file.write(str(named_entities))
+            # # Save named entities to a file
+            # named_entities_file_path = os.path.join(named_entities_folder, f'student{j}_named_entities.txt')
+            # with open(named_entities_file_path, 'w', encoding='utf-8') as named_entities_file:
+            #     named_entities_file.write(str(named_entities))
 
     print('POS tagging and named entity extraction using spaCy completed successfully.')
 

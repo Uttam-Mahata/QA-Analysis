@@ -1,4 +1,4 @@
-Explain the concept of continental drift and provide evidence supporting this theory..
+Explain the concept of continental drift and provide evidence supporting this theory.
 Ans-
 Continental drift is the hypothesis that Earth's continents have moved over geologic time, appearing to have "drifted" across the ocean bed
 This idea was first proposed by Alfred Wegener in the early 20th century
@@ -9,6 +9,6 @@ Identical rocks: Rocks of the same age and type are found on both sides of the A
 Mountain ranges: Mountain ranges with the same rock types and structures are found on different continents, indicating a shared geological history
 Ancient fossils: Identical species of plants and animals adapted to living on land or in freshwater are found on either side of the marine barriers
 Distribution of ancient climatic zones: The locations of ancient climatic zones provide evidence for the movement of continents
-Despite the strong evidence, the theory of continental drift was initially met with skepticism..
+Despite the strong evidence, the theory of continental drift was initially met with skepticism.
 However, the discovery of apparent polar wander renewed scientists' interest in continental drift
 The concept of continental drift served as a crucial building block for the theory of plate tectonics, which incorporates it.

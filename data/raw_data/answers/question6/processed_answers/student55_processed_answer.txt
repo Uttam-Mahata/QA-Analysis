@@ -1,7 +1,7 @@
-Machine learning is a subfield of artificial intelligence that focuses on developing statistical algorithms that can perform tasks without explicit programming..
-Machine learning algorithms can be broadly classified into three types: supervised learning, unsupervised learning, and reinforcement learning..
-Supervised learning involves learning from labeled data, while unsupervised learning deals with unlabeled data..
-Intelligent systems, which are technologically advanced machines, can perceive and respond to their environment..
-They can be applied in various fields, such as factory automation, field and service robotics, assistive robotics, military applications, medical care, education, entertainment etc..
-Challenges in intelligent systems include handling large amounts of data, ensuring the reliability and accuracy of predictions, managing the complexity of models, and addressing societal and economic implications of AI and data analytics..
+Machine learning is a subfield of artificial intelligence that focuses on developing statistical algorithms that can perform tasks without explicit programming.
+Machine learning algorithms can be broadly classified into three types: supervised learning, unsupervised learning, and reinforcement learning.
+Supervised learning involves learning from labeled data, while unsupervised learning deals with unlabeled data.
+Intelligent systems, which are technologically advanced machines, can perceive and respond to their environment.
+They can be applied in various fields, such as factory automation, field and service robotics, assistive robotics, military applications, medical care, education, entertainment etc.
+Challenges in intelligent systems include handling large amounts of data, ensuring the reliability and accuracy of predictions, managing the complexity of models, and addressing societal and economic implications of AI and data analytics.
 Addressing these challenges requires interdisciplinary research, collaboration, and continuous improvement in machine learning and artificial intelligence techniques.

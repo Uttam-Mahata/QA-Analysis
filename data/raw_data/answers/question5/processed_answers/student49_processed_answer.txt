@@ -1,9 +1,9 @@
-Discuss the significance of data science in extracting valuable insights from large datasets..
-Provide an example of a real-world application of data science..
+Discuss the significance of data science in extracting valuable insights from large datasets.
+Provide an example of a real-world application of data science.
 Ans-
-Data science plays a crucial role in extracting valuable insights from large datasets, enabling informed decision-making and driving innovation..
-By combining statistics, programming, and domain knowledge, data science helps businesses and organizations make sense of complex data and uncover meaningful patterns and trends..
-This process is essential for gaining a competitive edge, optimizing processes, and identifying opportunities..
-One real-world application of data science is in the field of big data analytics, where organizations use advanced analytics tools and algorithms to extract insights, patterns, and trends from vast and complex datasets..
-For example, by analyzing big data, businesses can uncover valuable information that may have otherwise remained hidden, leading to data-driven decisions and improved understanding of their operations and customers..
+Data science plays a crucial role in extracting valuable insights from large datasets, enabling informed decision-making and driving innovation.
+By combining statistics, programming, and domain knowledge, data science helps businesses and organizations make sense of complex data and uncover meaningful patterns and trends.
+This process is essential for gaining a competitive edge, optimizing processes, and identifying opportunities.
+One real-world application of data science is in the field of big data analytics, where organizations use advanced analytics tools and algorithms to extract insights, patterns, and trends from vast and complex datasets.
+For example, by analyzing big data, businesses can uncover valuable information that may have otherwise remained hidden, leading to data-driven decisions and improved understanding of their operations and customers.
 The significance of data science in today's data-driven world is evident, as it empowers organizations to harness the power of data and drive growth and innovation

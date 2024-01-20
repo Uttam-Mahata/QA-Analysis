@@ -1,8 +1,8 @@
-Within a Relational Database Management System (RDBMS), the synergy of key components optimizes the organization and retrieval of data..
-Tables serve as the core structure, delineating information into rows and columns..
-Rows encapsulate individual records, while columns define specific attributes..
-Establishing relationships between tables are keys—primary keys for unique identification and foreign keys for inter-table connections, ensuring data coherence..
-Indexes act as accelerators, expediting data retrieval by offering swift access points..
-User interactions unfold through SQL queries, enabling seamless data manipulation and retrieval..
-This collaborative integration of components empowers the RDBMS to systematically manage extensive datasets and intricate relationships..
+Within a Relational Database Management System (RDBMS), the synergy of key components optimizes the organization and retrieval of data.
+Tables serve as the core structure, delineating information into rows and columns.
+Rows encapsulate individual records, while columns define specific attributes.
+Establishing relationships between tables are keys—primary keys for unique identification and foreign keys for inter-table connections, ensuring data coherence.
+Indexes act as accelerators, expediting data retrieval by offering swift access points.
+User interactions unfold through SQL queries, enabling seamless data manipulation and retrieval.
+This collaborative integration of components empowers the RDBMS to systematically manage extensive datasets and intricate relationships.
 Fundamentally grounded in relational model principles, this system excels in maintaining structured data and facilitating efficient retrieval processes.

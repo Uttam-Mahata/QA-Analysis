@@ -1,12 +1,12 @@
-A Relational Database Management System (RDBMS) consists of several key components that work together to facilitate efficient data organization and retrieval..
-The main components include tables, relationships, SQL (Structured Query Language), indexes, and transactions..
-Tables are the fundamental building blocks of an RDBMS, representing entities or objects in the database..
-Each table consists of rows and columns, where rows correspond to individual records and columns represent attributes or fields..
-Relationships establish connections between tables, defining how data in one table is related to data in another..
-This enables the establishment of meaningful associations between different entities, supporting data integrity and reducing redundancy..
-SQL is a standardized language used to interact with relational databases..
-It allows users to define, manipulate, and query data..
-SQL queries provide a powerful and flexible means to retrieve specific information from the database efficiently..
-ndexes are crucial for optimizing data retrieval..
-They act as data structures that enhance the speed of data retrieval operations by creating a quick lookup mechanism..
+A Relational Database Management System (RDBMS) consists of several key components that work together to facilitate efficient data organization and retrieval.
+The main components include tables, relationships, SQL (Structured Query Language), indexes, and transactions.
+Tables are the fundamental building blocks of an RDBMS, representing entities or objects in the database.
+Each table consists of rows and columns, where rows correspond to individual records and columns represent attributes or fields.
+Relationships establish connections between tables, defining how data in one table is related to data in another.
+This enables the establishment of meaningful associations between different entities, supporting data integrity and reducing redundancy.
+SQL is a standardized language used to interact with relational databases.
+It allows users to define, manipulate, and query data.
+SQL queries provide a powerful and flexible means to retrieve specific information from the database efficiently.
+ndexes are crucial for optimizing data retrieval.
+They act as data structures that enhance the speed of data retrieval operations by creating a quick lookup mechanism.
 Indexes are typically created on columns that are frequently used in search conditions.

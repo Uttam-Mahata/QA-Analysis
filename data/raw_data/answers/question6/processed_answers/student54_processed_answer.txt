@@ -1,9 +1,9 @@
-Machine learning is a subfield of artificial intelligence that focuses on developing statistical algorithms that can perform tasks without explicit programming..
-The fundamental principles of machine learning contribute to the development of intelligent systems by enabling them to process large amounts of data, gain insights..
-Then it make more informed decisions based on the resulting analysis based on the behaviour of the data..
-Representation: This refers to how the model looks like and how knowledge is represented..
-It involves organizing data and selecting appropriate features for the task at hand..
-Evaluation: This component involves assessing the performance of the model by comparing its predictions or classifications with the actual labels or values..
-Evaluation functions, such as accuracy or squared error, are used to measure the model's performance..
-Optimization: This process aims to find good models by tuning hyperparameters, selecting appropriate algorithms, and improving the model's overall performance..
+Machine learning is a subfield of artificial intelligence that focuses on developing statistical algorithms that can perform tasks without explicit programming.
+The fundamental principles of machine learning contribute to the development of intelligent systems by enabling them to process large amounts of data, gain insights.
+Then it make more informed decisions based on the resulting analysis based on the behaviour of the data.
+Representation: This refers to how the model looks like and how knowledge is represented.
+It involves organizing data and selecting appropriate features for the task at hand.
+Evaluation: This component involves assessing the performance of the model by comparing its predictions or classifications with the actual labels or values.
+Evaluation functions, such as accuracy or squared error, are used to measure the model's performance.
+Optimization: This process aims to find good models by tuning hyperparameters, selecting appropriate algorithms, and improving the model's overall performance.
 Optimization is crucial for ensuring that the model can make accurate and reliable predictions.

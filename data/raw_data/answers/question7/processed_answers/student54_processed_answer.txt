@@ -1,10 +1,10 @@
-A relational database management system (RDBMS) is a type of database management system (DBMS) that organizes data into tables with rows and columns..
-The data in each table is related to the data in other tables through relationships, which are established using foreign keys..
-This allows users to quickly and easily retrieve the data they need..
-RDBMS are used to store product information, customer data, and order history..
-RDBMSs are used to store financial data, such as transaction records and customer accounts..
-RDBMSs are used to store patient data, such as medical records and appointment information..
-RDBMSs are used to store product information, inventory levels, and production data..
-RDBMSs enforce data integrity rules, which help to ensure that the data in the database is accurate and consistent..
-Data security: RDBMSs provide a variety of security features, such as access control and encryption, to help protect the data from unauthorized access..
+A relational database management system (RDBMS) is a type of database management system (DBMS) that organizes data into tables with rows and columns.
+The data in each table is related to the data in other tables through relationships, which are established using foreign keys.
+This allows users to quickly and easily retrieve the data they need.
+RDBMS are used to store product information, customer data, and order history.
+RDBMSs are used to store financial data, such as transaction records and customer accounts.
+RDBMSs are used to store patient data, such as medical records and appointment information.
+RDBMSs are used to store product information, inventory levels, and production data.
+RDBMSs enforce data integrity rules, which help to ensure that the data in the database is accurate and consistent.
+Data security: RDBMSs provide a variety of security features, such as access control and encryption, to help protect the data from unauthorized access.
 RDBMSs can be scaled to accommodate large amounts of data and aslo be used to store a wide variety of data types.
