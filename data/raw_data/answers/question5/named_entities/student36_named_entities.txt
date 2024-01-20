@@ -1,0 +1,1 @@
+[('1', 'CARDINAL'), ('First', 'ORDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('tomorrow', 'DATE')]

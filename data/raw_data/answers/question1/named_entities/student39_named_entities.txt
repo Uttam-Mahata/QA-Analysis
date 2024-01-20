@@ -1,0 +1,1 @@
+[('continental', 'ORG'), ('German', 'NORP'), ('Alfred Wegener', 'PERSON'), ('Earth', 'LOC'), ('Fossil', 'PERSON'), ('Earth', 'LOC'), ('continental', 'ORG'), ('the 1960s', 'DATE'), ('Earth', 'LOC')]

@@ -1,0 +1,1 @@
+[("Charles Darwin's", 'PERSON'), ("the peppered moth's", 'ORG'), ('the Industrial Revolution', 'EVENT')]

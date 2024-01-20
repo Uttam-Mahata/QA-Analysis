@@ -1,0 +1,1 @@
+[('zero', 'CARDINAL'), ('Governments', 'ORG'), ('EV', 'ORG')]

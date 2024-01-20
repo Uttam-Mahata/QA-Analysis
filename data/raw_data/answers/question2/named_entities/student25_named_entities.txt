@@ -1,0 +1,1 @@
+[("Charles Darwin's", 'PERSON'), ("The Industrial Revolution's", 'EVENT')]

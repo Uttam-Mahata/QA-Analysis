@@ -1,0 +1,1 @@
+[('World War 3', 'EVENT'), ('World War 3', 'EVENT'), ('third', 'ORDINAL')]

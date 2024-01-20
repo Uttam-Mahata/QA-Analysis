@@ -1,0 +1,1 @@
+[('Imagine', 'FAC'), ('1', 'CARDINAL'), ('Students', 'WORK_OF_ART'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('Data Types:*', 'ORG'), ('RDBMS', 'ORG'), ('4', 'CARDINAL')]

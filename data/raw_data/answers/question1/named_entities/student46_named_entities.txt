@@ -1,0 +1,1 @@
+[('continental', 'ORG'), ('Continental', 'ORG'), ('the early 20th century', 'DATE'), ('Pangea', 'PRODUCT'), ('Continental', 'ORG'), ('South America', 'LOC'), ('Africa', 'LOC'), ('Fossil', 'PERSON'), ('South America', 'LOC'), ('Africa', 'LOC'), ('continental movement', 'ORG'), ('continental', 'ORG')]

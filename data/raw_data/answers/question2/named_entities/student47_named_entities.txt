@@ -1,0 +1,1 @@
+[('one', 'CARDINAL'), ('Earth', 'LOC'), ('Darwin', 'PERSON'), ('his day', 'DATE'), ('Darwin', 'PERSON'), ('his day', 'DATE'), ('Darwin', 'PERSON'), ('Earth', 'LOC'), ('one', 'CARDINAL'), ('Today', 'DATE'), ('today', 'DATE')]

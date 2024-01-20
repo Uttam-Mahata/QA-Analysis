@@ -1,0 +1,1 @@
+[('Joes', 'PERSON'), ('healthcare', 'ORG'), ('Limited', 'ORG'), ('Crumbs', 'PERSON'), ('only half', 'CARDINAL'), ('Bake', 'PERSON')]

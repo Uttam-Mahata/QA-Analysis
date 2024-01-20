@@ -1,0 +1,1 @@
+[('Earth', 'LOC'), ('Pangaea', 'ORG')]

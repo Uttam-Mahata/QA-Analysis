@@ -1,0 +1,1 @@
+[('winters', 'DATE'), ('Earth', 'LOC')]

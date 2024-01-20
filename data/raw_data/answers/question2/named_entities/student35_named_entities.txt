@@ -1,0 +1,1 @@
+[('## Natural Selection', 'MONEY'), ('England', 'GPE'), ('the Industrial Revolution', 'EVENT'), ('Darwin', 'PERSON'), ('the Galapagos Islands', 'LOC'), ('Charles Darwin', 'PERSON'), ('Earth', 'LOC')]

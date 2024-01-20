@@ -1,0 +1,8 @@
+Relational database management systems (RDBMS) facilitate efficient data organization and retrieval.It provides a structured and easily accessible format for storing and managing data, as well as a consistent way to query and manipulate the data..
+The main components of an RDBMS include tables, records, columns, primary keys, domains, schema, and keys..
+Tables are structured sets of data organized in rows and columns, used to store and manage data efficiently..
+Records represent individual instances of data stored within a table, with each row containing a unique identifier and related attributes..
+Columns define the structure of a table by specifying the type of data each entry will hold, allowing for systematic storage and organization of data..
+Primary keys are unique identifiers for each row in a table, ensuring data integrity and consistency..
+Schema is a logical structure that defines the organization and relationships of data in a database, including tables, columns, and constraints..
+Keys, such as primary keys, are unique identifiers for each row in a table, ensuring data integrity and consistency.

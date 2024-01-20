@@ -1,0 +1,1 @@
+[('the Industrial Revolution', 'EVENT'), ('Extravagant Soap Bubble Utopias', 'WORK_OF_ART'), ('Bubble Workshops', 'WORK_OF_ART'), ('Bubble Alchemy', 'WORK_OF_ART'), ('Bubble Cities', 'WORK_OF_ART'), ('Transportation', 'ORG'), ('Bubble Carriages', 'WORK_OF_ART'), ('Bubble Contests', 'WORK_OF_ART'), ('the Industrial Revolution', 'EVENT')]

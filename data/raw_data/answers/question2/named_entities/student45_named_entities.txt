@@ -1,0 +1,1 @@
+[('Species', 'PERSON'), ('one', 'CARDINAL'), ('Whales', 'PERSON'), ('Humans', 'ORG'), ('millions of years', 'DATE')]

@@ -1,0 +1,1 @@
+[('Charles Darwin', 'PERSON'), ('Alfred Russel Wallace', 'PERSON'), ('the Industrial Revolution', 'EVENT'), ('Darwin', 'PERSON'), ('the Galápagos Islands', 'LOC')]

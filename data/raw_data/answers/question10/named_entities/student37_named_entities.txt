@@ -1,0 +1,1 @@
+[('Coal', 'PERSON'), ('two', 'CARDINAL'), ('EV', 'ORG')]

@@ -1,0 +1,1 @@
+[('The French Revolution', 'EVENT'), ('two centuries', 'DATE'), ('the 21st century', 'DATE'), ('the Ancien Regime', 'FAC'), ('The Declaration of the Rights of Man and of the Citizen', 'WORK_OF_ART'), ('European', 'NORP'), ('Today', 'DATE'), ('the French Revolution', 'EVENT')]

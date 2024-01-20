@@ -1,0 +1,9 @@
+Discuss the significance of data science in extracting valuable insights from large datasets..
+Provide an example of a real-world application of data science..
+Ans-
+Data science emerges as a transformative force, unlocking profound insights from extensive datasets..
+Its essence lies in deciphering intricate data patterns, enabling informed decision-making across diverse sectors..
+In healthcare, analysis of electronic health records facilitates personalized medicine and informs public health strategies..
+Beyond healthcare, data science reshapes finance, marketing, and technology by predicting market trends, optimizing strategies, and enhancing user experiences.The pivotal role of data science unfolds in distilling valuable insights from massive datasets, fostering data-driven decision-making..
+In healthcare, electronic health records become a treasure trove, guiding personalized medicine and proactive public health measures..
+The impact extends into finance, marketing, and technology, optimizing strategies, predicting trends, and elevating user experiences

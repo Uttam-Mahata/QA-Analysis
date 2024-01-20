@@ -1,0 +1,1 @@
+[('1', 'CARDINAL'), ('Tables as Bookshelves:*', 'ORG'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('SQL', 'ORG'), ('SQL', 'ORG'), ('5', 'CARDINAL'), ('Data Consistency:*', 'ORG'), ('6', 'CARDINAL')]

@@ -1,0 +1,1 @@
+[('The Industrial Revolution', 'EVENT'), ('the "Great Juggling Extravaganza', 'EVENT'), ('Juggling Pavilions', 'WORK_OF_ART'), ('Acrobatic Inventions', 'WORK_OF_ART'), ('Circus Caravans', 'WORK_OF_ART'), ('one', 'CARDINAL'), ('Transportation', 'ORG'), ('Cannonball Catapults', 'WORK_OF_ART'), ('Clown Court', 'ORG'), ('the Industrial Revolution', 'EVENT')]

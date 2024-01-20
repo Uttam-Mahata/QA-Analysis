@@ -1,0 +1,1 @@
+[('World War III', 'EVENT'), ('U.S.', 'GPE'), ('China', 'GPE'), ('Russia', 'GPE'), ('Territorial Disputes: Ongoing disputes', 'WORK_OF_ART'), ('the South China Sea', 'LOC'), ('Kashmir', 'LOC'), ('the Taiwan Strait', 'LOC'), ('Cyber Warfare: Heightened', 'PERSON'), ('the Middle East', 'LOC'), ('South Asia', 'LOC'), ('Global Health Crises: Pandemics', 'ORG')]

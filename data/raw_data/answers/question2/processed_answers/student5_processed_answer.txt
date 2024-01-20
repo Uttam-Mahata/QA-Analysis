@@ -1,0 +1,11 @@
+Natural selection is a fundamental mechanism in the theory of evolution, proposed by Charles Darwin and Alfred Russel Wallace in the 19th century..
+It operates on the principle that individuals within a population vary in traits, and those traits that confer advantages in a given environment are more likely to be passed on to future generations..
+Over time, this process leads to the adaptation of species to their specific ecological niches..
+Example 1: Consider the classic case of the peppered moth during the Industrial Revolution in England..
+The increase in industrial pollution darkened tree trunks, favoring dark-colored moths over light-colored ones as they were better camouflaged from predators..
+Example 2: The long neck of giraffes is another illustration of natural selection..
+Giraffes with slightly longer necks could reach higher foliage, leading to better nutrition and increased survival rates, ultimately passing on the trait of longer necks to their offspring..
+Example 3: In the context of antibiotic resistance, bacteria that possess genetic variations conferring resistance to antibiotics are more likely to survive and reproduce in the presence of these drugs, leading to the evolution of antibiotic-resistant strains..
+Example 4: The beak variations in Darwin's finches on the Galápagos Islands showcase adaptive evolution..
+Different beak shapes have evolved based on the availability of specific food sources, such as seeds or insects, influencing the finches' ability to thrive in diverse environments..
+Natural selection, acting on heritable traits, drives the gradual accumulation of adaptations within populations, contributing to the diversity and complexity of life on Earth.

@@ -1,0 +1,1 @@
+[('A Relational Database Management System', 'ORG'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('5', 'CARDINAL'), ('6', 'CARDINAL'), ('7', 'CARDINAL'), ('SQL', 'PERSON'), ('Structured Query Language', 'ORG'), ('SQL', 'ORG'), ('SELECT', 'ORG'), ('INSERT', 'ORG'), ('UPDATE', 'ORG'), ('DELETE', 'ORG'), ('SQL', 'ORG')]

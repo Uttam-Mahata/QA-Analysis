@@ -1,0 +1,1 @@
+[('World War 3', 'EVENT'), ('the "Cosmic Quokka', 'ORG'), ('the "Interstellar Iguana', 'ORG'), ('the "Quokka Consortium', 'ORG'), ('the "Iguana Coalition', 'ORG'), ('Mascot Militias', 'WORK_OF_ART'), ('the "Extraterrestrial Mascot Olympics', 'EVENT'), ('Mascot Mayhem', 'WORK_OF_ART'), ('quokkas', 'PERSON')]

@@ -1,0 +1,1 @@
+[('1', 'CARDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('England', 'GPE'), ('Earth', 'LOC')]

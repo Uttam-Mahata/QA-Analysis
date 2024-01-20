@@ -1,0 +1,16 @@
+Elaborate on the concept of natural selection and its role in the theory of evolution..
+Provide examples of how natural selection can lead to the adaptation of species over time..
+Ans-
+Natural selection, a fundamental concept in Charles Darwin's theory of evolution, elucidates how species undergo adaptive transformations across generations..
+At its core, natural selection hinges on the differential survival and reproduction of individuals within a population based on their inherited traits..
+In practical terms, organisms endowed with advantageous traits that enhance their survival and reproductive success in a given environment are more apt to transmit these traits to their offspring..
+Over successive generations, this process results in the gradual accumulation of favorable traits within a population, fostering the adaptation of the species to its specific ecological niche..
+An illustrative example of natural selection unfolds in the evolutionary tale of the peppered moth (Biston betularia) during England's Industrial Revolution..
+Initially dominated by light-colored moths providing effective camouflage against pale tree bark, industrial pollution altered the landscape..
+Dark-colored moths, better suited to soot-covered trees, gained a survival advantage, leading to an increase in their prevalence over time—a testament to natural selection responding to environmental shifts..
+Another compelling case is the emergence of antibiotic resistance in bacteria..
+When exposed to antibiotics, vulnerable bacteria succumb, while a minority with innate resistance traits survive..
+These resistant bacteria proliferate, passing on their resistance to subsequent generations..
+With continued antibiotic use, the population gradually tilts towards resistance, underscoring how natural selection operates even at the microscopic level..
+In both scenarios, the common thread lies in the fact that individuals harboring traits advantageous for survival and reproduction in a specific environment contribute more significantly to the next generation..
+This dynamic process exemplifies the pivotal role of natural selection in steering the evolutionary course, ensuring the continual adaptation of species to their ever-changing surroundings.

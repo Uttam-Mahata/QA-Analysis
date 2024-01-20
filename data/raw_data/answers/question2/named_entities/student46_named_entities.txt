@@ -1,0 +1,1 @@
+[('Survive', 'ORG'), ('Peppered', 'PERSON'), ('England', 'GPE'), ('the Industrial Revolution', 'EVENT'), ('Antibiotic', 'NORP'), ('Beak', 'PERSON'), ('Darwin', 'PERSON'), ('the Galapagos Islands', 'LOC'), ('nectar', 'PERSON'), ('Earth', 'LOC'), ('millions', 'CARDINAL')]

@@ -1,0 +1,1 @@
+[('Charles Darwin', 'PERSON'), ('first', 'ORDINAL'), ('second', 'ORDINAL'), ('Thirdly', 'ORDINAL')]

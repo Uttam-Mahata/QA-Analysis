@@ -1,0 +1,1 @@
+[('One', 'CARDINAL'), ('zero', 'CARDINAL'), ('the days', 'DATE'), ('Reliance', 'ORG'), ('daily', 'DATE')]

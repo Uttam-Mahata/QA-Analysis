@@ -1,0 +1,1 @@
+[('ACID', 'ORG'), ('Isolation, Durability', 'ORG'), ('SQL', 'ORG')]

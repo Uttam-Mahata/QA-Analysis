@@ -1,0 +1,1 @@
+[('Imagine', 'WORK_OF_ART'), ('healthcare', 'ORG')]
