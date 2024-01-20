@@ -1,1 +1,11 @@
- 
+The are many main components of a relational database management system (RDBMS).
+
+Tables are structured sets of data organized in rows and columns, used to store and manage data efficiently.
+Records represent individual instances of data stored within a table, with each row containing a unique identifier (primary key) and related attributes (columns).
+
+Columns define the structure of a table by specifying the type of data each entry will hold, allowing for systematic storage and organization of data.
+
+A primary key is a unique identifier for each row in a table, ensuring no two rows have the same identifier and providing a consistent way to reference specific records.
+
+Domains are a set of permitted values for an attribute in a table, restricting the types of data that can be stored in a specific column.
+A schema is a logical structure that defines the organization and relationships of data in a database, including tables, columns, and constraints.
