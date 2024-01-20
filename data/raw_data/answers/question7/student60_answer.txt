@@ -1,1 +1,9 @@
- 
+A Relational Database Management System (RDBMS) comprises several key components that work together to facilitate efficient data organization and retrieval.
+
+Constraints, such as primary key, unique, and foreign key constraints, help maintain data accuracy and consistency. They prevent the insertion of invalid or duplicate data, ensuring the reliability of the database.
+
+Structured Query Language (SQL) is the standardized language used to interact with RDBMS. SQL allows users to define, manipulate, and query the data in the database, providing a powerful and flexible means of working with relational databases.
+
+RDBMS supports transactions, which are sequences of one or more SQL statements executed as a single unit. This ensures the atomicity, consistency, isolation, and durability (ACID) properties of database transactions, preventing data corruption and maintaining reliability.
+
+RDBMS incorporates mechanisms to manage concurrent access to the database by multiple users. This includes features like locking and isolation levels to prevent conflicts and maintain data integrity in a multi-user environment.
