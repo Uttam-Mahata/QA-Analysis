@@ -1,0 +1,9 @@
+S1: Relational Database Management System: ORG
+S2: 
+S3: 
+S4: Structured Query Language: ORG, SQL: ORG
+S5: SQL: ORG
+S6: one: CARDINAL, SQL: ORG
+S7: ACID: ORG
+S8: 
+S9: 

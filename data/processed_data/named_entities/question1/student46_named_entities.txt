@@ -1,0 +1,8 @@
+S1: continental: ORG
+S2: Continental: ORG, the early 20th century: DATE, Pangea: PRODUCT
+S3: 
+S4: Continental: ORG, South America: LOC, Africa: LOC
+S5: Fossil: PERSON, South America: LOC, Africa: LOC
+S6: 
+S7: 
+S8: continental: ORG

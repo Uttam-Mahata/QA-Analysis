@@ -1,0 +1,34 @@
+S1: Discuss: VERB, the: DET, significance: NOUN, of: ADP, data: NOUN, science: NOUN, in: ADP, extracting: VERB, valuable: ADJ, insights: NOUN, from: ADP, large: ADJ, datasets: NOUN, .: PUNCT
+S2: Provide: VERB, an: DET, example: NOUN, of: ADP, a: DET, real: ADJ, -: PUNCT, world: NOUN, application: NOUN, of: ADP, data: NOUN, science: NOUN, .: PUNCT
+S3: Ans-: CCONJ, 
+: SPACE, Imagine: VERB, you: PRON, 're: AUX, holding: VERB, a: DET, giant: ADJ, bag: NOUN, of: ADP, mixed: ADJ, -: PUNCT, up: ADP, candies: NOUN, –: PUNCT, chocolate: NOUN, ,: PUNCT, gummies: NOUN, ,: PUNCT, lollipops: VERB, ,: PUNCT, you: PRON, name: VERB, it: PRON, .: PUNCT
+S4: You: PRON, want: VERB, to: PART, know: VERB, how: SCONJ, many: ADJ, of: ADP, each: DET, type: NOUN, you: PRON, have: VERB, ,: PUNCT, but: CCONJ, sorting: VERB, them: PRON, by: ADP, hand: NOUN, would: AUX, take: VERB, forever: ADV, !: PUNCT
+S5: That: PRON, 's: AUX, where: SCONJ, data: NOUN, science: NOUN, comes: VERB, in: ADV, .: PUNCT
+S6: It: PRON, 's: AUX, like: ADP, a: DET, smart: ADJ, candy: NOUN, sorter: NOUN, ,: PUNCT, using: VERB, clever: ADJ, tricks: NOUN, to: PART, quickly: ADV, understand: VERB, what: PRON, 's: AUX, inside: ADV, .: PUNCT
+S7: Here: ADV, 's: AUX, how: SCONJ, it: PRON, works: VERB, :: PUNCT, 
+
+: SPACE, 1: NUM, .: PUNCT
+S8: *: PUNCT, *: PUNCT, Dump: VERB, it: PRON, all: PRON, in: ADP, :*: PROPN, *: PROPN, First: ADV, ,: PUNCT, you: PRON, pour: VERB, the: DET, whole: ADJ, bag: NOUN, into: ADP, a: DET, special: ADJ, machine: NOUN, .: PUNCT
+S9: This: DET, machine: NOUN, can: AUX, read: VERB, information: NOUN, from: ADP, all: DET, kinds: NOUN, of: ADP, data: NOUN, ,: PUNCT, like: ADP, numbers: NOUN, from: ADP, sensors: NOUN, ,: PUNCT, words: NOUN, from: ADP, tweets: NOUN, ,: PUNCT, or: CCONJ, pictures: NOUN, from: ADP, cameras: NOUN, .: PUNCT
+S10: 2: X, .: PUNCT
+S11: *: PUNCT, *: PUNCT, Separate: VERB, the: DET, sweet: ADJ, stuff: NOUN, :*: PROPN, *: PUNCT, The: DET, machine: NOUN, uses: VERB, its: PRON, sorting: VERB, skills: NOUN, to: AUX, group: VERB, similar: ADJ, candies: NOUN, together: ADV, .: PUNCT
+S12: It: PRON, might: AUX, look: VERB, for: ADP, patterns: NOUN, ,: PUNCT, like: ADP, color: NOUN, ,: PUNCT, weight: NOUN, ,: PUNCT, or: CCONJ, even: ADV, taste: VERB, (: PUNCT, if: SCONJ, it: PRON, 's: AUX, a: DET, super: ADV, advanced: ADJ, machine: NOUN, !: PUNCT, ): PUNCT, .: PUNCT
+S13: 3: X, .: PUNCT
+S14: *: PUNCT, *: PUNCT, Count: VERB, the: DET, goodies: NOUN, :*: PUNCT, *: PUNCT, Once: SCONJ, the: DET, candies: NOUN, are: AUX, sorted: VERB, ,: PUNCT, the: DET, machine: NOUN, can: AUX, easily: ADV, count: VERB, how: SCONJ, many: ADJ, of: ADP, each: DET, type: NOUN, you: PRON, have: VERB, .: PUNCT
+S15: This: PRON, gives: VERB, you: PRON, a: DET, clear: ADJ, picture: NOUN, of: ADP, what: PRON, 's: AUX, in: ADP, the: DET, bag: NOUN, .: PUNCT
+S16: This: DET, ": PUNCT, candy: NOUN, sorting: NOUN, ": PUNCT, analogy: NOUN, is: AUX, n't: PART, just: ADV, for: ADP, sweets: NOUN, !: PUNCT
+S17: Data: NOUN, science: NOUN, works: VERB, with: ADP, all: DET, kinds: NOUN, of: ADP, information: NOUN, ,: PUNCT, not: PART, just: ADV, candy: NOUN, .: PUNCT
+S18: It: PRON, helps: VERB, us: PRON, understand: VERB, things: NOUN, like: ADP, :: PUNCT, 
+
+: SPACE, *: PUNCT, *: PUNCT, *: PUNCT, How: SCONJ, many: ADJ, people: NOUN, use: VERB, a: DET, certain: ADJ, app: NOUN, ?: PUNCT
+S19: *: PUNCT, *: PUNCT, By: ADP, analyzing: VERB, data: NOUN, from: ADP, downloads: NOUN, and: CCONJ, usage: NOUN, ,: PUNCT, data: NOUN, science: NOUN, can: AUX, tell: VERB, us: PRON, how: SCONJ, popular: ADJ, an: DET, app: NOUN, is: AUX, .: PUNCT
+S20: *: PUNCT, *: PUNCT, *: PUNCT, What: DET, movies: NOUN, are: AUX, people: NOUN, watching: VERB, ?: PUNCT
+S21: *: PUNCT, *: PUNCT, Streaming: ADJ, services: NOUN, use: VERB, data: NOUN, science: NOUN, to: PART, recommend: VERB, movies: NOUN, you: PRON, might: AUX, like: VERB, based: VERB, on: ADP, what: PRON, you: PRON, 've: AUX, watched: VERB, before: ADV, .: PUNCT
+S22: *: PUNCT, *: PUNCT, *: PUNCT, What: PRON, 's: AUX, the: DET, weather: NOUN, like: ADP, tomorrow: NOUN, ?: PUNCT
+S23: *: PUNCT, *: PUNCT, By: ADP, analyzing: VERB, data: NOUN, from: ADP, weather: NOUN, stations: NOUN, around: ADP, the: DET, world: NOUN, ,: PUNCT, data: NOUN, science: NOUN, can: AUX, predict: VERB, the: DET, weather: NOUN, with: ADP, surprising: ADJ, accuracy: NOUN, .: PUNCT
+S24: So: ADV, ,: PUNCT, data: NOUN, science: NOUN, is: AUX, like: ADP, a: DET, powerful: ADJ, magnifying: NOUN, glass: NOUN, ,: PUNCT, helping: VERB, us: PRON, see: VERB, the: DET, hidden: VERB, patterns: NOUN, and: CCONJ, insights: NOUN, inside: ADP, massive: ADJ, amounts: NOUN, of: ADP, information: NOUN, .: PUNCT
+S25: It: PRON, 's: AUX, used: VERB, in: ADP, all: DET, sorts: NOUN, of: ADP, fields: NOUN, ,: PUNCT, making: VERB, our: PRON, lives: NOUN, easier: ADJ, ,: PUNCT, more: ADV, efficient: ADJ, ,: PUNCT, and: CCONJ, even: ADV, more: ADV, entertaining: ADJ, !: PUNCT
+S26: Remember: VERB, ,: PUNCT, just: ADV, like: ADP, candy: NOUN, sorting: NOUN, ,: PUNCT, data: NOUN, science: NOUN, is: AUX, a: DET, tool: NOUN, .: PUNCT
+S27: It: PRON, 's: AUX, important: ADJ, to: PART, use: VERB, it: PRON, responsibly: ADV, and: CCONJ, ethically: ADV, to: PART, make: VERB, the: DET, world: NOUN, a: DET, better: ADJ, place: NOUN, .: PUNCT
+S28: I: PRON, hope: VERB, this: DET, explanation: NOUN, helps: VERB, !: PUNCT
+S29: Let: VERB, me: PRON, know: VERB, if: SCONJ, you: PRON, have: VERB, any: DET, other: ADJ, questions: NOUN, .: PUNCT

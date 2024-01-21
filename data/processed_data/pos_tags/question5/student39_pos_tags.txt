@@ -1,0 +1,37 @@
+S1: Discuss: VERB, the: DET, significance: NOUN, of: ADP, data: NOUN, science: NOUN, in: ADP, extracting: VERB, valuable: ADJ, insights: NOUN, from: ADP, large: ADJ, datasets: NOUN, .: PUNCT
+S2: Provide: VERB, an: DET, example: NOUN, of: ADP, a: DET, real: ADJ, -: PUNCT, world: NOUN, application: NOUN, of: ADP, data: NOUN, science: NOUN, .: PUNCT
+S3: Ans-: INTJ, 
+: SPACE, The: DET, impact: NOUN, and: CCONJ, significance: NOUN, of: ADP, data: NOUN, science: NOUN, are: AUX, profound: ADJ, and: CCONJ, far: ADV, -: PUNCT, reaching: VERB, across: ADP, various: ADJ, industries: NOUN, .: PUNCT
+S4: Here: ADV, are: AUX, key: ADJ, aspects: NOUN, highlighting: VERB, its: PRON, importance: NOUN, :: PUNCT, 
+
+: SPACE, 1: X, .: PUNCT
+S5: *: PUNCT, *: PUNCT, Informed: ADJ, Decision: NOUN, -: PUNCT, Making: NOUN, :*: PROPN, *: PUNCT, Data: PROPN, science: NOUN, enables: VERB, organizations: NOUN, to: PART, make: VERB, informed: ADJ, decisions: NOUN, based: VERB, on: ADP, evidence: NOUN, and: CCONJ, insights: NOUN, derived: VERB, from: ADP, data: NOUN, analysis: NOUN, .: PUNCT
+S6: This: PRON, contributes: VERB, to: ADP, more: ADV, effective: ADJ, strategies: NOUN, and: CCONJ, operations: NOUN, ,: PUNCT, enhancing: VERB, overall: ADJ, decision: NOUN, -: PUNCT, making: VERB, processes: NOUN, .: PUNCT
+S7: 2: X, .: PUNCT
+S8: *: PUNCT, *: PUNCT, Business: PROPN, Intelligence: PROPN, :*: PROPN, *: NOUN, In: ADP, the: DET, business: NOUN, realm: NOUN, ,: PUNCT, data: NOUN, science: NOUN, plays: VERB, a: DET, crucial: ADJ, role: NOUN, in: ADP, extracting: VERB, actionable: ADJ, intelligence: NOUN, from: ADP, large: ADJ, datasets: NOUN, .: PUNCT
+S9: This: PRON, includes: VERB, customer: NOUN, behavior: NOUN, analysis: NOUN, ,: PUNCT, market: NOUN, trends: NOUN, identification: NOUN, ,: PUNCT, and: CCONJ, optimization: NOUN, of: ADP, business: NOUN, processes: NOUN, for: ADP, increased: VERB, efficiency: NOUN, and: CCONJ, competitiveness: NOUN, .: PUNCT
+S10: 3: X, .: PUNCT
+S11: *: PUNCT, *: PUNCT, Predictive: PROPN, Analytics: PROPN, :*: PROPN, *: PUNCT, Data: PROPN, science: NOUN, empowers: NOUN, predictive: ADJ, modeling: NOUN, and: CCONJ, analytics: NOUN, ,: PUNCT, allowing: VERB, organizations: NOUN, to: PART, forecast: VERB, future: ADJ, trends: NOUN, and: CCONJ, outcomes: NOUN, .: PUNCT
+S12: This: DET, capability: NOUN, is: AUX, invaluable: ADJ, in: ADP, anticipating: VERB, market: NOUN, shifts: NOUN, ,: PUNCT, optimizing: VERB, resource: NOUN, allocation: NOUN, ,: PUNCT, and: CCONJ, mitigating: VERB, risks: NOUN, .: PUNCT
+S13: 4: X, .: PUNCT
+S14: *: PUNCT, *: PUNCT, Healthcare: PROPN, Advancements: PROPN, :*: PROPN, *: NOUN, In: ADP, healthcare: NOUN, ,: PUNCT, data: NOUN, science: NOUN, contributes: VERB, to: ADP, personalized: ADJ, medicine: NOUN, ,: PUNCT, disease: NOUN, prediction: NOUN, ,: PUNCT, and: CCONJ, treatment: NOUN, optimization: NOUN, .: PUNCT
+S15: Analyzing: VERB, electronic: ADJ, health: NOUN, records: NOUN, and: CCONJ, genomic: ADJ, data: NOUN, helps: VERB, in: ADP, tailoring: VERB, healthcare: NOUN, interventions: NOUN, to: ADP, individual: ADJ, patient: NOUN, needs: NOUN, .: PUNCT
+S16: 5: NUM, .: PUNCT
+S17: *: PUNCT, *: PUNCT, Financial: PROPN, Insights: PROPN, :*: PROPN, *: PUNCT, Data: PROPN, science: NOUN, is: AUX, pivotal: ADJ, in: ADP, the: DET, finance: NOUN, sector: NOUN, for: ADP, risk: NOUN, management: NOUN, ,: PUNCT, fraud: NOUN, detection: NOUN, ,: PUNCT, and: CCONJ, algorithmic: ADJ, trading: NOUN, .: PUNCT
+S18: It: PRON, aids: VERB, in: ADP, predicting: VERB, market: NOUN, trends: NOUN, ,: PUNCT, optimizing: VERB, investment: NOUN, portfolios: NOUN, ,: PUNCT, and: CCONJ, ensuring: VERB, financial: ADJ, stability: NOUN, .: PUNCT
+S19: 6: NUM, .: PUNCT
+S20: *: PUNCT, *: PUNCT, Improved: PROPN, User: PROPN, Experiences: PROPN, :*: PROPN, *: NOUN, In: ADP, technology: NOUN, ,: PUNCT, data: NOUN, science: NOUN, enhances: VERB, user: NOUN, experiences: NOUN, through: ADP, recommendation: NOUN, systems: NOUN, ,: PUNCT, personalization: NOUN, algorithms: NOUN, ,: PUNCT, and: CCONJ, user: NOUN, behavior: NOUN, analysis: NOUN, .: PUNCT
+S21: This: PRON, leads: VERB, to: ADP, more: ADV, engaging: ADJ, and: CCONJ, tailored: ADJ, interactions: NOUN, in: ADP, applications: NOUN, and: CCONJ, platforms: NOUN, .: PUNCT
+S22: 7: X, .: PUNCT
+S23: *: PUNCT, *: PUNCT, Scientific: PROPN, Research: PROPN, :*: PROPN, *: PUNCT, Data: PROPN, science: NOUN, accelerates: VERB, scientific: ADJ, research: NOUN, by: ADP, analyzing: VERB, large: ADJ, datasets: NOUN, in: ADP, fields: NOUN, such: ADJ, as: ADP, genomics: NOUN, ,: PUNCT, climate: NOUN, science: NOUN, ,: PUNCT, and: CCONJ, astronomy: NOUN, .: PUNCT
+S24: It: PRON, facilitates: VERB, discoveries: NOUN, ,: PUNCT, hypothesis: NOUN, testing: NOUN, ,: PUNCT, and: CCONJ, the: DET, extraction: NOUN, of: ADP, valuable: ADJ, insights: NOUN, from: ADP, complex: ADJ, scientific: ADJ, data: NOUN, .: PUNCT
+S25: 8: X, .: PUNCT
+S26: *: PUNCT, *: PUNCT, Smart: PROPN, Cities: PROPN, and: CCONJ, IoT: PROPN, :*: PUNCT, *: PUNCT, Data: PROPN, science: NOUN, is: AUX, integral: ADJ, to: ADP, the: DET, development: NOUN, of: ADP, smart: ADJ, cities: NOUN, ,: PUNCT, leveraging: VERB, data: NOUN, from: ADP, various: ADJ, sources: NOUN, ,: PUNCT, including: VERB, the: DET, Internet: NOUN, of: ADP, Things: PROPN, (: PUNCT, IoT: PROPN, ): PUNCT, .: PUNCT
+S27: This: PRON, enhances: VERB, urban: ADJ, planning: NOUN, ,: PUNCT, resource: NOUN, management: NOUN, ,: PUNCT, and: CCONJ, overall: ADJ, city: NOUN, efficiency: NOUN, .: PUNCT
+S28: 9: X, .: PUNCT
+S29: *: PUNCT, *: PUNCT, Social: PROPN, Impact: PROPN, :*: PROPN, *: PUNCT, Data: PROPN, science: NOUN, is: AUX, increasingly: ADV, used: VERB, for: ADP, social: ADJ, good: NOUN, ,: PUNCT, addressing: VERB, issues: NOUN, such: ADJ, as: ADP, poverty: NOUN, ,: PUNCT, disease: NOUN, outbreaks: NOUN, ,: PUNCT, and: CCONJ, environmental: ADJ, challenges: NOUN, .: PUNCT
+S30: Analyzing: VERB, social: ADJ, data: NOUN, helps: VERB, in: ADP, devising: VERB, strategies: NOUN, for: ADP, positive: ADJ, societal: ADJ, impact: NOUN, .: PUNCT
+S31: 10: NUM, .: PUNCT
+S32: *: PUNCT, *: PUNCT, Continuous: PROPN, Innovation: PROPN, :*: PROPN, *: PUNCT, The: DET, constant: ADJ, evolution: NOUN, of: ADP, data: NOUN, science: NOUN, techniques: NOUN, and: CCONJ, technologies: NOUN, fosters: NOUN, innovation: NOUN, across: ADP, industries: NOUN, .: PUNCT
+S33: Machine: NOUN, learning: NOUN, ,: PUNCT, artificial: ADJ, intelligence: NOUN, ,: PUNCT, and: CCONJ, advanced: ADJ, analytics: NOUN, contribute: VERB, to: ADP, ongoing: ADJ, advancements: NOUN, ,: PUNCT, shaping: VERB, the: DET, future: NOUN, of: ADP, technology: NOUN, and: CCONJ, business: NOUN, .: PUNCT
+S34: In: ADP, summary: NOUN, ,: PUNCT, the: DET, impact: NOUN, of: ADP, data: NOUN, science: NOUN, lies: VERB, in: ADP, its: PRON, ability: NOUN, to: PART, transform: VERB, raw: ADJ, data: NOUN, into: ADP, actionable: ADJ, insights: NOUN, ,: PUNCT, driving: VERB, innovation: NOUN, ,: PUNCT, efficiency: NOUN, ,: PUNCT, and: CCONJ, informed: VERB, decision: NOUN, -: PUNCT, making: NOUN, across: ADP, diverse: ADJ, sectors: NOUN, ,: PUNCT, ultimately: ADV, shaping: VERB, the: DET, trajectory: NOUN, of: ADP, industries: NOUN, and: CCONJ, society: NOUN, as: ADP, a: DET, whole: NOUN, .: PUNCT

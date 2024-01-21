@@ -1,0 +1,7 @@
+S1: Continental: ORG, Earth: LOC
+S2: Robert Hooke: PERSON, 19th century: DATE
+S3: Earth: LOC
+S4: 
+S5: three: CARDINAL
+S6: 
+S7: Earth: LOC

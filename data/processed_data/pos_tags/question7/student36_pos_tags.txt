@@ -1,0 +1,44 @@
+S1: What: PRON, are: AUX, the: DET, main: ADJ, components: NOUN, of: ADP, a: DET, relational: ADJ, database: NOUN, management: NOUN, system: NOUN, (: PUNCT, RDBMS),and: ADV, how: SCONJ, do: AUX, they: PRON, facilitate: VERB, efficient: ADJ, data: NOUN, organization: NOUN, and: CCONJ, retrieval: NOUN, ?: PUNCT
+S2: Ans-: ADV, 
+ : SPACE, *: PUNCT, *: PUNCT, Here: ADV, 's: AUX, a: DET, breakdown: NOUN, of: ADP, how: SCONJ, an: DET, RDBMS: NOUN, works: NOUN, ,: PUNCT, as: SCONJ, if: SCONJ, you: PRON, were: AUX, organizing: VERB, your: PRON, favorite: ADJ, collection: NOUN, :*: PROPN, *: PUNCT, 
+
+: SPACE, *: PUNCT, *: PUNCT, Imagine: VERB, a: DET, super: ADJ, -: ADJ, organized: ADJ, closet: NOUN, for: ADP, your: PRON, collection: NOUN, ,: PUNCT, where: SCONJ, you: PRON, can: AUX, find: VERB, anything: PRON, quickly: ADV, .: PUNCT
+S3: That: PRON, 's: AUX, what: PRON, an: DET, RDBMS: NOUN, does: VERB, for: ADP, data: NOUN, !: PUNCT
+S4: *: PUNCT, *: PUNCT, 
+
+: SPACE, *: PUNCT, *: NOUN, 1: NUM, .: PUNCT
+S5: Drawers: NOUN, for: ADP, Data: PROPN, (: PUNCT, Tables: PROPN, ):: PUNCT, *: PUNCT, *: PUNCT, 
+
+: SPACE, -: PUNCT, You: PRON, would: AUX, n't: PART, jumble: VERB, everything: PRON, in: ADP, a: DET, single: ADJ, drawer: NOUN, ,: PUNCT, right: ADJ, ?: PUNCT
+S6: RDBMS: NOUN, uses: VERB, ": PUNCT, tables: NOUN, ": PUNCT, to: PART, store: VERB, related: ADJ, data: NOUN, together: ADV, .: PUNCT
+S7: Think: VERB, of: ADP, them: PRON, as: ADP, drawers: NOUN, for: ADP, different: ADJ, types: NOUN, of: ADP, items: NOUN, .: PUNCT
+S8: -: PUNCT, Each: DET, table: NOUN, has: VERB, rows: NOUN, and: CCONJ, columns: NOUN, ,: PUNCT, like: ADP, the: DET, rows: NOUN, of: ADP, shelves: NOUN, in: ADP, a: DET, drawer: NOUN, and: CCONJ, the: DET, different: ADJ, sections: NOUN, within: ADP, a: DET, shelf: NOUN, .: PUNCT
+S9: -: PUNCT, Example: NOUN, :: PUNCT, A: DET, table: NOUN, for: ADP, your: PRON, books: NOUN, might: AUX, have: VERB, columns: NOUN, for: ADP, title: NOUN, ,: PUNCT, author: NOUN, ,: PUNCT, genre: NOUN, ,: PUNCT, and: CCONJ, date: NOUN, you: PRON, got: VERB, it: PRON, .: PUNCT
+S10: *: PUNCT, *: PUNCT, 2: NUM, .: PUNCT
+S11: Connecting: VERB, the: DET, Collections: PROPN, (: PUNCT, Relationships: PROPN, ):: PUNCT, *: PUNCT, *: PUNCT, 
+
+: SPACE, -: PUNCT, Some: DET, items: NOUN, in: ADP, your: PRON, collection: NOUN, might: AUX, connect: VERB, to: ADP, others: NOUN, .: PUNCT
+S12: RDBMS: NOUN, uses: VERB, ": PUNCT, relationships: NOUN, ": PUNCT, to: PART, link: VERB, tables: NOUN, ,: PUNCT, making: VERB, it: PRON, easy: ADJ, to: PART, find: VERB, related: ADJ, information: NOUN, .: PUNCT
+S13: -: PUNCT, Primary: ADJ, keys: NOUN, are: AUX, like: ADP, unique: ADJ, tags: NOUN, you: PRON, put: VERB, on: ADP, each: DET, item: NOUN, ,: PUNCT, so: SCONJ, you: PRON, can: AUX, always: ADV, find: VERB, the: DET, exact: ADJ, one: NOUN, you: PRON, want: VERB, .: PUNCT
+S14: -: PUNCT, Foreign: ADJ, keys: NOUN, are: AUX, like: ADP, notes: NOUN, in: ADP, one: NUM, drawer: NOUN, pointing: VERB, you: PRON, to: ADP, related: VERB, items: NOUN, in: ADP, other: ADJ, drawers: NOUN, .: PUNCT
+S15: -: PUNCT, Example: NOUN, :: PUNCT, A: DET, tag: NOUN, on: ADP, each: DET, book: NOUN, links: VERB, it: PRON, to: ADP, its: PRON, author: NOUN, 's: PART, info: NOUN, in: ADP, a: DET, separate: ADJ, table: NOUN, .: PUNCT
+S16: *: PUNCT, *: PUNCT, 3: NUM, .: PUNCT
+S17: Shelves: NOUN, for: ADP, Different: PROPN, Types: PROPN, (: PUNCT, Data: PROPN, Types: PROPN, ):: PUNCT, *: PUNCT, *: PUNCT, 
+
+: SPACE, -: PUNCT, You: PRON, would: AUX, n't: PART, store: VERB, a: DET, comic: ADJ, book: NOUN, on: ADP, the: DET, same: ADJ, shelf: NOUN, as: ADP, a: DET, model: NOUN, car: NOUN, ,: PUNCT, right: ADJ, ?: PUNCT
+S18: RDBMS: NOUN, uses: VERB, ": PUNCT, data: NOUN, types: NOUN, ": PUNCT, to: PART, ensure: VERB, each: DET, piece: NOUN, of: ADP, information: NOUN, is: AUX, stored: VERB, in: ADP, a: DET, way: NOUN, that: PRON, matches: VERB, its: PRON, nature: NOUN, .: PUNCT
+S19: -: PUNCT, Numbers: PROPN, ,: PUNCT, text: NOUN, ,: PUNCT, dates: NOUN, ,: PUNCT, and: CCONJ, even: ADV, images: NOUN, have: VERB, their: PRON, own: ADJ, ideal: ADJ, storage: NOUN, methods: NOUN, .: PUNCT
+S20: *: PUNCT, *: PUNCT, 4: NUM, .: PUNCT
+S21: Search: VERB, for: ADP, What: PRON, You: PRON, Need: VERB, (: PUNCT, Queries: NOUN, ):: PUNCT, *: PUNCT, *: PUNCT, 
+
+: SPACE, -: PUNCT, When: SCONJ, you: PRON, want: VERB, to: PART, find: VERB, something: PRON, specific: ADJ, ,: PUNCT, you: PRON, use: VERB, a: DET, ": PUNCT, query: NOUN, ,: PUNCT, ": PUNCT, which: PRON, is: AUX, like: ADP, a: DET, search: NOUN, request: NOUN, you: PRON, give: VERB, to: ADP, the: DET, RDBMS: NOUN, .: PUNCT
+S22: -: PUNCT, It: PRON, 's: AUX, like: ADP, asking: VERB, your: PRON, closet: NOUN, organizer: NOUN, to: PART, find: VERB, a: DET, certain: ADJ, book: NOUN, by: ADP, its: PRON, title: NOUN, ,: PUNCT, author: NOUN, ,: PUNCT, or: CCONJ, genre: NOUN, .: PUNCT
+S23: -: PUNCT, The: DET, RDBMS: NOUN, then: ADV, looks: VERB, through: ADP, the: DET, tables: NOUN, and: CCONJ, relationships: NOUN, to: PART, find: VERB, the: DET, matching: NOUN, items: NOUN, and: CCONJ, bring: VERB, them: PRON, to: ADP, you: PRON, .: PUNCT
+S24: *: PUNCT, *: PUNCT, Super: ADJ, -: ADJ, Organized: ADJ, Closet: PROPN, Benefits: PROPN, :*: PROPN, *: PUNCT, 
+
+: SPACE, -: PUNCT, *: PUNCT, *: PUNCT, Neat: ADJ, and: CCONJ, Tidy: PROPN, :*: PROPN, *: PUNCT, Data: PROPN, is: AUX, organized: VERB, logically: ADV, ,: PUNCT, making: VERB, it: PRON, easier: ADJ, to: PART, find: VERB, and: CCONJ, manage: VERB, .: PUNCT
+S25: -: PUNCT, *: PUNCT, *: PUNCT, No: PROPN, Duplicates: NOUN, :*: PROPN, *: NOUN, You: PRON, do: AUX, n't: PART, end: VERB, up: ADP, with: ADP, multiple: ADJ, copies: NOUN, of: ADP, the: DET, same: ADJ, thing: NOUN, ,: PUNCT, saving: VERB, space: NOUN, .: PUNCT
+S26: -: PUNCT, *: PUNCT, *: PUNCT, Accuracy: PROPN, Guaranteed: VERB, :*: PUNCT, *: PUNCT, Relationships: PROPN, and: CCONJ, data: NOUN, types: NOUN, ensure: VERB, your: PRON, information: NOUN, is: AUX, consistent: ADJ, and: CCONJ, reliable: ADJ, .: PUNCT
+S27: -: PUNCT, *: PUNCT, *: PUNCT, Flexible: PROPN, Search: PROPN, :*: PROPN, *: NOUN, You: PRON, can: AUX, find: VERB, what: PRON, you: PRON, need: VERB, in: ADP, various: ADJ, ways: NOUN, ,: PUNCT, depending: VERB, on: ADP, what: PRON, you: PRON, 're: AUX, looking: VERB, for: ADP, .: PUNCT
+S28: *: PUNCT, *: PUNCT, That: PRON, 's: AUX, how: SCONJ, an: DET, RDBMS: NOUN, keeps: VERB, data: NOUN, organized: VERB, and: CCONJ, accessible: ADJ, ,: PUNCT, just: ADV, like: ADP, a: DET, well: ADV, -: PUNCT, kept: VERB, collection: NOUN, !: PUNCT
+S29: *: PUNCT, *: PUNCT

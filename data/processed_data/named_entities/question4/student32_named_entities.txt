@@ -1,0 +1,18 @@
+S1: the French Revolution on European societies: EVENT
+S2: The French Revolution: EVENT, German: NORP
+S3: 1790s: DATE, France: GPE, German: NORP
+S4: Paris: GPE
+S5: Caroline Schlegel: PERSON
+S6: 
+S7: the French Revolution: EVENT, German: NORP, Napoleon: ORG, Francophobia: ORG, German: NORP, the early 19th century: DATE
+S8: The French Revolution: EVENT
+S9: Europe: LOC, the Holy Roman Empire: FAC
+S10: Germany: GPE
+S11: 1806: DATE, Napoleonic: ORG, Baden: GPE
+S12: the years after 1815: DATE, Greece: GPE, Italy: GPE, Belgium: GPE, Poland: GPE, Germany: GPE
+S13: German: NORP, the Napoleonic years: DATE, 1815: DATE
+S14: 
+S15: 
+S16: 1847: DATE, only four: CARDINAL, 39: CARDINAL, the German Confederation: ORG
+S17: Prussian: NORP, Karl August: PERSON, French: NORP, 1799: DATE, French: NORP, Prussia: GPE
+S18: Prussia: GPE, one: CARDINAL, four: CARDINAL, after 1848: DATE

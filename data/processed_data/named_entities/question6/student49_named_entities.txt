@@ -1,0 +1,8 @@
+S1: 
+S2: Machine: ORG, three: CARDINAL
+S3: 
+S4: 
+S5: 
+S6: 
+S7: AI: ORG, AI: ORG
+S8: AI: ORG, AI: ORG, efficient[1][2][5]: PERSON

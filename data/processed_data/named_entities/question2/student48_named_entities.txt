@@ -1,0 +1,21 @@
+S1: 
+S2: 
+S3: one: CARDINAL
+S4: 
+S5: 
+S6: Daniel Dennett: PERSON, 1995: DATE
+S7: 2001: DATE, Jørgensen: PERSON
+S8: 2007: DATE, Darimont: GPE
+S9: 2009: DATE
+S10: 
+S11: 
+S12: 
+S13: 
+S14: 
+S15: nearly 20 years ago: DATE, Bishop: ORG, Anderson: PERSON, 1990: DATE
+S16: 
+S17: one: CARDINAL
+S18: 
+S19: 
+S20: 
+S21: 

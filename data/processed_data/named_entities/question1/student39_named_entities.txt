@@ -1,0 +1,7 @@
+S1: continental: ORG
+S2: German: NORP, Alfred Wegener: PERSON, Earth: LOC
+S3: 
+S4: Fossil: PERSON
+S5: 
+S6: Earth: LOC, continental: ORG
+S7: the 1960s: DATE, Earth: LOC

@@ -1,0 +1,10 @@
+S1: Explain: VERB, the: DET, concept: NOUN, of: ADP, continental: ADJ, drift: NOUN, and: CCONJ, provide: VERB, evidence: NOUN, supporting: VERB, this: DET, theory: NOUN, .: PUNCT
+S2: Ans-: CCONJ, 
+: SPACE, Continental: ADJ, drift: NOUN, ,: PUNCT, proposed: VERB, in: ADP, the: DET, early: ADJ, 20th: ADJ, century: NOUN, ,: PUNCT, suggested: VERB, continents: NOUN, once: ADV, formed: VERB, a: DET, single: ADJ, supercontinent: NOUN, called: VERB, Pangea: PROPN, and: CCONJ, then: ADV, drifted: VERB, apart: ADV, .: PUNCT
+S3: While: SCONJ, the: DET, core: ADJ, idea: NOUN, is: AUX, accurate: ADJ, ,: PUNCT, it: PRON, 's: AUX, superseded: VERB, by: ADP, the: DET, broader: ADJ, theory: NOUN, of: ADP, plate: NOUN, tectonics: NOUN, .: PUNCT
+S4: Evidence: NOUN, :: PUNCT, 
+: SPACE, Continental: ADJ, fit: NOUN, :: PUNCT, The: DET, coastlines: NOUN, of: ADP, South: PROPN, America: PROPN, and: CCONJ, Africa: PROPN, interlock: NOUN, like: ADP, puzzle: NOUN, pieces: NOUN, ,: PUNCT, hinting: VERB, at: ADP, a: DET, past: ADJ, connection: NOUN, .: PUNCT
+S5: Fossil: ADJ, distribution: NOUN, :: PUNCT, Similar: ADJ, fossilized: ADJ, plants: NOUN, and: CCONJ, animals: NOUN, found: VERB, on: ADP, now: ADV, -: PUNCT, separated: VERB, continents: NOUN, ,: PUNCT, like: ADP, ferns: NOUN, in: ADP, South: PROPN, America: PROPN, and: CCONJ, Africa: PROPN, ,: PUNCT, suggest: VERB, land: NOUN, bridges: NOUN, once: ADV, facilitated: VERB, their: PRON, spread: NOUN, .: PUNCT
+S6: Rock: NOUN, formations: NOUN, :: PUNCT, Matching: VERB, rock: NOUN, types: NOUN, and: CCONJ, ages: NOUN, across: ADP, continents: NOUN, imply: VERB, shared: VERB, geological: ADJ, history: NOUN, .: PUNCT
+S7: While: SCONJ, lacking: VERB, a: DET, mechanism: NOUN, at: ADP, the: DET, time: NOUN, ,: PUNCT, these: DET, clues: NOUN, fueled: VERB, the: DET, concept: NOUN, of: ADP, continental: ADJ, movement: NOUN, .: PUNCT
+S8: Though: SCONJ, superseded: VERB, ,: PUNCT, continental: ADJ, drift: NOUN, paved: VERB, the: DET, way: NOUN, for: ADP, plate: NOUN, tectonics: NOUN, ,: PUNCT, which: PRON, explains: VERB, the: DET, driving: VERB, forces: NOUN, behind: ADP, continental: ADJ, movement: NOUN, .: PUNCT

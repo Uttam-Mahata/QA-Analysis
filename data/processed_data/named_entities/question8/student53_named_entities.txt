@@ -1,0 +1,8 @@
+S1: The Industrial Revolution: EVENT, Britain: GPE, the 18th century: DATE
+S2: 
+S3: 
+S4: 
+S5: 
+S6: 
+S7: the Industrial Revolution: EVENT
+S8: 

@@ -1,0 +1,24 @@
+S1: Explain: VERB, the: DET, concept: NOUN, of: ADP, social: ADJ, stratification: NOUN, and: CCONJ, its: PRON, impact: NOUN, on: ADP, societies: NOUN, .: PUNCT
+S2: Ans-: CCONJ, 
+: SPACE, Imagine: PROPN, society: NOUN, like: ADP, a: DET, game: NOUN, of: ADP, musical: ADJ, chairs: NOUN, ,: PUNCT, but: CCONJ, instead: ADV, of: ADP, chairs: NOUN, ,: PUNCT, there: PRON, are: VERB, levels: NOUN, .: PUNCT
+S3: Some: DET, levels: NOUN, have: VERB, comfy: ADJ, beanbags: NOUN, ,: PUNCT, others: NOUN, just: ADV, wobbly: ADJ, stools: NOUN, .: PUNCT
+S4: Social: ADJ, stratification: NOUN, is: AUX, basically: ADV, how: SCONJ, people: NOUN, get: AUX, sorted: VERB, into: ADP, these: DET, levels: NOUN, .: PUNCT
+S5: The: DET, beanbags: NOUN, ?: PUNCT
+S6: Those: PRON, are: AUX, for: ADP, folks: NOUN, with: ADP, lots: NOUN, of: ADP, money: NOUN, ,: PUNCT, education: NOUN, ,: PUNCT, and: CCONJ, maybe: ADV, even: ADV, fancy: ADJ, titles: NOUN, .: PUNCT
+S7: They: PRON, get: VERB, the: DET, best: ADJ, healthcare: NOUN, ,: PUNCT, schools: NOUN, ,: PUNCT, and: CCONJ, opportunities: NOUN, .: PUNCT
+S8: On: ADP, the: DET, wobbly: ADJ, stools: NOUN, ?: PUNCT
+S9: People: NOUN, who: PRON, might: AUX, struggle: VERB, with: ADP, basic: ADJ, needs: NOUN, like: ADP, food: NOUN, or: CCONJ, housing: NOUN, .: PUNCT
+S10: They: PRON, face: VERB, tougher: ADJ, challenges: NOUN, and: CCONJ, might: AUX, not: PART, have: VERB, the: DET, same: ADJ, chances: NOUN, to: PART, get: VERB, ahead: ADV, .: PUNCT
+S11: This: DET, uneven: ADJ, playing: NOUN, field: NOUN, is: AUX, n't: PART, fair: ADJ, ,: PUNCT, right: ADJ, ?: PUNCT
+S12: That: PRON, 's: AUX, the: DET, big: ADJ, impact: NOUN, of: ADP, social: ADJ, stratification: NOUN, .: PUNCT
+S13: It: PRON, can: AUX, lead: VERB, to: ADP, inequality: NOUN, ,: PUNCT, where: SCONJ, some: DET, people: NOUN, have: VERB, way: NOUN, more: ADJ, than: ADP, others: NOUN, .: PUNCT
+S14: It: PRON, can: AUX, make: VERB, it: PRON, harder: ADJ, for: SCONJ, people: NOUN, on: ADP, the: DET, wobbly: ADJ, stools: NOUN, to: PART, climb: VERB, up: ADP, ,: PUNCT, keeping: VERB, them: PRON, stuck: VERB, .: PUNCT
+S15: And: CCONJ, sometimes: ADV, ,: PUNCT, it: PRON, can: AUX, even: ADV, create: VERB, tension: NOUN, and: CCONJ, conflict: NOUN, between: ADP, different: ADJ, levels: NOUN, .: PUNCT
+S16: But: CCONJ, like: ADP, any: DET, game: NOUN, ,: PUNCT, the: DET, rules: NOUN, can: AUX, change: VERB, .: PUNCT
+S17: People: NOUN, can: AUX, work: VERB, together: ADV, to: PART, make: VERB, the: DET, playing: NOUN, field: NOUN, more: ADV, even: ADV, .: PUNCT
+S18: They: PRON, can: AUX, create: VERB, opportunities: NOUN, for: ADP, everyone: PRON, ,: PUNCT, no: ADV, matter: ADV, where: SCONJ, they: PRON, started: VERB, .: PUNCT
+S19: That: PRON, 's: AUX, the: DET, good: ADJ, news: NOUN, :: PUNCT, even: ADV, though: SCONJ, social: ADJ, stratification: NOUN, exists: VERB, ,: PUNCT, it: PRON, does: AUX, n't: PART, have: VERB, to: PART, control: VERB, our: PRON, future: NOUN, .: PUNCT
+S20: We: PRON, can: AUX, choose: VERB, to: PART, build: VERB, a: DET, society: NOUN, where: SCONJ, everyone: PRON, gets: VERB, a: DET, chance: NOUN, to: PART, grab: VERB, a: DET, comfy: ADJ, beanbag: NOUN, .: PUNCT
+S21: Remember: VERB, ,: PUNCT, it: PRON, 's: AUX, a: DET, complex: ADJ, issue: NOUN, ,: PUNCT, and: CCONJ, there: PRON, 's: VERB, no: DET, one: NUM, -: PUNCT, size: NOUN, -: PUNCT, fits: NOUN, -: PUNCT, all: PRON, solution: NOUN, .: PUNCT
+S22: But: CCONJ, understanding: VERB, how: SCONJ, things: NOUN, work: VERB, is: AUX, the: DET, first: ADJ, step: NOUN, to: ADP, making: VERB, them: PRON, better: ADV, .: PUNCT
+S23: So: ADV, keep: VERB, learning: VERB, ,: PUNCT, keep: VERB, asking: VERB, questions: NOUN, ,: PUNCT, and: CCONJ, keep: VERB, working: VERB, towards: ADP, a: DET, fairer: ADJ, future: NOUN, for: ADP, everyone: PRON, .: PUNCT

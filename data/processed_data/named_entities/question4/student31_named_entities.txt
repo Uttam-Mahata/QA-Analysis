@@ -1,0 +1,25 @@
+S1: the French Revolution on European societies: EVENT
+S2: the French Revolution: EVENT, Napoleon: ORG, 1815: DATE
+S3: many years: DATE, Europe: LOC
+S4: 
+S5: 1795: DATE
+S6: Europe: LOC, half: CARDINAL, 1789: DATE
+S7: 1789-1815: DATE
+S8: The French Revolution: EVENT, the Estates General of 1789: ORG, a 'National Assembly': ORG
+S9: a 'Declaration of the Rights of Man and the Citizen: LAW, French: NORP
+S10: 
+S11: Napoleon: ORG, Europe: LOC, the 1800s: DATE, French: NORP
+S12: Europe: LOC
+S13: 1815: DATE, Napoleon: ORG, Europe: LOC
+S14: 
+S15: 
+S16: Millions: CARDINAL, Europeans: NORP
+S17: the nineteenth century: DATE, the French Revolution: EVENT
+S18: 
+S19: Marianne: PERSON, the French Revolution: EVENT
+S20: 1830: DATE
+S21: Delacroix: PERSON, the 1830 Revolution: EVENT
+S22: Matu: PRODUCT, 2020: DATE
+S23: Liberty: GPE, the Statue of Liberty: FAC, New York: GPE
+S24: 200 tonne: QUANTITY, 97: CARDINAL, the United States: GPE, French: NORP, two: CARDINAL
+S25: French: NORP, 100th: ORDINAL, American: NORP

@@ -1,0 +1,40 @@
+S1: 
+S2: 
+S3: Relational Database Management System: ORG, 1: CARDINAL
+S4: 
+S5: 
+S6: 
+S7: 
+S8: 2: CARDINAL
+S9: 
+S10: 
+S11: 
+S12: 
+S13: 3: CARDINAL
+S14: 
+S15: 
+S16: 
+S17: 4: CARDINAL
+S18: 
+S19: one: CARDINAL
+S20: 5: CARDINAL
+S21: SQL: PERSON, Structured Query Language: ORG
+S22: 
+S23: 6: CARDINAL
+S24: 
+S25: 
+S26: 
+S27: systems¹²³⁴⁵.: ORG
+S28: Bing: ORG, 7/1/2024: DATE, 1: CARDINAL
+S29: Uses - KnowledgeHut: ORG
+S30: 
+S31: 2: CARDINAL, a Relational Database Management System: ORG
+S32: 
+S33: 
+S34: 3) Components: MONEY, Relational Database Management System: ORG
+S35: 
+S36: 4: CARDINAL, a Relational Database Management System: ORG
+S37: Codecademy: PERSON
+S38: https://www.codecademy.com/article/what-is-rdbms-sql: GPE
+S39: 5: CARDINAL, a Relational Database Management System: ORG
+S40: 

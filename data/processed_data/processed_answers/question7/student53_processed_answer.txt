@@ -1,0 +1,10 @@
+Relational Database Management Systems (RDBMS) facilitate efficient data organization and retrieval through their structured design.
+Relationships between tables are established using primary and foreign keys.
+This relational structure allows for the organization of complex datasets, and it facilitates efficient retrieval by enabling queries across multiple tables.
+Users can retrieve related information without duplicating data, contributing to both organization and retrieval efficiency.
+Constraints, such as primary key, unique, and foreign key constraints, play a vital role in maintaining data integrity.
+By preventing the insertion of invalid or duplicate data, constraints ensure the reliability of the database.
+This, in turn, enhances the efficiency of data organization and retrieval by eliminating inconsistencies.
+The Structured Query Language provides a standardized and powerful interface for interacting with RDBMS.
+Users can define, manipulate, and query the data using SQL commands.
+This common language ensures a consistent and efficient way to communicate with the database, making it easier to organize and retrieve data.

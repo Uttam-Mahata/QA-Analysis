@@ -1,0 +1,10 @@
+S1: Continental: ORG, today: DATE
+S2: millions of years: DATE
+S3: Earth: LOC
+S4: One: CARDINAL
+S5: South America: LOC, Africa: LOC
+S6: 
+S7: 
+S8: India: GPE, Antarctica: LOC
+S9: 
+S10: Appalachian Mountains: LOC, European: NORP, Earth: LOC

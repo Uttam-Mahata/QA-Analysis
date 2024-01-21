@@ -1,0 +1,8 @@
+S1: The French Revolution: EVENT, European: NORP
+S2: Firstly: ORDINAL, Europe: LOC
+S3: France: GPE
+S4: Secondly: ORDINAL, European: NORP
+S5: 
+S6: the French Revolution: EVENT
+S7: European: NORP
+S8: 

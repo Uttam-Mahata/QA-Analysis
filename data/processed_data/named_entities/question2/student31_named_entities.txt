@@ -1,0 +1,24 @@
+S1: 
+S2: 
+S3: Nature's Sculpting Tool: Natural Selection and the Evolution of Life
+Imagine: WORK_OF_ART
+S4: 
+S5: 
+S6: 
+S7: 
+S8: 
+S9: 
+S10: 
+S11: 
+S12: 
+S13: Peppered Moths: PERSON, the Industrial Revolution, England's: EVENT
+S14: 
+S15: Darwin: PERSON, Charles Darwin's: PERSON, the Galapagos Islands: LOC
+S16: 
+S17: Antibiotic Resistance: The overuse of antibiotics: WORK_OF_ART
+S18: 
+S19: 
+S20: one: CARDINAL, Earth: LOC
+S21: 
+S22: today: DATE
+S23: millions of years: DATE

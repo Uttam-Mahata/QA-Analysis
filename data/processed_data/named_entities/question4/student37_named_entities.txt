@@ -1,0 +1,13 @@
+S1: the French Revolution on European societies: EVENT
+S2: Immerse: ORG, the French Revolution: EVENT
+S3: French: NORP, Revolution: LAW
+S4: French: NORP
+S5: the French Revolution: EVENT
+S6: 
+S7: the first year: DATE
+S8: revolutionary National Guard: ORG
+S9: the Declaration of the Rights of Man and of the Citizen: WORK_OF_ART, Lefebvre: GPE
+S10: France: GPE, over a century: DATE
+S11: Europe: LOC, Europe: LOC, two decades: DATE, France: GPE, anti-French: NORP
+S12: Napoleon: ORG, France: GPE
+S13: 

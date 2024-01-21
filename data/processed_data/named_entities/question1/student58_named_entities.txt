@@ -1,0 +1,9 @@
+S1: Continental: ORG, Alfred Wegener: PERSON, the early 20th century: DATE, Earth: LOC, Pangaea: ORG, millions of years: DATE
+S2: Wegener: ORG
+S3: Fossil: PERSON, one: CARDINAL
+S4: Mesosaurus: PERSON, South America: LOC, Africa: LOC
+S5: 
+S6: 
+S7: the Appalachian Mountains: NORP, North America: LOC, the Caledonian Mountains: LOC, Scotland: GPE, Scandinavia: LOC
+S8: Pangaea: GPE
+S9: the east coast: LOC, South America: LOC, Africa: LOC, continental: ORG

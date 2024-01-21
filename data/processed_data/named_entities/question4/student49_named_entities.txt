@@ -1,0 +1,31 @@
+S1: the French Revolution on European societies: EVENT
+S2: The French Revolution: EVENT, France: GPE, 1789 to 1799: DATE
+S3: France: GPE, Europe: LOC
+S4: The French Revolution: EVENT, Europe: LOC
+S5: The French Revolution: EVENT, between 1789 and 1799: DATE, France: GPE
+S6: 
+S7: 1: CARDINAL
+S8: France: GPE
+S9: 
+S10: hundreds: CARDINAL
+S11: 2: CARDINAL
+S12: France: GPE
+S13: Years of wars: DATE, the united states of America: GPE
+S14: 
+S15: 3: CARDINAL
+S16: French: NORP
+S17: Voltaire, Rousseau: LOC, Montesquieu: ORG, France: GPE
+S18: 4: CARDINAL
+S19: the American Revolution: EVENT, the American Revolution: EVENT, British: NORP, French: NORP
+S20: the American Revolution: EVENT, France: GPE
+S21: 5: CARDINAL
+S22: Royal Absolutism: PERSON, Louis XVI: PERSON
+S23: 
+S24: 6: CARDINAL
+S25: Economic and Food Crises: In: ORG, the years: DATE, France: GPE
+S26: 
+S27: 7: CARDINAL
+S28: Estates: ORG, 3: CARDINAL, French: NORP, 1789: DATE
+S29: the National Assembly: ORG
+S30: the French Revolution: EVENT
+S31: France: GPE

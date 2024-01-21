@@ -1,0 +1,5 @@
+Machine learning is a subfield of artificial intelligence that gives computers the ability to learn without being explicitly programmed.
+It is based on the idea that machines can learn from data, identify patterns and make decisions with minimal human intervention.
+The fundamental principles of machine learning include supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning.
+These principles are used to develop intelligent systems that can perform complex tasks in a way that is similar to how humans solve problems.
+Machine learning is used in various applications such as chatbots, predictive text, language translation apps, autonomous vehicles, medical diagnosis, and more.

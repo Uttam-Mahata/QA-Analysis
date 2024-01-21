@@ -1,0 +1,13 @@
+S1: How: SCONJ, industrial: ADJ, revolution: NOUN, has: AUX, impacted: VERB, the: DET, modern: ADJ, world: NOUN, ?: PUNCT
+S2: Ans-: INTJ, 
+: SPACE, The: DET, Industrial: PROPN, Revolution: PROPN, ,: PUNCT, a: DET, major: ADJ, change: NOUN, between: ADP, the: DET, 18th: ADJ, and: CCONJ, 19th: ADJ, centuries: NOUN, ,: PUNCT, transformed: VERB, the: DET, world: NOUN, .: PUNCT
+S3: It: PRON, was: AUX, like: ADP, shifting: VERB, gears: NOUN, from: ADP, handcrafted: VERB, goods: NOUN, to: ADP, mass: ADJ, production: NOUN, using: VERB, machines: NOUN, and: CCONJ, factories: NOUN, .: PUNCT
+S4: This: PRON, had: VERB, both: CCONJ, positive: ADJ, and: CCONJ, negative: ADJ, effects: NOUN, that: PRON, still: ADV, shape: VERB, our: PRON, lives: NOUN, today: NOUN, .: PUNCT
+S5: On: ADP, the: DET, positive: ADJ, side: NOUN, ,: PUNCT, imagine: VERB, tons: NOUN, of: ADP, affordable: ADJ, products: NOUN, ,: PUNCT, new: ADJ, jobs: NOUN, in: ADP, cities: NOUN, ,: PUNCT, and: CCONJ, faster: ADJ, transportation: NOUN, .: PUNCT
+S6: This: PRON, led: VERB, to: ADP, better: ADJ, living: NOUN, standards: NOUN, for: ADP, many: ADJ, ,: PUNCT, and: CCONJ, advancements: NOUN, in: ADP, medicine: NOUN, and: CCONJ, technology: NOUN, that: PRON, changed: VERB, healthcare: NOUN, and: CCONJ, communication: NOUN, forever: ADV, .: PUNCT
+S7: However: ADV, ,: PUNCT, it: PRON, was: AUX, n't: PART, all: PRON, sunshine: VERB, and: CCONJ, rainbows: VERB, .: PUNCT
+S8: Think: VERB, about: ADP, harsh: ADJ, working: VERB, conditions: NOUN, for: ADP, factory: NOUN, workers: NOUN, ,: PUNCT, pollution: NOUN, from: ADP, factories: NOUN, ,: PUNCT, and: CCONJ, growing: VERB, inequality: NOUN, between: ADP, rich: ADJ, and: CCONJ, poor: ADJ, .: PUNCT
+S9: These: PRON, are: AUX, ongoing: ADJ, challenges: NOUN, we: PRON, still: ADV, face: VERB, .: PUNCT
+S10: Overall: ADV, ,: PUNCT, the: DET, Industrial: PROPN, Revolution: PROPN, 's: PART, impact: NOUN, is: AUX, complex: ADJ, and: CCONJ, mixed: ADJ, .: PUNCT
+S11: It: PRON, 's: AUX, like: ADP, a: DET, powerful: ADJ, engine: NOUN, that: PRON, drove: VERB, progress: NOUN, but: CCONJ, also: ADV, created: VERB, problems: NOUN, .: PUNCT
+S12: Understanding: VERB, its: PRON, legacy: NOUN, helps: VERB, us: PRON, build: VERB, a: DET, better: ADJ, future: NOUN, by: ADP, learning: VERB, from: ADP, both: PRON, its: PRON, benefits: NOUN, and: CCONJ, drawbacks: NOUN, .: PUNCT

@@ -1,0 +1,5 @@
+S1: continental: ORG, Earth: LOC, Pangaea: ORG, millions of years: DATE
+S2: 
+S3: 
+S4: 
+S5: 

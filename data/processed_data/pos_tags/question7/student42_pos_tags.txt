@@ -1,0 +1,25 @@
+S1: A: DET, Relational: PROPN, Database: PROPN, Management: PROPN, System: PROPN, (: PUNCT, RDBMS: PROPN, ): PUNCT, consists: VERB, of: ADP, key: ADJ, components: NOUN, designed: VERB, to: PART, facilitate: VERB, efficient: ADJ, data: NOUN, organization: NOUN, and: CCONJ, retrieval: NOUN, .: PUNCT
+S2: What: PRON, are: AUX, the: DET, main: ADJ, components: NOUN, of: ADP, a: DET, relational: ADJ, database: NOUN, management: NOUN, system: NOUN, (: PUNCT, RDBMS),and: ADV, how: SCONJ, do: AUX, they: PRON, facilitate: VERB, efficient: ADJ, data: NOUN, organization: NOUN, and: CCONJ, retrieval: NOUN, ?: PUNCT
+S3: Ans-: ADV, 
+: SPACE, 1: NUM, .: PUNCT
+S4: *: PUNCT, *: PUNCT, Tables: NOUN, :*: PUNCT, *: PUNCT, The: DET, fundamental: ADJ, building: NOUN, blocks: NOUN, ,: PUNCT, tables: NOUN, organize: VERB, data: NOUN, into: ADP, rows: NOUN, and: CCONJ, columns: NOUN, ,: PUNCT, representing: VERB, entities: NOUN, and: CCONJ, their: PRON, attributes: NOUN, .: PUNCT
+S5: Each: DET, table: NOUN, has: VERB, a: DET, unique: ADJ, key: NOUN, ,: PUNCT, allowing: VERB, for: ADP, relational: ADJ, connections: NOUN, between: ADP, tables: NOUN, .: PUNCT
+S6: 2: X, .: PUNCT
+S7: *: PUNCT, *: PUNCT, Rows: PROPN, (: PUNCT, Tuples: PROPN, ):: PUNCT, *: PUNCT, *: PUNCT, Rows: PROPN, in: ADP, tables: NOUN, represent: VERB, individual: ADJ, records: NOUN, or: CCONJ, instances: NOUN, ,: PUNCT, with: ADP, each: DET, cell: NOUN, containing: VERB, specific: ADJ, data: NOUN, related: VERB, to: ADP, the: DET, attributes: NOUN, of: ADP, that: DET, record: NOUN, .: PUNCT
+S8: 3: X, .: PUNCT
+S9: *: PUNCT, *: PUNCT, Columns: PROPN, (: PUNCT, Attributes: PROPN, ):: PUNCT, *: PUNCT, *: PUNCT, Columns: NOUN, define: VERB, the: DET, properties: NOUN, or: CCONJ, attributes: NOUN, of: ADP, the: DET, entities: NOUN, being: AUX, stored: VERB, .: PUNCT
+S10: Each: DET, column: NOUN, has: VERB, a: DET, data: NOUN, type: NOUN, ,: PUNCT, ensuring: VERB, data: NOUN, integrity: NOUN, .: PUNCT
+S11: 4: X, .: PUNCT
+S12: *: PUNCT, *: PUNCT, Keys: PROPN, :*: PROPN, *: PUNCT, Primary: ADJ, keys: NOUN, uniquely: ADV, identify: VERB, each: DET, row: NOUN, within: ADP, a: DET, table: NOUN, ,: PUNCT, ensuring: VERB, data: NOUN, integrity: NOUN, and: CCONJ, enabling: VERB, efficient: ADJ, retrieval: NOUN, .: PUNCT
+S13: Foreign: ADJ, keys: NOUN, establish: VERB, relationships: NOUN, between: ADP, tables: NOUN, .: PUNCT
+S14: 5: NUM, .: PUNCT
+S15: *: PUNCT, *: PUNCT, Indexes: NOUN, :*: PROPN, *: PUNCT, Indexing: NOUN, enhances: VERB, data: NOUN, retrieval: NOUN, speed: NOUN, by: ADP, creating: VERB, a: DET, sorted: ADJ, data: NOUN, structure: NOUN, ,: PUNCT, allowing: VERB, for: ADP, quick: ADJ, searches: NOUN, based: VERB, on: ADP, specified: VERB, criteria: NOUN, .: PUNCT
+S16: 6: NUM, .: PUNCT
+S17: *: PUNCT, *: PUNCT, Queries: NOUN, :*: PROPN, *: PUNCT, Users: NOUN, interact: VERB, with: ADP, the: DET, RDBMS: NOUN, through: ADP, queries: NOUN, ,: PUNCT, using: VERB, SQL: PROPN, (: PUNCT, Structured: PROPN, Query: PROPN, Language: PROPN, ): PUNCT, to: PART, retrieve: VERB, ,: PUNCT, insert: ADJ, ,: PUNCT, update: NOUN, ,: PUNCT, or: CCONJ, delete: ADJ, data: NOUN, .: PUNCT
+S18: Queries: NOUN, provide: VERB, a: DET, powerful: ADJ, and: CCONJ, standardized: ADJ, way: NOUN, to: PART, interact: VERB, with: ADP, the: DET, database: NOUN, .: PUNCT
+S19: 7: X, .: PUNCT
+S20: *: PUNCT, *: PUNCT, Normalization: NOUN, :*: PROPN, *: PUNCT, This: DET, process: NOUN, minimizes: NOUN, data: NOUN, redundancy: NOUN, by: ADP, organizing: VERB, tables: NOUN, to: PART, eliminate: VERB, unnecessary: ADJ, dependencies: NOUN, ,: PUNCT, ensuring: VERB, efficient: ADJ, storage: NOUN, and: CCONJ, reducing: VERB, the: DET, risk: NOUN, of: ADP, anomalies: NOUN, .: PUNCT
+S21: 8: X, .: PUNCT
+S22: *: PUNCT, *: PUNCT, ACID: PROPN, Properties: PROPN, :*: PROPN, *: PUNCT, RDBMS: VERB, adheres: NOUN, to: ADP, ACID: PROPN, properties: NOUN, (: PUNCT, Atomicity: PROPN, ,: PUNCT, Consistency: PROPN, ,: PUNCT, Isolation: PROPN, ,: PUNCT, Durability: PROPN, ): PUNCT, to: PART, guarantee: VERB, the: DET, reliability: NOUN, and: CCONJ, integrity: NOUN, of: ADP, transactions: NOUN, ,: PUNCT, even: ADV, in: ADP, the: DET, event: NOUN, of: ADP, system: NOUN, failures: NOUN, .: PUNCT
+S23: By: ADP, organizing: VERB, data: NOUN, into: ADP, structured: ADJ, tables: NOUN, and: CCONJ, establishing: VERB, relationships: NOUN, between: ADP, them: PRON, ,: PUNCT, RDBMS: NOUN, facilitates: NOUN, efficient: ADJ, data: NOUN, retrieval: NOUN, through: ADP, the: DET, use: NOUN, of: ADP, indexes: NOUN, ,: PUNCT, keys: NOUN, ,: PUNCT, and: CCONJ, a: DET, standardized: ADJ, query: NOUN, language: NOUN, .: PUNCT
+S24: Normalization: NOUN, and: CCONJ, ACID: PROPN, properties: NOUN, ensure: VERB, data: NOUN, consistency: NOUN, and: CCONJ, integrity: NOUN, ,: PUNCT, making: VERB, RDBMS: VERB, a: DET, robust: ADJ, solution: NOUN, for: ADP, managing: VERB, and: CCONJ, retrieving: VERB, data: NOUN, in: ADP, various: ADJ, applications: NOUN, .: PUNCT

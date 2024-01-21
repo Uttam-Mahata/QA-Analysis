@@ -1,0 +1,15 @@
+S1: 
+S2: 
+S3: 
+S4: 
+S5: Greener: PERSON, zero: CARDINAL
+S6: 
+S7: Fossil fuel-: PERSON
+S8: 
+S9: 
+S10: EV: ORG
+S11: 
+S12: 
+S13: 
+S14: 
+S15: 

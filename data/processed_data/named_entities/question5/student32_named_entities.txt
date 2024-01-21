@@ -1,0 +1,14 @@
+S1: 
+S2: 
+S3: 
+S4: 
+S5: One: CARDINAL
+S6: 
+S7: 
+S8: 
+S9: 
+S10: 
+S11: 
+S12: healthcare: ORG
+S13: 
+S14: today: DATE

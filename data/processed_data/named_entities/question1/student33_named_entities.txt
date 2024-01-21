@@ -1,0 +1,20 @@
+S1: continental: ORG
+S2: Continental: ORG, millions of years: DATE
+S3: Alfred Wegener: PERSON, 1912: DATE, 1: CARDINAL
+S4: South America: LOC, Africa: LOC
+S5: 2: CARDINAL
+S6: Fossil Matchups:*: PERSON, Mesosaurus: GPE, Glossopteris: PERSON
+S7: 3: CARDINAL
+S8: Rock Similarities:*: ORG, the Appalachian Mountains: LOC, North America: LOC, Europe: LOC
+S9: 4: CARDINAL
+S10: Glacial: ORG
+S11: 5: CARDINAL
+S12: Seafloor Spreading:*: ORG
+S13: 
+S14: continental: ORG
+S15: Earth: LOC
+S16: Continental: ORG, today: DATE
+S17: Earth: LOC
+S18: 
+S19: 
+S20: 
