@@ -1,0 +1,9 @@
+S1: The Industrial Revolution: EVENT, Great Britain: GPE
+S2: 
+S3: The British Industrial Revolution: ORG
+S4: the Industrial Revolution: EVENT
+S5: The Industrial Revolution: EVENT, England: GPE
+S6: England: GPE
+S7: 
+S8: the Industrial Revolution's: EVENT, first: ORDINAL
+S9: The Industrial Revolution: EVENT

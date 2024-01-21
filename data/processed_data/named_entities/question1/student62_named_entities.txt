@@ -1,0 +1,9 @@
+S1: Continental: ORG, Earth: LOC
+S2: Alfred Wegener: PERSON, the early 20th century: DATE
+S3: Firstly: ORDINAL, South America: LOC, Africa: LOC
+S4: 
+S5: Secondly: ORDINAL
+S6: 
+S7: continental: ORG
+S8: the Appalachian Mountains: LOC, North America: LOC, the Caledonian Mountains: LOC, Scotland: GPE, Scandinavia: LOC
+S9: India: GPE, Australia: GPE

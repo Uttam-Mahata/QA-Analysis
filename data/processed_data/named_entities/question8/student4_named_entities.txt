@@ -1,0 +1,12 @@
+S1: The Industrial Revolution: EVENT, Renaissance: ORG
+S2: 
+S3: 
+S4: agrarian: NORP
+S5: 
+S6: 
+S7: 
+S8: Transportation: ORG
+S9: 
+S10: 
+S11: 
+S12: the Industrial Revolution: EVENT

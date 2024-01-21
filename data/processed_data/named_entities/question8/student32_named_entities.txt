@@ -1,0 +1,14 @@
+S1: 
+S2: The Industrial Revolution: EVENT, the late 18th to the early 19th century: DATE
+S3: 
+S4: 
+S5: the Industrial Revolution: EVENT
+S6: 
+S7: 
+S8: the Industrial Revolution: EVENT
+S9: 
+S10: 
+S11: Healthcare: ORG
+S12: Romanticism: NORP
+S13: the Industrial Revolution: EVENT
+S14: 

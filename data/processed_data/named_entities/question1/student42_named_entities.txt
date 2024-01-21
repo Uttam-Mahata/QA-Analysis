@@ -1,0 +1,22 @@
+S1: continental: ORG
+S2: Continental Drift: ORG, Continental: ORG, the early 20th century: DATE, Earth: LOC
+S3: 
+S4: 
+S5: South America: LOC, Africa: LOC
+S6: 
+S7: Fossil Distribution: PERSON, Mesosaurus: GPE, Glossopteris: PERSON
+S8: 
+S9: the Appalachian Mountains: LOC, North America: LOC, the Caledonian Mountains: LOC, Europe: LOC
+S10: Paleoclimate: ORG
+S11: Earth: LOC
+S12: 
+S13: Limitations of Continental Drift: ORG
+S14: 
+S15: the 1960s: DATE
+S16: Earth: LOC
+S17: Earth: LOC
+S18: Continental: ORG, Earth: LOC
+S19: 
+S20: 
+S21: 
+S22: Earth: LOC

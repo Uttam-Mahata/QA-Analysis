@@ -1,0 +1,46 @@
+S1: What: PRON, are: AUX, the: DET, main: ADJ, components: NOUN, of: ADP, a: DET, relational: ADJ, database: NOUN, management: NOUN, system: NOUN, (: PUNCT, RDBMS),and: ADV, how: SCONJ, do: AUX, they: PRON, facilitate: VERB, efficient: ADJ, data: NOUN, organization: NOUN, and: CCONJ, retrieval: NOUN, ?: PUNCT
+S2: Ans-: CCONJ, 
+: SPACE, Main: PROPN, Components: PROPN, of: ADP, an: DET, RDBMS: NOUN, and: CCONJ, their: PRON, Roles: NOUN, in: ADP, Data: PROPN, Organization: PROPN, and: CCONJ, Retrieval: PROPN, :: PUNCT, 
+
+: SPACE, An: DET, RDBMS: NOUN, ,: PUNCT, like: ADP, a: DET, well: ADV, -: PUNCT, organized: VERB, library: NOUN, ,: PUNCT, stores: NOUN, and: CCONJ, manages: VERB, data: NOUN, efficiently: ADV, .: PUNCT
+S3: Here: ADV, are: AUX, its: PRON, key: ADJ, components: NOUN, and: CCONJ, their: PRON, roles: NOUN, :: PUNCT, 
+
+: SPACE, *: PUNCT, *: PUNCT, 1: NUM, .: PUNCT
+S4: Tables: NOUN, :*: PUNCT, *: PUNCT, Imagine: VERB, these: PRON, as: ADP, the: DET, library: NOUN, 's: PART, bookshelves: NOUN, .: PUNCT
+S5: Each: DET, table: NOUN, holds: VERB, related: ADJ, data: NOUN, ,: PUNCT, like: ADP, books: NOUN, on: ADP, a: DET, specific: ADJ, topic: NOUN, .: PUNCT
+S6: Each: DET, table: NOUN, has: VERB, rows: NOUN, (: PUNCT, records: NOUN, ): PUNCT, and: CCONJ, columns: NOUN, (: PUNCT, fields: NOUN, ):: PUNCT, 
+
+: SPACE, *: PUNCT, *: PUNCT, *: PUNCT, Rows: PROPN, :*: PROPN, *: PROPN, Think: VERB, of: ADP, these: PRON, as: ADP, individual: ADJ, books: NOUN, on: ADP, the: DET, shelf: NOUN, ,: PUNCT, each: PRON, containing: VERB, information: NOUN, about: ADP, a: DET, specific: ADJ, item: NOUN, (: PUNCT, e.g.: ADV, ,: PUNCT, customer: NOUN, ,: PUNCT, product: NOUN, ,: PUNCT, order: NOUN, ): PUNCT, .: PUNCT
+S7: *: PUNCT, *: PUNCT, *: PUNCT, Columns: NOUN, :*: PUNCT, *: PUNCT, These: PRON, are: AUX, the: DET, book: NOUN, 's: PART, categories: NOUN, like: ADP, title: NOUN, ,: PUNCT, author: NOUN, ,: PUNCT, or: CCONJ, publication: NOUN, date: NOUN, .: PUNCT
+S8: Each: DET, row: NOUN, has: VERB, a: DET, corresponding: ADJ, value: NOUN, for: ADP, each: DET, column: NOUN, .: PUNCT
+S9: *: PUNCT, *: PUNCT, 2: NUM, .: PUNCT
+S10: Keys: PROPN, :*: PUNCT, *: PUNCT, These: DET, act: NOUN, like: ADP, library: NOUN, indexes: NOUN, ,: PUNCT, helping: VERB, you: PRON, find: VERB, specific: ADJ, data: NOUN, quickly: ADV, .: PUNCT
+S11: *: PUNCT, *: PUNCT, *: PUNCT, Primary: PROPN, Key: PROPN, :*: PROPN, *: PUNCT, This: PRON, is: AUX, a: DET, unique: ADJ, identifier: NOUN, for: ADP, each: DET, row: NOUN, ,: PUNCT, like: ADP, a: DET, book: NOUN, 's: PART, ISBN: ADJ, number: NOUN, .: PUNCT
+S12: No: DET, two: NUM, rows: NOUN, can: AUX, have: VERB, the: DET, same: ADJ, primary: ADJ, key: NOUN, .: PUNCT
+S13: *: PUNCT, *: PUNCT, *: PUNCT, Foreign: PROPN, Key: PROPN, :*: PROPN, *: PUNCT, This: DET, links: VERB, related: ADJ, tables: NOUN, ,: PUNCT, like: ADP, connecting: VERB, a: DET, book: NOUN, to: ADP, its: PRON, author: NOUN, or: CCONJ, category: NOUN, .: PUNCT
+S14: It: PRON, references: VERB, the: DET, primary: ADJ, key: NOUN, of: ADP, another: DET, table: NOUN, .: PUNCT
+S15: *: PUNCT, *: PUNCT, 3: NUM, .: PUNCT
+S16: Relationships: NOUN, :*: PROPN, *: PUNCT, This: PRON, is: AUX, like: ADP, organizing: VERB, books: NOUN, by: ADP, genre: NOUN, or: CCONJ, author: NOUN, .: PUNCT
+S17: Tables: NOUN, can: AUX, be: AUX, linked: VERB, through: ADP, foreign: ADJ, keys: NOUN, ,: PUNCT, allowing: VERB, you: PRON, to: PART, retrieve: VERB, data: NOUN, across: ADP, tables: NOUN, .: PUNCT
+S18: For: ADP, example: NOUN, ,: PUNCT, you: PRON, can: AUX, find: VERB, all: DET, orders: NOUN, placed: VERB, by: ADP, a: DET, specific: ADJ, customer: NOUN, .: PUNCT
+S19: *: PUNCT, *: PUNCT, 4: NUM, .: PUNCT
+S20: Queries: NOUN, :*: PUNCT, *: PUNCT, These: PRON, are: AUX, like: ADP, search: NOUN, requests: NOUN, in: ADP, the: DET, library: NOUN, catalog: NOUN, .: PUNCT
+S21: You: PRON, use: VERB, keywords: NOUN, and: CCONJ, criteria: NOUN, to: PART, find: VERB, specific: ADJ, data: NOUN, ,: PUNCT, like: ADP, all: DET, books: NOUN, published: VERB, after: ADP, 2020: NUM, or: CCONJ, orders: NOUN, exceeding: VERB, a: DET, certain: ADJ, amount: NOUN, .: PUNCT
+S22: *: PUNCT, *: PUNCT, How: SCONJ, these: DET, components: NOUN, work: VERB, together: ADV, :*: PUNCT, *: PUNCT, 
+
+: SPACE, *: PUNCT, *: PUNCT, *: ADJ, Structured: ADJ, data: NOUN, :*: PUNCT, *: PUNCT, Tables: NOUN, organize: VERB, data: NOUN, into: ADP, clear: ADJ, categories: NOUN, ,: PUNCT, making: VERB, it: PRON, easier: ADJ, to: PART, understand: VERB, and: CCONJ, analyze: VERB, .: PUNCT
+S23: *: PUNCT, *: PUNCT, *: ADJ, Efficient: ADJ, retrieval: NOUN, :*: PUNCT, *: PUNCT, Keys: PROPN, and: CCONJ, queries: NOUN, help: VERB, you: PRON, find: VERB, specific: ADJ, data: NOUN, quickly: ADV, ,: PUNCT, even: ADV, in: ADP, large: ADJ, datasets: NOUN, .: PUNCT
+S24: *: PUNCT, *: PUNCT, *: PUNCT, Data: PROPN, integrity: NOUN, :*: PUNCT, *: NOUN, Keys: PROPN, ensure: VERB, unique: ADJ, identification: NOUN, and: CCONJ, prevent: VERB, duplicate: ADJ, entries: NOUN, .: PUNCT
+S25: Relationships: NOUN, prevent: VERB, data: NOUN, inconsistencies: NOUN, between: ADP, tables: NOUN, .: PUNCT
+S26: *: PUNCT, *: PUNCT, *: PUNCT, Flexibility: NOUN, :*: PUNCT, *: NOUN, You: PRON, can: AUX, add: VERB, ,: PUNCT, modify: VERB, ,: PUNCT, and: CCONJ, delete: ADJ, data: NOUN, without: ADP, affecting: VERB, other: ADJ, related: ADJ, data: NOUN, .: PUNCT
+S27: *: PUNCT, *: PUNCT, Benefits: NOUN, of: ADP, using: VERB, an: DET, RDBMS: NOUN, :*: PROPN, *: NOUN, 
+
+: SPACE, *: PUNCT, *: PUNCT, *: PUNCT, Organized: ADJ, and: CCONJ, reliable: ADJ, data: NOUN, storage: NOUN, *: PUNCT, *: PUNCT, 
+: SPACE, *: PUNCT, *: PUNCT, *: ADJ, Efficient: ADJ, data: NOUN, retrieval: NOUN, and: CCONJ, analysis: NOUN, *: NOUN, *: PUNCT, 
+: SPACE, *: PUNCT, *: PUNCT, *: PUNCT, Reduced: VERB, data: NOUN, redundancy: NOUN, and: CCONJ, errors: NOUN, *: PUNCT, *: PUNCT, 
+: SPACE, *: PUNCT, *: PUNCT, *: PUNCT, Scalability: NOUN, for: ADP, large: ADJ, datasets: NOUN, *: PUNCT, *: PUNCT, 
+: SPACE, *: PUNCT, *: PUNCT, *: PUNCT, Flexibility: NOUN, for: ADP, adapting: VERB, to: ADP, changing: VERB, needs: NOUN, *: NOUN, *: NOUN, 
+
+: SPACE, Remember: VERB, ,: PUNCT, this: PRON, is: AUX, a: DET, simplified: ADJ, overview: NOUN, .: PUNCT
+S28: RDBMSs: NOUN, have: VERB, many: ADJ, advanced: ADJ, features: NOUN, and: CCONJ, functionalities: NOUN, .: PUNCT
+S29: But: CCONJ, hopefully: ADV, ,: PUNCT, this: PRON, gives: VERB, you: PRON, a: DET, basic: ADJ, understanding: NOUN, of: ADP, how: SCONJ, these: DET, key: ADJ, components: NOUN, work: VERB, together: ADV, to: PART, make: VERB, data: NOUN, organization: NOUN, and: CCONJ, retrieval: NOUN, efficient: ADJ, and: CCONJ, reliable: ADJ, .: PUNCT

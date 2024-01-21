@@ -1,0 +1,16 @@
+S1: continental: ORG
+S2: Picture Earth: WORK_OF_ART
+S3: Millions of years ago: DATE, one: CARDINAL, Pangaea: ORG, one: CARDINAL
+S4: 
+S5: continental: ORG
+S6: South America: LOC, Africa: LOC
+S7: 
+S8: two: CARDINAL
+S9: 
+S10: 
+S11: 
+S12: 
+S13: continental: ORG
+S14: Earth: LOC, today: DATE
+S15: Earth: LOC
+S16: 

@@ -1,0 +1,9 @@
+S1: Continental: ORG, Earth: LOC
+S2: German: NORP, Alfred Wegener: PERSON, the early 20th century: DATE
+S3: 
+S4: the Atlantic Ocean: LOC
+S5: continental: ORG
+S6: 
+S7: continental: ORG
+S8: continental: ORG
+S9: Earth: LOC

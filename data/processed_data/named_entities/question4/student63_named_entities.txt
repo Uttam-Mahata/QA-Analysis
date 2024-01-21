@@ -1,0 +1,11 @@
+S1: The French Revolution: EVENT, France: GPE
+S2: Europe: LOC
+S3: France: GPE, first: ORDINAL
+S4: Firstly: ORDINAL, Revolution: EVENT, Europeans: NORP
+S5: Austria: GPE, Prussia: GPE, Italy: GPE
+S6: 
+S7: Secondly: ORDINAL, the French Republic: GPE
+S8: European: NORP, the French Republic: GPE, decades: DATE
+S9: 
+S10: the French Revolution's: EVENT, European: NORP
+S11: Europe: LOC

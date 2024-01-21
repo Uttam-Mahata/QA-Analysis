@@ -1,0 +1,11 @@
+S1: World War 3: EVENT
+S2: Emoji: PERSON, Interstellar Morse Code: WORK_OF_ART
+S3: the "Emoji Consortium: ORG, the "Morse Code Coalition: LAW
+S4: 
+S5: Language Laboratories: WORK_OF_ART, Morse: PERSON
+S6: 
+S7: emoji keyboards: PERSON, Morse: PERSON
+S8: Cosmic Linguistics Olympics: EVENT
+S9: Linguistic Armageddon: WORK_OF_ART, Morse: PERSON
+S10: 
+S11: 

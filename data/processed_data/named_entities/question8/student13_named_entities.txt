@@ -1,0 +1,14 @@
+S1: the Industrial Revolution: EVENT, Grand Masquerade Quest: WORK_OF_ART, Renaissance: ORG
+S2: Costume Ateliers: WORK_OF_ART
+S3: 
+S4: Mask Magic: WORK_OF_ART
+S5: 
+S6: Masked Galas: WORK_OF_ART
+S7: 
+S8: Transportation: ORG, Phantom Carriages: ORG
+S9: 
+S10: 
+S11: Dance Duels: WORK_OF_ART
+S12: 
+S13: the Industrial Revolution: EVENT
+S14: 

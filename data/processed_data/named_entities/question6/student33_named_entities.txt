@@ -1,0 +1,10 @@
+S1: 
+S2: Machine: ORG
+S3: three: CARDINAL
+S4: 
+S5: 
+S6: 
+S7: 
+S8: AI: ORG
+S9: AI: ORG
+S10: AI: ORG, AI: ORG

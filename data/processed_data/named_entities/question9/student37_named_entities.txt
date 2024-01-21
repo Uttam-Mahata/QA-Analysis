@@ -1,0 +1,24 @@
+S1: World War 3: EVENT
+S2: World War III: EVENT
+S3: 1: CARDINAL
+S4: Great Power Competition:*: ORG, U.S.: GPE, China: GPE, Russia: GPE
+S5: 2: CARDINAL
+S6: the South China Sea: LOC, the Korean Peninsula: LOC, Eastern Europe: LOC
+S7: 3: CARDINAL
+S8: 
+S9: 4: CARDINAL
+S10: 
+S11: 5: CARDINAL
+S12: 
+S13: 6: CARDINAL
+S14: 
+S15: 7: CARDINAL
+S16: 
+S17: 8: CARDINAL
+S18: 
+S19: 9: CARDINAL
+S20: 
+S21: 10: CARDINAL
+S22: 
+S23: 
+S24: 

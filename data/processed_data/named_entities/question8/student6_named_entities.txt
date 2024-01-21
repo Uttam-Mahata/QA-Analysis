@@ -1,0 +1,11 @@
+S1: the Industrial Revolution: EVENT
+S2: Wand-Operated Workshops: WORK_OF_ART
+S3: 
+S4: 
+S5: Levitating Villages: WORK_OF_ART
+S6: 
+S7: Teleportation Tumults: WORK_OF_ART
+S8: 
+S9: Wand Wielders': WORK_OF_ART
+S10: 
+S11: the Industrial Revolution: EVENT

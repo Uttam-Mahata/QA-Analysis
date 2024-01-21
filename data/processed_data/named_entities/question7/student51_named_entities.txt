@@ -1,0 +1,12 @@
+S1: Relational Database Management System: ORG
+S2: SQL: PERSON, Structured Query Language: ORG
+S3: 
+S4: 
+S5: one: CARDINAL
+S6: 
+S7: SQL: ORG
+S8: 
+S9: SQL: ORG
+S10: 
+S11: 
+S12: 

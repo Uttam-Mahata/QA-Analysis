@@ -1,0 +1,27 @@
+S1: 
+S2: 
+S3: Charles Darwin: PERSON, The Origin of Species: ORG, 1859: DATE
+S4: Darwin: PERSON
+S5: today: DATE
+S6: 
+S7: Jean-Baptiste Lamarck: PERSON
+S8: Alfred Russel Wallace: PERSON, Darwin: PERSON
+S9: Darwin: PERSON, today: DATE, Wallace: PERSON, Darwin: PERSON
+S10: Darwin: PERSON, the age of 50: DATE, The Origin: WORK_OF_ART, Wallace: PERSON, 502: CARDINAL
+S11: Darwin: PERSON, The Variation of Animals and Plants Under Domestication: WORK_OF_ART, 1868: DATE, The Descent of Man: ORG, Selection in Relation: ORG, The Expression of the Emotions in Man and Animals: WORK_OF_ART, 1872: DATE
+S12: Lamarck: PERSON
+S13: Lamarckian: NORP
+S14: 
+S15: CRISPR: PERSON, 1: CARDINAL
+S16: Lamarckian: GPE
+S17: Lamarckian: NORP
+S18: Lamarck: PERSON
+S19: Darwinian: NORP
+S20: Darwin: PERSON
+S21: Lamarckian: NORP
+S22: Darwin: PERSON
+S23: Origin: PERSON
+S24: Darwin: PERSON, T. H. Huxley’s: GPE, Theodosius Dobzhansky: PERSON, 2: CARDINAL, Mendelian: NORP, the Modern Synthesis: ORG
+S25: I. M. Lewis: PERSON, 3: CARDINAL, Lamarckian: NORP, Darwinian: NORP, Julian Huxley: PERSON, 4: CARDINAL, the Modern Synthesis: ORG, 1942: DATE, the very next year: DATE, Salvador Luria: PERSON, Max Delbrück: PERSON, 5: CARDINAL
+S26: 
+S27: Joshua: PERSON, Esther Lederberg: PERSON, 6: CARDINAL

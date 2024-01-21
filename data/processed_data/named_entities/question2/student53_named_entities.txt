@@ -1,0 +1,7 @@
+S1: Charles Darwin: PERSON, the mid-19th century: DATE, Earth: LOC
+S2: 
+S3: Darwin: PERSON, the Origin of Species: ORG
+S4: 
+S5: 
+S6: 
+S7: 

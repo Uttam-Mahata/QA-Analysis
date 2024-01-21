@@ -1,0 +1,34 @@
+S1: Explain: VERB, the: DET, concept: NOUN, of: ADP, continental: ADJ, drift: NOUN, and: CCONJ, provide: VERB, evidence: NOUN, supporting: VERB, this: DET, theory: NOUN, .: PUNCT
+S2: Ans-: CCONJ, 
+: SPACE, Continental: PROPN, Drift: PROPN, :: PUNCT, A: DET, Continent: PROPN, Odyssey: PROPN, 
+: SPACE, Continental: PROPN, drift: NOUN, ,: PUNCT, proposed: VERB, in: ADP, the: DET, early: ADJ, 20th: ADJ, century: NOUN, ,: PUNCT, was: AUX, a: DET, revolutionary: ADJ, hypothesis: NOUN, that: PRON, challenged: VERB, the: DET, static: ADJ, view: NOUN, of: ADP, Earth: PROPN, 's: PART, continents: NOUN, .: PUNCT
+S3: It: PRON, essentially: ADV, suggested: VERB, that: SCONJ, these: DET, landmasses: NOUN, are: AUX, n't: PART, fixed: VERB, but: CCONJ, move: VERB, slowly: ADV, across: ADP, the: DET, globe: NOUN, over: ADP, geological: ADJ, timescales: NOUN, .: PUNCT
+S4: While: SCONJ, the: DET, term: NOUN, itself: PRON, is: AUX, n't: PART, used: VERB, in: ADP, modern: ADJ, geology: NOUN, ,: PUNCT, its: PRON, core: ADJ, idea: NOUN, forms: VERB, the: DET, foundation: NOUN, of: ADP, the: DET, accepted: VERB, theory: NOUN, of: ADP, plate: NOUN, tectonics: NOUN, .: PUNCT
+S5: Evidence: NOUN, for: ADP, Continental: PROPN, Drift: PROPN, :: PUNCT, 
+
+: SPACE, Continental: PROPN, Fit: PROPN, :: PUNCT, The: DET, most: ADV, striking: ADJ, evidence: NOUN, comes: VERB, from: ADP, the: DET, uncanny: ADJ, ": PUNCT, jigsaw: NOUN, puzzle: NOUN, ": PUNCT, fit: NOUN, of: ADP, the: DET, continents: NOUN, ': PART, coastlines: NOUN, ,: PUNCT, particularly: ADV, South: PROPN, America: PROPN, and: CCONJ, Africa: PROPN, .: PUNCT
+S6: This: DET, perfect: ADJ, alignment: NOUN, would: AUX, n't: PART, be: AUX, possible: ADJ, if: SCONJ, they: PRON, had: AUX, n't: PART, once: ADV, been: AUX, joined: VERB, .: PUNCT
+S7: Fossil: PROPN, Distribution: PROPN, :: PUNCT, Similar: ADJ, fossils: NOUN, of: ADP, land: NOUN, -: PUNCT, dwelling: VERB, plants: NOUN, and: CCONJ, animals: NOUN, ,: PUNCT, like: ADP, Mesosaurus: PROPN, and: CCONJ, Glossopteris: PROPN, ferns: NOUN, ,: PUNCT, are: AUX, found: VERB, on: ADP, continents: NOUN, now: ADV, separated: VERB, by: ADP, vast: ADJ, oceans: NOUN, .: PUNCT
+S8: This: PRON, suggests: VERB, they: PRON, shared: VERB, a: DET, common: ADJ, landmass: NOUN, in: ADP, the: DET, past: NOUN, .: PUNCT
+S9: Rock: PROPN, Formations: PROPN, :: PUNCT, Matching: VERB, rock: NOUN, formations: NOUN, and: CCONJ, mountain: NOUN, ranges: VERB, across: ADP, continents: NOUN, ,: PUNCT, like: ADP, the: DET, Appalachian: PROPN, Mountains: PROPN, in: ADP, North: PROPN, America: PROPN, and: CCONJ, the: DET, Caledonian: PROPN, Mountains: PROPN, in: ADP, Europe: PROPN, ,: PUNCT, provide: VERB, strong: ADJ, evidence: NOUN, for: ADP, past: ADJ, continental: ADJ, connections: NOUN, .: PUNCT
+S10: Paleoclimate: NOUN, :: PUNCT, Reconstructions: NOUN, of: ADP, ancient: ADJ, climates: NOUN, based: VERB, on: ADP, rock: NOUN, types: NOUN, and: CCONJ, fossils: NOUN, indicate: VERB, past: ADJ, movements: NOUN, of: ADP, continents: NOUN, relative: ADJ, to: ADP, climate: NOUN, zones: NOUN, .: PUNCT
+S11: Magnetic: PROPN, Stripes: PROPN, :: PUNCT, The: DET, ocean: NOUN, floor: NOUN, exhibits: VERB, alternating: VERB, bands: NOUN, of: ADP, normal: ADJ, and: CCONJ, reversed: ADJ, magnetism: NOUN, ,: PUNCT, mirroring: VERB, the: DET, Earth: PROPN, 's: PART, magnetic: ADJ, field: NOUN, flips: NOUN, .: PUNCT
+S12: These: DET, stripes: NOUN, match: VERB, up: ADP, on: ADP, opposing: VERB, continents: NOUN, ,: PUNCT, indicating: VERB, they: PRON, were: AUX, once: ADV, joined: VERB, and: CCONJ, drifted: VERB, apart: ADV, .: PUNCT
+S13: Limitations: NOUN, of: ADP, Continental: PROPN, Drift: PROPN, :: PUNCT, 
+
+: SPACE, While: SCONJ, continental: ADJ, drift: NOUN, offered: VERB, a: DET, compelling: ADJ, explanation: NOUN, for: ADP, continental: ADJ, movement: NOUN, ,: PUNCT, it: PRON, lacked: VERB, a: DET, convincing: ADJ, mechanism: NOUN, for: ADP, how: SCONJ, it: PRON, actually: ADV, happened: VERB, .: PUNCT
+S14: This: PRON, led: VERB, to: ADP, its: PRON, initial: ADJ, rejection: NOUN, by: ADP, the: DET, scientific: ADJ, community: NOUN, .: PUNCT
+S15: The: DET, Rise: NOUN, of: ADP, Plate: PROPN, Tectonics: NOUN, :: PUNCT, 
+
+: SPACE, In: ADP, the: DET, 1960s: NOUN, ,: PUNCT, the: DET, discovery: NOUN, of: ADP, seafloor: NOUN, spreading: VERB, and: CCONJ, plate: NOUN, tectonics: NOUN, provided: VERB, the: DET, missing: ADJ, piece: NOUN, .: PUNCT
+S16: This: DET, theory: NOUN, established: VERB, that: SCONJ, Earth: PROPN, 's: PART, surface: NOUN, is: AUX, divided: VERB, into: ADP, rigid: ADJ, plates: NOUN, floating: VERB, on: ADP, a: DET, viscous: ADJ, mantle: NOUN, .: PUNCT
+S17: Convection: NOUN, currents: NOUN, in: ADP, the: DET, mantle: NOUN, move: VERB, these: DET, plates: NOUN, ,: PUNCT, causing: VERB, continents: NOUN, to: PART, drift: NOUN, ,: PUNCT, collide: ADJ, ,: PUNCT, and: CCONJ, diverge: VERB, ,: PUNCT, explaining: VERB, continental: ADJ, drift: NOUN, and: CCONJ, other: ADJ, Earth: PROPN, dynamics: NOUN, .: PUNCT
+S18: Continental: ADJ, drift: NOUN, laid: VERB, the: DET, foundation: NOUN, for: ADP, plate: NOUN, tectonics: NOUN, ,: PUNCT, revolutionizing: VERB, our: PRON, understanding: NOUN, of: ADP, Earth: PROPN, 's: PART, dynamic: ADJ, past: NOUN, and: CCONJ, shaping: VERB, the: DET, future: NOUN, of: ADP, geology: NOUN, .: PUNCT
+S19: Beyond: ADP, the: DET, evidence: NOUN, :: PUNCT, 
+
+: SPACE, Understanding: VERB, continental: ADJ, drift: NOUN, and: CCONJ, plate: NOUN, tectonics: NOUN, has: VERB, immense: ADJ, implications: NOUN, for: ADP, various: ADJ, fields: NOUN, :: PUNCT, 
+
+: SPACE, Predicting: VERB, Earthquakes: PROPN, and: CCONJ, Volcanoes: NOUN, :: PUNCT, Plate: NOUN, boundaries: NOUN, mark: VERB, active: ADJ, zones: NOUN, where: SCONJ, earthquakes: NOUN, and: CCONJ, volcanic: ADJ, eruptions: NOUN, occur: VERB, .: PUNCT
+S20: Resource: PROPN, Exploration: PROPN, :: PUNCT, Minerals: PROPN, and: CCONJ, fossil: NOUN, fuels: NOUN, often: ADV, concentrate: VERB, at: ADP, plate: NOUN, boundaries: NOUN, or: CCONJ, within: ADP, moving: VERB, plates: NOUN, .: PUNCT
+S21: Climate: NOUN, Change: NOUN, :: PUNCT, Plate: ADJ, movements: NOUN, influence: NOUN, ocean: NOUN, currents: NOUN, and: CCONJ, global: ADJ, climate: NOUN, patterns: NOUN, .: PUNCT
+S22: By: ADP, understanding: VERB, the: DET, Earth: PROPN, 's: PART, restless: ADJ, continents: NOUN, ,: PUNCT, we: PRON, gain: VERB, a: DET, deeper: ADJ, appreciation: NOUN, for: ADP, our: PRON, planet: NOUN, 's: PART, dynamic: ADJ, history: NOUN, and: CCONJ, a: DET, better: ADJ, glimpse: NOUN, into: ADP, its: PRON, future: NOUN, .: PUNCT

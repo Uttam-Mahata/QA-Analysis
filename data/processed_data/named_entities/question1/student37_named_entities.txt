@@ -1,0 +1,17 @@
+S1: continental: ORG
+S2: continental: ORG, Alfred Wegener: PERSON, the early 20th century: DATE, Earth: LOC
+S3: Wegener: ORG, Pangaea: GPE
+S4: Wegener: ORG, Earth: LOC
+S5: Firstly: ORDINAL, South America: LOC, Africa: LOC
+S6: 
+S7: Secondly: ORDINAL
+S8: 
+S9: 
+S10: the Appalachian Mountains: NORP, North America: LOC, the Caledonian Mountains: LOC, Scotland: GPE, Scandinavia: LOC
+S11: 
+S12: 
+S13: Wegener: ORG
+S14: the mid-20th century: DATE, continental: ORG
+S15: Plate: ORG, Earth: LOC
+S16: continental: ORG, Earth: LOC
+S17: 

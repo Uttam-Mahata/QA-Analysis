@@ -1,0 +1,11 @@
+S1: the French Revolution on European societies: EVENT
+S2: The French Revolution: EVENT, France: GPE, Europe: LOC
+S3: 1789: DATE, the 1790s: DATE, Napoleon Bonaparte: ORG, Europe: LOC, the Near East: LOC, 1992: DATE
+S4: European: NORP, Watson: PERSON, 1992: DATE
+S5: Secondly: ORDINAL, European: NORP, European: NORP, Europe: LOC
+S6: the Revolution for France,: EVENT, Europe: LOC
+S7: Halliday, 1999: DATE
+S8: France: GPE, the turn of the 18th
+century: DATE, Louis XVI: PERSON, France: GPE, the American Revolution: EVENT, Wendt, 1992: DATE
+S9: decades: DATE, Watson: PERSON, 1992: DATE
+S10: French: NORP

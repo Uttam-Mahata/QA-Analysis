@@ -1,0 +1,3 @@
+S1: continental: ORG
+S2: Continental: ORG, Earth: LOC, Alfred Wegener: PERSON, the early 20th century: DATE, continental: ORG, Earth: LOC, Evidence: LOC, Africa: LOC, South America: LOC, Identical: LOC, the Atlantic Ocean: LOC, Mountain: GPE, Ancient: ORG, continental: ORG
+S3: continental: ORG, continental: ORG

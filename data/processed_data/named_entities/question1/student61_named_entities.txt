@@ -1,0 +1,7 @@
+S1: Continental: ORG, Earth: LOC, Pangaea: ORG, millions of years: DATE
+S2: Alfred Wegener: PERSON, the early 20th century: DATE
+S3: One: CARDINAL, South America: LOC, Africa: LOC
+S4: 
+S5: Mesosaurus: PERSON, South America: LOC, Africa: LOC
+S6: 
+S7: 

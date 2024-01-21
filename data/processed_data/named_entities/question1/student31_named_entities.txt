@@ -1,0 +1,18 @@
+S1: continental: ORG
+S2: Imagine Earth: FAC
+S3: continental: ORG
+S4: 
+S5: South America: LOC, Africa: LOC
+S6: two: CARDINAL
+S7: Fossil Frenzy: PERSON, Glossopteris: PERSON, South America: LOC, Africa: LOC, India: GPE, Australia: GPE
+S8: 
+S9: Appalachians: NORP, North America: LOC, Europe: LOC
+S10: 
+S11: Paleoclimate: ORG
+S12: 
+S13: Alfred Wegener: PERSON, 1912: DATE, Pangea: ORG, 200 million years ago: DATE
+S14: the 1960s: DATE
+S15: Earth: LOC
+S16: Today: DATE, continental: ORG
+S17: 
+S18: 

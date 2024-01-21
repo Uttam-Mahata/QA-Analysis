@@ -1,0 +1,10 @@
+S1: Continental: ORG, Earth: LOC
+S2: 
+S3: South America: LOC, Africa: LOC
+S4: Fossil: PERSON
+S5: Antarctica: LOC, India: GPE
+S6: 
+S7: Appalachian Mountains: LOC, European: NORP
+S8: Earth: LOC
+S9: poles: NORP
+S10: continental: ORG, Earth: LOC

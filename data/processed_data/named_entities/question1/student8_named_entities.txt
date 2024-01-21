@@ -1,0 +1,8 @@
+S1: Alfred Wegener: PERSON, Pangaea: GPE
+S2: 
+S3: 
+S4: 
+S5: 
+S6: One: CARDINAL, Wegener: ORG
+S7: Wegener: ORG
+S8: 

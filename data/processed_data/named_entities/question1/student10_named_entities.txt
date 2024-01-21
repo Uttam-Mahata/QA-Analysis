@@ -1,0 +1,7 @@
+S1: Alfred Wegener's: PERSON
+S2: 
+S3: Earth: LOC
+S4: Wegener: ORG
+S5: Wegener: ORG
+S6: Earthly: GPE
+S7: Wegener: ORG

@@ -1,0 +1,9 @@
+S1: Alfred Wegener: PERSON
+S2: 
+S3: Wegener: ORG
+S4: Wegener: ORG
+S5: one: CARDINAL, Earth: LOC
+S6: Wegener: ORG, Earth: LOC
+S7: Wegener: ORG
+S8: 
+S9: Wegener: ORG

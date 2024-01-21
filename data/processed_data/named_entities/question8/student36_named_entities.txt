@@ -1,0 +1,12 @@
+S1: 
+S2: The Industrial Revolution: EVENT, between the 18th and 19th centuries: DATE
+S3: 
+S4: today: DATE
+S5: 
+S6: 
+S7: 
+S8: 
+S9: 
+S10: the Industrial Revolution's: EVENT
+S11: 
+S12: 

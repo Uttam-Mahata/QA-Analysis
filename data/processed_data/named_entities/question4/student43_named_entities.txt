@@ -1,0 +1,9 @@
+S1: the French Revolution on European societies: EVENT
+S2: The French Revolution: EVENT, 1789: DATE, the early 19th century: DATE, European: NORP
+S3: France: GPE
+S4: the French Revolution: EVENT
+S5: Napoleonic: ORG, French: NORP
+S6: the Congress of Vienna: ORG, 1815: DATE, European: NORP, the French Revolution: EVENT
+S7: the 19th century: DATE
+S8: the French Revolution: EVENT
+S9: 

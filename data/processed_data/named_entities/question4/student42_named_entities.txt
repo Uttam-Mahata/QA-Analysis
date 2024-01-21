@@ -1,0 +1,25 @@
+S1: the French Revolution on European societies: EVENT
+S2: French: NORP, the American revolution of: EVENT, 1776: DATE
+S3: 
+S4: 
+S5: 
+S6: the end of 1786: DATE, Charles Alexandre de Calonne: PERSON
+S7: centuries: DATE, The King: WORK_OF_ART, Estates: ORG
+S8: Estates: ORG, French: NORP
+S9: Estates: ORG, 1614: DATE
+S10: May 5 1789: DATE, three: CARDINAL, the Difference Between Democracy and Monarchy: LAW
+S11: French Revolution: EVENT, France: GPE, the late 18th century: DATE
+S12: first: ORDINAL, two: CARDINAL, Estates: ORG, French: NORP
+S13: State: ORG
+S14: 
+S15: 
+S16: 
+S17: Louis XVI: PERSON, State: ORG
+S18: France: GPE, the American War of Independence: EVENT
+S19: 
+S20: France: GPE, Louis XVI: PERSON
+S21: 
+S22: The 18th century: DATE, French: NORP, the ‘Divine Rights Theory: ORG
+S23: Rousseau: PERSON
+S24: 
+S25: 

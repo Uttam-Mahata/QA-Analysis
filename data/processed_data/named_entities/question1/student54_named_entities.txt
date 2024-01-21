@@ -1,0 +1,8 @@
+S1: Continental: ORG, Earth: LOC
+S2: the early 20th century: DATE, Earth: LOC
+S3: continental: ORG
+S4: the Atlantic Ocean: LOC
+S5: 
+S6: 
+S7: continental: ORG, Earth: LOC
+S8: continental: ORG, Earth: LOC

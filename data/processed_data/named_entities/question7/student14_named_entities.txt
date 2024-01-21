@@ -1,0 +1,10 @@
+S1: Data Mirage Generator: WORK_OF_ART
+S2: Data Mirage Sandcastles: WORK_OF_ART
+S3: Cryptic Sigils: WORK_OF_ART
+S4: Fata Morgana Beacons: WORK_OF_ART
+S5: Structured Query Language: ORG, SQL: ORG, Whimsical Query Poetry: ORG
+S6: Juggling Acts: WORK_OF_ART
+S7: 
+S8: Data Mirage Dances: WORK_OF_ART
+S9: Data Mirage Mirrors: WORK_OF_ART
+S10: Data Mirage Mosaics: WORK_OF_ART

@@ -1,0 +1,7 @@
+S1: Continental: ORG, Earth: LOC
+S2: Alfred Wegener: PERSON, the early 20th century: DATE, Pangaea: ORG
+S3: Wegener: ORG, continental: ORG
+S4: One: CARDINAL, South America: LOC, Africa: LOC
+S5: Fossil: PERSON
+S6: continental: ORG
+S7: Africa: LOC, South America: LOC

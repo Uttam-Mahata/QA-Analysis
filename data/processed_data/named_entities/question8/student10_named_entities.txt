@@ -1,0 +1,13 @@
+S1: the Industrial Revolution: EVENT
+S2: Epicurean Factories: WORK_OF_ART
+S3: Culinary Contraptions: ORG
+S4: 
+S5: Gourmet Metropolises: WORK_OF_ART
+S6: 
+S7: Transportation: ORG, Gastronomic Expeditions: WORK_OF_ART
+S8: 
+S9: 
+S10: Flavorful Negotiations: WORK_OF_ART
+S11: 
+S12: the Industrial Revolution: EVENT
+S13: 

@@ -1,0 +1,11 @@
+S1: continental: ORG, Alfred Wegener: PERSON, the early 20th century: DATE, Earth: LOC, Pangaea: ORG
+S2: 
+S3: Firstly: ORDINAL, South America: LOC, Africa: LOC
+S4: Secondly: ORDINAL
+S5: 
+S6: 
+S7: poles: NORP, continental: ORG
+S8: 
+S9: Earth: LOC
+S10: continental: ORG
+S11: continental: ORG

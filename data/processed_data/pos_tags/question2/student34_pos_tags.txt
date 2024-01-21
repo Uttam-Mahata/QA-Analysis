@@ -1,0 +1,35 @@
+S1: Elaborate: VERB, on: ADP, the: DET, concept: NOUN, of: ADP, natural: ADJ, selection: NOUN, and: CCONJ, its: PRON, role: NOUN, in: ADP, the: DET, theory: NOUN, of: ADP, evolution: NOUN, .: PUNCT
+S2: Provide: VERB, examples: NOUN, of: ADP, how: SCONJ, natural: ADJ, selection: NOUN, can: AUX, lead: VERB, to: ADP, the: DET, adaptation: NOUN, of: ADP, species: NOUN, over: ADP, time: NOUN, .: PUNCT
+S3: Ans-: ADV, 
+: SPACE, #: SYM, #: NOUN, Nature: NOUN, 's: PART, Masterpiece: NOUN, :: PUNCT, How: SCONJ, Natural: ADJ, Selection: PROPN, Shapes: PROPN, Life: PROPN, 
+
+: SPACE, Imagine: VERB, a: DET, vast: ADJ, canvas: NOUN, where: SCONJ, nature: NOUN, paints: VERB, with: ADP, living: NOUN, creatures: NOUN, .: PUNCT
+S4: Each: DET, brushstroke: NOUN, is: AUX, a: DET, unique: ADJ, organism: NOUN, ,: PUNCT, and: CCONJ, over: ADP, time: NOUN, ,: PUNCT, the: DET, painting: NOUN, transforms: VERB, through: ADP, a: DET, magnificent: ADJ, process: NOUN, called: VERB, *: ADJ, *: ADJ, natural: ADJ, selection: NOUN, *: PROPN, *: PUNCT, .: PUNCT
+S5: This: PRON, is: AUX, one: NUM, of: ADP, the: DET, driving: VERB, forces: NOUN, behind: ADP, *: PUNCT, *: PUNCT, evolution: NOUN, *: PROPN, *: PROPN, ,: PUNCT, the: DET, gradual: ADJ, change: NOUN, in: ADP, the: DET, characteristics: NOUN, of: ADP, a: DET, species: NOUN, over: ADP, generations: NOUN, .: PUNCT
+S6: Here: ADV, 's: AUX, how: SCONJ, it: PRON, works: VERB, :: PUNCT, 
+
+: SPACE, 1: NUM, .: PUNCT
+S7: *: PUNCT, *: PUNCT, Variation: PROPN, :*: PUNCT, *: PUNCT, Every: DET, living: VERB, thing: NOUN, is: AUX, unique: ADJ, ,: PUNCT, with: ADP, slight: ADJ, differences: NOUN, in: ADP, traits: NOUN, like: ADP, size: NOUN, ,: PUNCT, color: NOUN, ,: PUNCT, or: CCONJ, behavior: NOUN, .: PUNCT
+S8: These: DET, variations: NOUN, arise: VERB, from: ADP, mutations: NOUN, in: ADP, genes: NOUN, ,: PUNCT, nature: PROPN, 's: PART, tinkering: NOUN, tools: NOUN, .: PUNCT
+S9: 2: X, .: PUNCT
+S10: *: PUNCT, *: PUNCT, Differential: PROPN, Survival: PROPN, and: CCONJ, Reproduction: PROPN, :*: PROPN, *: PUNCT, Not: PART, all: DET, variations: NOUN, are: AUX, equally: ADV, helpful: ADJ, .: PUNCT
+S11: Some: DET, traits: NOUN, might: AUX, make: VERB, an: DET, organism: NOUN, better: ADV, at: ADP, finding: VERB, food: NOUN, ,: PUNCT, escaping: VERB, predators: NOUN, ,: PUNCT, or: CCONJ, attracting: VERB, mates: NOUN, .: PUNCT
+S12: These: DET, individuals: NOUN, are: AUX, more: ADV, likely: ADJ, to: PART, survive: VERB, and: CCONJ, reproduce: VERB, ,: PUNCT, passing: VERB, their: PRON, advantageous: ADJ, traits: NOUN, on: ADP, to: ADP, their: PRON, offspring: NOUN, .: PUNCT
+S13: 3: X, .: PUNCT
+S14: *: PUNCT, *: PUNCT, Gradual: PROPN, Change: PROPN, :*: PUNCT, *: PUNCT, Over: ADP, generations: NOUN, ,: PUNCT, the: DET, beneficial: ADJ, traits: NOUN, become: VERB, more: ADV, common: ADJ, in: ADP, the: DET, population: NOUN, as: SCONJ, the: DET, less: ADV, helpful: ADJ, ones: NOUN, fade: VERB, away: ADV, .: PUNCT
+S15: This: DET, gradual: ADJ, shift: NOUN, in: ADP, the: DET, overall: ADJ, characteristics: NOUN, of: ADP, the: DET, species: NOUN, is: AUX, what: PRON, we: PRON, call: VERB, *: NOUN, *: NOUN, adaptation: NOUN, *: NOUN, *: PUNCT, .: PUNCT
+S16: *: PUNCT, *: PUNCT, Nature: PROPN, 's: PART, Toolbox: PROPN, :*: PROPN, *: NOUN, Let: VERB, 's: PRON, see: VERB, how: SCONJ, natural: ADJ, selection: NOUN, can: AUX, play: VERB, out: ADP, in: ADP, real: ADJ, life: NOUN, :: PUNCT, 
+
+: SPACE, *: PUNCT, *: PUNCT, *: PUNCT, Peppered: PROPN, Moth: PROPN, :*: PROPN, *: NOUN, In: ADP, pre: ADJ, -: ADJ, industrial: ADJ, England: PROPN, ,: PUNCT, light: ADJ, -: PUNCT, colored: VERB, peppered: ADJ, moths: NOUN, blended: VERB, with: ADP, lichen: NOUN, -: PUNCT, covered: VERB, trees: NOUN, ,: PUNCT, making: VERB, them: PRON, hard: ADJ, for: SCONJ, predators: NOUN, to: PART, see: VERB, .: PUNCT
+S17: But: CCONJ, when: SCONJ, pollution: NOUN, darkened: VERB, the: DET, trees: NOUN, ,: PUNCT, dark: ADJ, -: PUNCT, colored: VERB, moths: NOUN, gained: VERB, an: DET, advantage: NOUN, .: PUNCT
+S18: Through: ADP, natural: ADJ, selection: NOUN, ,: PUNCT, dark: ADJ, moths: NOUN, became: VERB, more: ADV, common: ADJ, ,: PUNCT, while: SCONJ, the: DET, lighter: ADJ, ones: NOUN, struggled: VERB, .: PUNCT
+S19: *: PUNCT, *: PUNCT, *: PUNCT, Antibiotic: PROPN, Resistance: PROPN, :*: PROPN, *: PUNCT, Bacteria: NOUN, constantly: ADV, evolve: VERB, ,: PUNCT, and: CCONJ, some: PRON, develop: VERB, resistance: NOUN, to: ADP, antibiotics: NOUN, .: PUNCT
+S20: If: SCONJ, these: DET, resistant: ADJ, bacteria: NOUN, survive: VERB, and: CCONJ, reproduce: VERB, ,: PUNCT, their: PRON, offspring: NOUN, inherit: NOUN, the: DET, resistance: NOUN, ,: PUNCT, making: VERB, it: PRON, harder: ADJ, to: PART, treat: VERB, infections: NOUN, in: ADP, the: DET, future: NOUN, .: PUNCT
+S21: *: PUNCT, *: PUNCT, *: PUNCT, Beak: NOUN, of: ADP, the: DET, Finch: PROPN, :*: PROPN, *: PUNCT, Charles: PROPN, Darwin: PROPN, ,: PUNCT, the: DET, father: NOUN, of: ADP, evolution: NOUN, theory: NOUN, ,: PUNCT, observed: VERB, finches: NOUN, on: ADP, the: DET, Galapagos: PROPN, Islands: PROPN, .: PUNCT
+S22: Each: DET, finch: NOUN, species: NOUN, had: VERB, a: DET, uniquely: ADV, shaped: VERB, beak: NOUN, suited: VERB, to: ADP, its: PRON, food: NOUN, source: NOUN, .: PUNCT
+S23: Over: ADP, time: NOUN, ,: PUNCT, natural: ADJ, selection: NOUN, favored: VERB, beaks: NOUN, that: PRON, best: ADV, cracked: VERB, open: ADJ, seeds: NOUN, or: CCONJ, reached: VERB, hidden: VERB, insects: NOUN, ,: PUNCT, leading: VERB, to: ADP, diverse: VERB, beak: NOUN, shapes: NOUN, and: CCONJ, specialized: ADJ, diets: NOUN, .: PUNCT
+S24: Remember: VERB, ,: PUNCT, natural: ADJ, selection: NOUN, is: AUX, a: DET, slow: ADJ, and: CCONJ, continuous: ADJ, process: NOUN, ,: PUNCT, like: ADP, watching: VERB, paint: NOUN, dry: ADJ, on: ADP, a: DET, grand: ADJ, scale: NOUN, .: PUNCT
+S25: But: CCONJ, its: PRON, impact: NOUN, is: AUX, undeniable: ADJ, ,: PUNCT, shaping: VERB, the: DET, incredible: ADJ, diversity: NOUN, of: ADP, life: NOUN, on: ADP, Earth: PROPN, ,: PUNCT, from: ADP, the: DET, camouflage: NOUN, of: ADP, a: DET, chameleon: NOUN, to: ADP, the: DET, speed: NOUN, of: ADP, a: DET, cheetah: NOUN, .: PUNCT
+S26: It: PRON, 's: AUX, important: ADJ, to: PART, understand: VERB, that: SCONJ, natural: ADJ, selection: NOUN, is: AUX, just: ADV, one: NUM, piece: NOUN, of: ADP, the: DET, complex: ADJ, puzzle: NOUN, of: ADP, evolution: NOUN, .: PUNCT
+S27: Other: ADJ, factors: NOUN, ,: PUNCT, like: ADP, genetic: ADJ, drift: NOUN, and: CCONJ, artificial: ADJ, selection: NOUN, ,: PUNCT, also: ADV, play: VERB, a: DET, role: NOUN, .: PUNCT
+S28: But: CCONJ, by: ADP, understanding: VERB, natural: ADJ, selection: NOUN, ,: PUNCT, we: PRON, gain: VERB, a: DET, deeper: ADJ, appreciation: NOUN, for: ADP, the: DET, intricate: ADJ, dance: NOUN, between: ADP, life: NOUN, and: CCONJ, its: PRON, environment: NOUN, ,: PUNCT, a: DET, dance: NOUN, that: PRON, has: AUX, been: AUX, playing: VERB, out: ADP, for: ADP, billions: NOUN, of: ADP, years: NOUN, .: PUNCT
