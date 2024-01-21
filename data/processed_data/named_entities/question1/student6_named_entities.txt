@@ -1,0 +1,5 @@
+S1: Continental: ORG, Alfred Wegener: PERSON
+S2: 
+S3: 
+S4: Wegener: ORG
+S5: Wegener: ORG

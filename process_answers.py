@@ -1,84 +1,69 @@
 import os
 import spacy
-import nltk
 from nltk.tokenize import sent_tokenize
 
-# Download NLTK resources
-nltk.download('punkt')
+# Load spaCy English language model
+nlp = spacy.load("en_core_web_sm")
 
-def pos_tagging(answer):
-    # Load spaCy English language model
-    nlp = spacy.load("en_core_web_sm")
-
-    # Process the answer using spaCy
-    doc = nlp(answer)
+def pos_tagging(sentence, question_number, student_number, sentence_number, pos_file):
+    # Process the sentence using spaCy
+    doc = nlp(sentence)
 
     # Extract POS tags
     pos_tags = [(token.text, token.pos_) for token in doc]
 
-    return pos_tags
+    # Save POS tags to the provided file for each sentence
+    pos_file.write(f"S{sentence_number}: {', '.join([f'{pos[0]}: {pos[1]}' for pos in pos_tags])}\n")
 
-def named_entity_extraction(answer):
-    # Load spaCy English language model
-    nlp = spacy.load("en_core_web_sm")
-
-    # Process the answer using spaCy
-    doc = nlp(answer)
+def named_entity_extraction(sentence, question_number, student_number, sentence_number, ner_file):
+    # Process the sentence using spaCy
+    doc = nlp(sentence)
 
     # Extract named entities
     named_entities = [(ent.text, ent.label_) for ent in doc.ents]
 
-    return named_entities
+    # Save named entities to the provided file for each sentence
+    ner_file.write(f"S{sentence_number}: {', '.join([f'{ne[0]}: {ne[1]}' for ne in named_entities])}\n")
 
 def process_student_answers():
-    # Set the path to the raw student answers
-    raw_data_path = os.path.join(os.getcwd(), 'data', 'raw_data', 'answers')
-
     # Loop through each question and each student's answer
-    for i in range(1, 11):
-        question_answers_path = os.path.join(raw_data_path, f'question{i}')
+    for question_number in range(1, 11):
+        for student_number in range(1, 16):  # Adjusted the range to 15 students
+            # Create directories to store processed answers, POS tags, and named entities
+            processed_folder = f"data/processed_data/processed_answers/question{question_number}"
+            os.makedirs(processed_folder, exist_ok=True)
 
-        # Create folders for processed answers, POS tags, and named entities
-        processed_folder = os.path.join(question_answers_path, 'processed_answers')
-        pos_tags_folder = os.path.join(question_answers_path, 'pos_tags')
-        named_entities_folder = os.path.join(question_answers_path, 'named_entities')
+            pos_folder = f"data/processed_data/pos_tags/question{question_number}"
+            os.makedirs(pos_folder, exist_ok=True)
 
-        os.makedirs(processed_folder, exist_ok=True)
-        os.makedirs(pos_tags_folder, exist_ok=True)
-        os.makedirs(named_entities_folder, exist_ok=True)
+            ner_folder = f"data/processed_data/named_entities/question{question_number}"
+            os.makedirs(ner_folder, exist_ok=True)
 
-        for j in range(1, 65):  # Adjusted the range to 15 students
-            answer_file_path = os.path.join(question_answers_path, f'student{j}_answer.txt')
+            # Create files to store POS tags and named entities for each student's answer
+            pos_file_path = os.path.join(pos_folder, f"student{student_number}_pos_tags.txt")
+            ner_file_path = os.path.join(ner_folder, f"student{student_number}_named_entities.txt")
 
-            # Read the raw answer from the file
-            with open(answer_file_path, 'r', encoding='utf-8') as answer_file:
-                raw_answer = answer_file.read()
+            with open(pos_file_path, 'w', encoding='utf-8') as pos_file, \
+                 open(ner_file_path, 'w', encoding='utf-8') as ner_file:
+                # Read the raw answer from the file
+                answer_file_path = f"data/raw_data/answers/question{question_number}/student{student_number}_answer.txt"
+                with open(answer_file_path, 'r', encoding='utf-8') as answer_file:
+                    raw_answer = answer_file.read()
 
-            # Starting a new line after each full stop
-            processed_answer = '\n'.join(sent_tokenize(raw_answer))
+                # Save the processed answer to a file
+                processed_answer_file_path = os.path.join(processed_folder, f'student{student_number}_processed_answer.txt')
+                with open(processed_answer_file_path, 'w', encoding='utf-8') as processed_answer_file:
+                    # Tokenize the answer into sentences after full stops and start a new line
+                    sentences = sent_tokenize(raw_answer)
+                    processed_answer_file.write('\n'.join(sentences))
 
-            # Save the processed answer to a file
-            processed_answer_file_path = os.path.join(processed_folder, f'student{j}_processed_answer.txt')
-            with open(processed_answer_file_path, 'w', encoding='utf-8') as processed_answer_file:
-                processed_answer_file.write(processed_answer)
+                # Process each sentence separately
+                for sentence_number, sentence in enumerate(sentences, start=1):
+                    # Perform POS tagging and named entity recognition, then save to files
+                    pos_tagging(sentence, question_number, student_number, sentence_number, pos_file)
+                    named_entity_extraction(sentence, question_number, student_number, sentence_number, ner_file)
 
-            # Perform POS tagging
-            pos_tags = pos_tagging(processed_answer)
-
-            # # Save POS tags to a file
-            # pos_tags_file_path = os.path.join(pos_tags_folder, f'student{j}_pos_tags.txt')
-            # with open(pos_tags_file_path, 'w', encoding='utf-8') as pos_tags_file:
-            #     pos_tags_file.write(str(pos_tags))
-
-            # Perform named entity extraction
-            named_entities = named_entity_extraction(processed_answer)
-
-            # # Save named entities to a file
-            # named_entities_file_path = os.path.join(named_entities_folder, f'student{j}_named_entities.txt')
-            # with open(named_entities_file_path, 'w', encoding='utf-8') as named_entities_file:
-            #     named_entities_file.write(str(named_entities))
-
-    print('POS tagging and named entity extraction using spaCy completed successfully.')
+    print('POS tagging and named entity recognition using spaCy completed successfully.')
 
 # Call the function to process student answers
 process_student_answers()

@@ -1,0 +1,17 @@
+S1: The Industrial Revolution: EVENT, the late 18th to the early 19th centuries: DATE
+S2: Firstly: ORDINAL
+S3: 
+S4: 
+S5: 
+S6: 
+S7: 
+S8: the Industrial Revolution: EVENT
+S9: 
+S10: Transportation: ORG
+S11: 
+S12: The Industrial Revolution: EVENT
+S13: 
+S14: 
+S15: 
+S16: the Industrial Revolution: EVENT
+S17: 

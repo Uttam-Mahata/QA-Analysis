@@ -1,0 +1,7 @@
+S1: 
+S2: Abraham Ortelius: PERSON, the sixteenth century: DATE, South America: LOC, Africa: LOC
+S3: Alfred Wegener: PERSON, 1912: DATE
+S4: 
+S5: Mesosaurus: PERSON, South America: LOC, Africa: LOC, two: CARDINAL
+S6: Appalachians: NORP, North America: LOC, European: NORP
+S7: Wegener: ORG, Pangaea: GPE, 200 million years ago: DATE

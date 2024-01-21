@@ -1,0 +1,11 @@
+S1: Charles Darwin: PERSON, Alfred Russel Wallace: PERSON, the 19th century: DATE
+S2: 
+S3: 
+S4: the Industrial Revolution in England: EVENT
+S5: 
+S6: 
+S7: 
+S8: 3: CARDINAL
+S9: Darwin: PERSON, the Galápagos Islands: LOC
+S10: 
+S11: Earth: LOC

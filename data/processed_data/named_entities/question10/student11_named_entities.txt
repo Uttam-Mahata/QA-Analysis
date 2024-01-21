@@ -1,0 +1,11 @@
+S1: zero: CARDINAL
+S2: 
+S3: 
+S4: Limited Environmental Advantages: ORG
+S5: Fossil Fuels: Skeptics: PERSON
+S6: 
+S7: EV: ORG
+S8: 
+S9: 
+S10: 
+S11: 

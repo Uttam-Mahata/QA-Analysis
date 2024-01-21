@@ -1,0 +1,14 @@
+S1: The Industrial Revolution: EVENT, the "Great Juggling Extravaganza: EVENT
+S2: Juggling Pavilions: WORK_OF_ART
+S3: 
+S4: Acrobatic Inventions: WORK_OF_ART
+S5: 
+S6: Circus Caravans: WORK_OF_ART, one: CARDINAL
+S7: 
+S8: Transportation: ORG, Cannonball Catapults: WORK_OF_ART
+S9: 
+S10: 
+S11: Clown Court: ORG
+S12: 
+S13: the Industrial Revolution: EVENT
+S14: 

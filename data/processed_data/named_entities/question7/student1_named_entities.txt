@@ -1,0 +1,20 @@
+S1: Relational Database Management System: ORG
+S2: Firstly: ORDINAL
+S3: 
+S4: second: ORDINAL
+S5: 
+S6: third: ORDINAL
+S7: 
+S8: fourth: ORDINAL
+S9: 
+S10: fifth: ORDINAL, SQL: ORG, Structured Query Language: ORG
+S11: SQL: ORG
+S12: sixth: ORDINAL
+S13: 
+S14: seventh: ORDINAL
+S15: 
+S16: eighth: ORDINAL
+S17: 
+S18: ninth: ORDINAL
+S19: tenth: ORDINAL
+S20: 

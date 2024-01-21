@@ -1,0 +1,8 @@
+S1: the French Revolution: EVENT, European: NORP
+S2: France: GPE, French: NORP
+S3: France: GPE
+S4: European: NORP
+S5: the Napoleonic Wars: ORG
+S6: Napoleon Bonaparte's: PERSON
+S7: The Congress of Vienna: ORG, 1815: DATE, Europe: LOC, the French Revolution: EVENT
+S8: France: GPE
