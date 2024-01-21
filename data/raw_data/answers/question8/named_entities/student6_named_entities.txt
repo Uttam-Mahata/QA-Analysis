@@ -1,1 +1,0 @@
-[('the Industrial Revolution', 'EVENT'), ('Wand-Operated Workshops', 'WORK_OF_ART'), ('Attempts', 'PRODUCT'), ('Levitating Villages', 'WORK_OF_ART'), ('Transportation', 'ORG'), ('Teleportation Tumults', 'WORK_OF_ART'), ("Wand Wielders'", 'WORK_OF_ART'), ('the Industrial Revolution', 'EVENT')]

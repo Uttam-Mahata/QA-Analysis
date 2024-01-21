@@ -1,1 +1,0 @@
-[('Greener', 'PERSON'), ('zero', 'CARDINAL'), ('Fossil fuel-', 'PERSON'), ('EV', 'ORG')]

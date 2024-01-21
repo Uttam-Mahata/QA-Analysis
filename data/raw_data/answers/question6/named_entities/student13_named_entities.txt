@@ -1,1 +1,0 @@
-[('one', 'CARDINAL'), ('Interpretability', 'ORG')]

@@ -1,1 +1,0 @@
-[('Limited Emission Reduction: While EVs', 'WORK_OF_ART'), ('zero', 'CARDINAL'), ('Energy-Intensive Production', 'ORG'), ('Battery Production Concerns: Critics', 'ORG'), ('EV', 'ORG'), ('Disposal Challenges: The recycling', 'WORK_OF_ART'), ('EV', 'ORG')]

@@ -1,1 +1,0 @@
-[('Tuples', 'ORG'), ('Domains', 'ORG')]

@@ -1,1 +1,0 @@
-[('one', 'CARDINAL'), ('Daniel Dennett', 'PERSON'), ('1995', 'DATE'), ('2001', 'DATE'), ('Jørgensen', 'PERSON'), ('2007', 'DATE'), ('Darimont', 'GPE'), ('2009', 'DATE'), ('nearly 20 years ago', 'DATE'), ('Bishop', 'ORG'), ('Anderson', 'PERSON'), ('1990', 'DATE'), ('one', 'CARDINAL')]

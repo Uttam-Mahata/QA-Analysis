@@ -1,1 +1,0 @@
-[('1', 'CARDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('5', 'CARDINAL'), ('6', 'CARDINAL'), ('User Experiences:*', 'ORG'), ('7', 'CARDINAL'), ('8', 'CARDINAL'), ('9', 'CARDINAL'), ('10', 'CARDINAL'), ('Continuous Innovation:*', 'PERSON')]

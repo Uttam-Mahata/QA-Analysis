@@ -1,1 +1,0 @@
-[('the French Revolution', 'EVENT'), ('1789-1799', 'DATE'), ('European', 'NORP'), ('Europe', 'LOC'), ('the French Revolution', 'EVENT'), ('the Napoleonic Wars', 'ORG'), ('1803-1815', 'DATE'), ("Napoleon Bonaparte's", 'PERSON'), ('European', 'NORP'), ("the French Revolution's", 'EVENT'), ('European', 'NORP')]

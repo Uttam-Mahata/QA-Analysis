@@ -1,1 +1,0 @@
-[('EV', 'ORG'), ('Limited Battery Lifespan', 'ORG'), ('EV', 'ORG'), ('Fossil Fuels', 'PERSON'), ('Social Disruption', 'ORG'), ('False Marketing Claims:', 'WORK_OF_ART')]

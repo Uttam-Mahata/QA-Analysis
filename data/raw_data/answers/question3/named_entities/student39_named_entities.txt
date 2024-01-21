@@ -1,1 +1,0 @@
-[('## Social Stratification', 'MONEY'), ('healthcare', 'ORG')]

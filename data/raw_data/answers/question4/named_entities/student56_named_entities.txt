@@ -1,1 +1,0 @@
-[('The French Revolution', 'EVENT'), ('France', 'GPE'), ('the late 18th century', 'DATE'), ('The French Revolution', 'EVENT'), ('The Industrial Revolution', 'EVENT'), ('social hubs', 'ORG'), ('working hours', 'TIME')]

@@ -1,1 +1,0 @@
-[('Macionis', 'PERSON'), ('2004', 'DATE'), ('Society', 'ORG'), ('two', 'CARDINAL'), ('Davis', 'PERSON'), ('Moore', 'PERSON'), ('Davis', 'PERSON'), ('Moore', 'ORG'), ('Davis', 'PERSON'), ('Moore', 'PERSON'), ('Macionis', 'GPE'), ('2004', 'DATE'), ('Davis', 'PERSON'), ('Melvin Tumin', 'PERSON')]

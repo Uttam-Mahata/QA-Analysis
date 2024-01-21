@@ -1,1 +1,0 @@
-[('The Industrial Revolution', 'EVENT'), ('the late 18th to the 19th centuries', 'DATE'), ('the Industrial Revolution', 'EVENT'), ('the Industrial Revolution', 'EVENT')]

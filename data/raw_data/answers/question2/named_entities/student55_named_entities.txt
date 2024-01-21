@@ -1,1 +1,0 @@
-[('Earth', 'LOC'), ('Charles Darwin', 'PERSON'), ('the mid-19th century', 'DATE')]

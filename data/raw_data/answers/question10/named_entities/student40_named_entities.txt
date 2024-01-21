@@ -1,1 +1,0 @@
-[('Electric', 'ORG'), ('EV', 'ORG'), ('EV', 'ORG')]

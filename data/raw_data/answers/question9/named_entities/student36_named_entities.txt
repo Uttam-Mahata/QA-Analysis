@@ -1,1 +1,0 @@
-[('World War 3', 'EVENT'), ('World War III', 'EVENT'), ('the United States', 'GPE'), ('China', 'GPE'), ('Russia', 'GPE'), ('the South China Sea', 'LOC'), ('Eastern Europe', 'LOC'), ('Resource', 'ORG'), ('the Middle East', 'LOC'), ('Africa', 'LOC')]

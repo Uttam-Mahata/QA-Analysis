@@ -1,1 +1,0 @@
-[('zero', 'CARDINAL'), ('zero', 'CARDINAL'), ('Lifecycle Emissions: While manufacturing EVs', 'WORK_OF_ART'), ('Renewable Energy Integration', 'ORG'), ('EV', 'ORG'), ('Challenges of Battery Production', 'ORG'), ('EV', 'ORG')]

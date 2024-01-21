@@ -1,1 +1,0 @@
-[('Zero', 'CARDINAL'), ('zero', 'CARDINAL'), ('Renewable Energy Integration', 'ORG'), ('Energy Efficiency:', 'ORG'), ('Lifecycle Emissions Reduction', 'ORG'), ('EV', 'ORG')]

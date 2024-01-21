@@ -1,1 +1,0 @@
-[('Machine', 'ORG'), ('## Contribution to Intelligent Systems', 'MONEY'), ('Adaptive Learning:** Systems', 'ORG')]

@@ -1,1 +1,0 @@
-[('zero', 'CARDINAL'), ('Limited Environmental Advantages', 'ORG'), ('Fossil Fuels: Skeptics', 'PERSON'), ('EV', 'ORG'), ('Charging Infrastructure Challenges: The development', 'ORG'), ('False Marketing Claims: Some', 'WORK_OF_ART')]

@@ -1,1 +1,0 @@
-[('zero', 'CARDINAL'), ('Battery', 'LOC'), ('EV', 'ORG'), ('EV', 'ORG'), ('under 200', 'CARDINAL')]

@@ -1,1 +1,0 @@
-[('1', 'CARDINAL'), ('Supervised Learning: Utilizes', 'WORK_OF_ART'), ('2', 'CARDINAL'), ('Unsupervised Learning', 'FAC'), ('3', 'CARDINAL'), ('Reinforcement Learning:', 'FAC'), ('4', 'CARDINAL'), ('5', 'CARDINAL'), ('Model Evaluation:', 'PRODUCT')]

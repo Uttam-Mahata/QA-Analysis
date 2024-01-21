@@ -1,1 +1,0 @@
-[('The Industrial Revolution', 'EVENT'), ('the late 18th to early 19th century', 'DATE'), ('Societal', 'ORG'), ('Technologically', 'GPE'), ('the Industrial Revolution', 'EVENT'), ('Healthcare', 'ORG'), ('Romanticism', 'NORP'), ("the Industrial Revolution's", 'EVENT')]
