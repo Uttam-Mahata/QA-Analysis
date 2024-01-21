@@ -1,1 +1,0 @@
-[('World War 3', 'EVENT'), ('Cyber', 'PRODUCT'), ('the United Nations', 'ORG'), ('Miscalculations', 'ORG')]

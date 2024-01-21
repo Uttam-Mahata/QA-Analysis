@@ -1,1 +1,0 @@
-[('Continental', 'ORG'), ('Earth', 'LOC'), ('Darles Charwin', 'PERSON'), ('17th century', 'DATE'), ('Earth', 'LOC'), ('One', 'CARDINAL'), ('Earth', 'LOC'), ('Himalayas', 'LOC'), ('Indian', 'NORP'), ('Eurasian', 'NORP')]

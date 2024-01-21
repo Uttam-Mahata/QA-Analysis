@@ -1,1 +1,0 @@
-[("Alfred Wegener's", 'PERSON'), ('Earth', 'LOC'), ('Wegener', 'ORG'), ('Wegener', 'ORG'), ('Earthly', 'GPE'), ('Wegener', 'ORG')]

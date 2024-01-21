@@ -1,1 +1,0 @@
-[('The French Revolution', 'EVENT'), ('European', 'NORP'), ('Firstly', 'ORDINAL'), ('Europe', 'LOC'), ('France', 'GPE'), ('Secondly', 'ORDINAL'), ('European', 'NORP'), ('the French Revolution', 'EVENT'), ('European', 'NORP')]

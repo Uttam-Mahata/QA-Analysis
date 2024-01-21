@@ -1,1 +1,0 @@
-[('The French Revolution', 'EVENT'), ('France', 'GPE'), ('the late 18th century', 'DATE'), ('One', 'CARDINAL'), ('French', 'NORP'), ('French', 'NORP'), ('Voltaire, Rousseau', 'LOC'), ('Montesquieu', 'ORG')]

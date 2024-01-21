@@ -1,1 +1,0 @@
-[('The French Revolution', 'EVENT'), ('between 1789 and 1799', 'DATE'), ('European', 'NORP'), ('One', 'CARDINAL'), ('Europe', 'LOC'), ('Napoleonic', 'ORG'), ("Napoleon Bonaparte's", 'PERSON'), ('France', 'GPE'), ('Europe', 'LOC'), ('Europe', 'LOC'), ('The Congress of Vienna', 'ORG'), ('1815', 'DATE'), ('the French Revolution', 'EVENT'), ('the 19th century', 'DATE')]

@@ -1,1 +1,0 @@
-[('the Industrial Revolution', 'EVENT'), ('the Middle Ages', 'DATE'), ('Enchantment Forges', 'WORK_OF_ART'), ('Labor', 'ORG'), ('the Industrial Revolution', 'EVENT')]

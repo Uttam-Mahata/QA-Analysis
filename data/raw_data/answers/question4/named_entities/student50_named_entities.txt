@@ -1,1 +1,0 @@
-[('the French Revolution on European societies', 'EVENT'), ('The French Revolution', 'EVENT'), ('1789 to 1799', 'DATE'), ('democratic', 'NORP'), ('the First French Republic', 'GPE'), ('the French Revolution', 'EVENT'), ('French', 'NORP'), ('Revolution', 'EVENT'), ('French', 'NORP'), ('egalitarian', 'NORP'), ('centuries', 'DATE')]

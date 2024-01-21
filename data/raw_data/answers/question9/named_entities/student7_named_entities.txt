@@ -1,1 +1,0 @@
-[('World War 3', 'EVENT'), ('the "Magenta Coalition', 'ORG'), ('"Color Cannons', 'WORK_OF_ART'), ('the "Palette Olympics', 'FAC'), ('Chromatic Catastrophes', 'WORK_OF_ART')]

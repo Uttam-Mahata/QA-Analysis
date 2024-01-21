@@ -1,1 +1,0 @@
-[('Wealthier', 'ORG'), ('healthcare', 'ORG'), ('Culturally', 'GPE')]

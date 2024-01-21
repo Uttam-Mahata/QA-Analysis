@@ -1,1 +1,0 @@
-[('Charles Darwin', 'PERSON'), ('the mid-19th century', 'DATE'), ('Earth', 'LOC'), ('Darwin', 'PERSON'), ('the Origin of Species', 'ORG'), ('Central', 'ORG')]

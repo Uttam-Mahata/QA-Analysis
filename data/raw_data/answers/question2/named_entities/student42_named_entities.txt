@@ -1,1 +1,0 @@
-[('one', 'CARDINAL'), ('Peppered', 'PERSON'), ('the Industrial Revolution', 'EVENT'), ('Antibiotic', 'NORP'), ('Bacteria', 'PRODUCT'), ('Earth', 'LOC')]

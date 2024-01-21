@@ -1,1 +1,0 @@
-[('Charles Darwin', 'PERSON'), ('One', 'CARDINAL'), ('the Industrial Revolution in England', 'EVENT'), ('Earth', 'LOC')]

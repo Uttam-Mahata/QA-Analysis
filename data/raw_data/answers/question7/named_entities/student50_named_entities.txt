@@ -1,1 +1,0 @@
-[('Main Components', 'ORG'), ('Data Organization and Retrieval', 'ORG'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('two', 'CARDINAL'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('2020', 'DATE')]

@@ -1,1 +1,0 @@
-[('Healthcare', 'ORG'), ('anomaly recognition', 'GPE')]

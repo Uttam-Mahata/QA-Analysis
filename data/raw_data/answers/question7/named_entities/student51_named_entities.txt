@@ -1,1 +1,0 @@
-[('Relational Database Management System', 'ORG'), ('SQL', 'PERSON'), ('Structured Query Language', 'ORG'), ('one', 'CARDINAL'), ('SQL', 'ORG'), ('SQL', 'ORG')]

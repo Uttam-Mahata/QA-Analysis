@@ -1,1 +1,0 @@
-[('Evolution', 'PERSON'), ('Migration', 'PERSON'), ('one', 'CARDINAL'), ('one', 'CARDINAL'), ('Darwin', 'PERSON')]

@@ -1,1 +1,0 @@
-[('Charles Darwin', 'PERSON'), ("peppered moth's", 'PERSON')]

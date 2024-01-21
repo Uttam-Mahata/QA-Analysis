@@ -1,1 +1,0 @@
-[('Firstly', 'ORDINAL'), ('second', 'ORDINAL'), ('Keys', 'PERSON'), ('third', 'ORDINAL'), ('Primary', 'PERSON'), ('fourth', 'ORDINAL'), ('Structured Query Language', 'ORG'), ('SQL', 'ORG'), ('fifth', 'ORDINAL'), ('SQL', 'ORG'), ('Transactions', 'PERSON'), ('sixth', 'ORDINAL'), ('seventh', 'ORDINAL'), ('eighth', 'ORDINAL'), ('ninth', 'ORDINAL'), ('tenth', 'ORDINAL')]

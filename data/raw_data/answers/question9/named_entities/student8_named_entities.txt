@@ -1,1 +1,0 @@
-[('World War 3', 'EVENT'), ('the "Interstellar Breakdance', 'ORG'), ('the "Breakdance Brigade', 'ORG'), ('Dance-Off Divisions', 'ORG'), ('the "Galactic Dance Olympics', 'EVENT'), ('Disco Dystopia', 'PERSON')]

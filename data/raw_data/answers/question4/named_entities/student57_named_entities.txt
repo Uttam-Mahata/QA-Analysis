@@ -1,1 +1,0 @@
-[('The French Revolution', 'EVENT'), ('1789', 'DATE'), ('the early 19th century', 'DATE'), ('European', 'NORP'), ('The French Revolution', 'EVENT'), ('the Napoleonic Wars', 'EVENT'), ('the Congress of Vienna', 'ORG'), ('Europe', 'LOC'), ('The French Revolution', 'EVENT'), ('democratic', 'NORP'), ('Europe', 'LOC'), ('the 19th and 20th centuries', 'DATE')]

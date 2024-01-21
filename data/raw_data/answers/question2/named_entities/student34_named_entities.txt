@@ -1,1 +1,0 @@
-[('## Nature', 'MONEY'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('Peppered Moth:*', 'PERSON'), ('England', 'GPE'), ('Charles Darwin', 'PERSON'), ('the Galapagos Islands', 'LOC'), ('Earth', 'LOC'), ('billions of years', 'DATE')]

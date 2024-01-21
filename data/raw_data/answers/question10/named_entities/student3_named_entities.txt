@@ -1,1 +1,0 @@
-[('Limited Battery Lifespan', 'ORG'), ('Noise Pollution:', 'WORK_OF_ART'), ('Adverse Health', 'ORG'), ('EV', 'ORG')]

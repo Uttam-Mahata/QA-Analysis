@@ -1,1 +1,0 @@
-[('One', 'CARDINAL'), ('healthcare', 'ORG'), ('today', 'DATE')]

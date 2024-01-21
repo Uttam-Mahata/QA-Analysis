@@ -1,1 +1,0 @@
-[('continental', 'ORG'), ('Earth', 'LOC'), ('Earth', 'LOC'), ('Earth', 'LOC'), ('continental', 'ORG')]

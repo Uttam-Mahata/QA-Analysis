@@ -1,1 +1,0 @@
-[("Charles Darwin's", 'PERSON'), ('On the Origin of Species', 'WORK_OF_ART'), ('Darwin', 'PERSON')]

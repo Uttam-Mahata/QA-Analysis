@@ -1,1 +1,0 @@
-[('Continental', 'ORG'), ('the moon', 'LOC'), ('Earth', 'LOC'), ('South America', 'LOC'), ('Africa', 'LOC'), ('Earth', 'LOC'), ('continental', 'ORG'), ('Earth', 'LOC')]

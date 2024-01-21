@@ -1,1 +1,0 @@
-[('1', 'CARDINAL'), ('Drawers for Data (Tables', 'ORG'), ('2', 'CARDINAL'), ('Connecting the Collections (Relationships', 'ORG'), ('one', 'CARDINAL'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('last month', 'DATE')]

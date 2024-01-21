@@ -1,1 +1,0 @@
-[('Alfred Wegener', 'PERSON'), ('the early 20th century', 'DATE'), ('years', 'DATE'), ('One', 'CARDINAL'), ('India', 'GPE'), ('Antarctica', 'LOC'), ('Appalachian Mountains', 'LOC'), ('European', 'NORP')]

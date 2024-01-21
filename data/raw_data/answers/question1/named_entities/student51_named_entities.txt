@@ -1,1 +1,0 @@
-[('Continental', 'ORG'), ('Earth', 'LOC'), ('Pangaea', 'ORG'), ('Alfred Wegener', 'PERSON'), ('the early 20th century', 'DATE'), ('continental', 'ORG'), ('Firstly', 'ORDINAL'), ('South America', 'LOC'), ('Africa', 'LOC'), ('Secondly', 'ORDINAL'), ('Mesosaurus', 'PERSON'), ('South America', 'LOC'), ('Africa', 'LOC'), ('continental', 'ORG')]

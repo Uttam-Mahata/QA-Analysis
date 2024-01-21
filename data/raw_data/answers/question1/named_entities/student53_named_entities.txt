@@ -1,1 +1,0 @@
-[('Continental', 'ORG'), ('Earth', 'LOC'), ('German', 'NORP'), ('Alfred Wegener', 'PERSON'), ('the early 20th century', 'DATE'), ('the Atlantic Ocean', 'LOC'), ('Mountain', 'GPE'), ('continental', 'ORG'), ('Distinctive', 'NORP'), ('continental', 'ORG'), ('continental', 'ORG'), ('Earth', 'LOC')]

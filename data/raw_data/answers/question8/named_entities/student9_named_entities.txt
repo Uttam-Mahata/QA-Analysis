@@ -1,1 +1,0 @@
-[('The Industrial Revolution', 'EVENT'), ('Space Beats Generators', 'WORK_OF_ART'), ('Celestial Dance Hubs', 'WORK_OF_ART'), ('Transportation', 'ORG'), ('Interstellar Shimmies', 'WORK_OF_ART'), ('one', 'CARDINAL'), ('Funky Mediation Sessions', 'WORK_OF_ART'), ('the Industrial Revolution', 'EVENT')]
