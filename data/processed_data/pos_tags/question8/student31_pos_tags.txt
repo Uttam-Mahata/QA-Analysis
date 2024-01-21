@@ -1,0 +1,36 @@
+S1: How: SCONJ, industrial: ADJ, revolution: NOUN, has: AUX, impacted: VERB, the: DET, modern: ADJ, world: NOUN, ?: PUNCT
+S2: Ans-: INTJ, 
+: SPACE, The: DET, Industrial: PROPN, Revolution: PROPN, ,: PUNCT, which: PRON, began: VERB, in: ADP, the: DET, late: ADJ, 18th: ADJ, century: NOUN, and: CCONJ, continued: VERB, into: ADP, the: DET, 19th: ADJ, century: NOUN, ,: PUNCT, had: VERB, profound: ADJ, and: CCONJ, far: ADV, -: PUNCT, reaching: VERB, impacts: NOUN, on: ADP, the: DET, modern: ADJ, world: NOUN, across: ADP, various: ADJ, domains: NOUN, :: PUNCT, 
+
+: SPACE, 1: NUM, .: PUNCT
+S3: *: PUNCT, *: PUNCT, Economic: PROPN, Transformation: PROPN, :*: PROPN, *: PUNCT, The: DET, shift: NOUN, from: ADP, agrarian: ADJ, economies: NOUN, to: ADP, industrialized: VERB, ones: NOUN, marked: VERB, a: DET, significant: ADJ, economic: ADJ, transformation: NOUN, .: PUNCT
+S4: Industries: NOUN, like: ADP, textiles: NOUN, ,: PUNCT, manufacturing: NOUN, ,: PUNCT, and: CCONJ, mining: NOUN, saw: VERB, the: DET, introduction: NOUN, of: ADP, mechanized: ADJ, production: NOUN, ,: PUNCT, leading: VERB, to: ADP, increased: VERB, productivity: NOUN, and: CCONJ, economic: ADJ, growth: NOUN, .: PUNCT
+S5: 2: X, .: PUNCT
+S6: *: PUNCT, *: PUNCT, Urbanization: NOUN, :*: PUNCT, *: PUNCT, The: DET, growth: NOUN, of: ADP, industries: NOUN, led: VERB, to: ADP, mass: ADJ, urbanization: NOUN, as: SCONJ, people: NOUN, migrated: VERB, from: ADP, rural: ADJ, areas: NOUN, to: ADP, cities: NOUN, in: ADP, search: NOUN, of: ADP, employment: NOUN, opportunities: NOUN, .: PUNCT
+S7: This: DET, change: NOUN, in: ADP, population: NOUN, distribution: NOUN, had: VERB, significant: ADJ, social: ADJ, and: CCONJ, cultural: ADJ, implications: NOUN, .: PUNCT
+S8: 3: X, .: PUNCT
+S9: *: PUNCT, *: PUNCT, Technological: ADJ, Advancements: PROPN, :*: PROPN, *: PUNCT, The: DET, Industrial: PROPN, Revolution: PROPN, brought: VERB, about: ADP, revolutionary: ADJ, technological: ADJ, advancements: NOUN, .: PUNCT
+S10: Steam: NOUN, engines: NOUN, ,: PUNCT, mechanized: ADJ, looms: NOUN, ,: PUNCT, and: CCONJ, the: DET, use: NOUN, of: ADP, iron: NOUN, and: CCONJ, steel: NOUN, transformed: VERB, the: DET, way: NOUN, goods: NOUN, were: AUX, produced: VERB, and: CCONJ, industries: NOUN, operated: VERB, .: PUNCT
+S11: 4: X, .: PUNCT
+S12: *: PUNCT, *: PUNCT, Transportation: PROPN, Revolution: PROPN, :*: PROPN, *: ADJ, Improved: ADJ, transportation: NOUN, ,: PUNCT, including: VERB, the: DET, development: NOUN, of: ADP, railways: NOUN, and: CCONJ, steamships: NOUN, ,: PUNCT, facilitated: VERB, the: DET, movement: NOUN, of: ADP, goods: NOUN, and: CCONJ, people: NOUN, over: ADP, long: ADJ, distances: NOUN, .: PUNCT
+S13: This: DET, interconnected: VERB, global: ADJ, markets: NOUN, and: CCONJ, accelerated: VERB, the: DET, exchange: NOUN, of: ADP, ideas: NOUN, and: CCONJ, cultures: NOUN, .: PUNCT
+S14: 5: NUM, .: PUNCT
+S15: *: PUNCT, *: PUNCT, Social: PROPN, Changes: PROPN, :*: PROPN, *: PUNCT, The: DET, Industrial: PROPN, Revolution: PROPN, brought: VERB, about: ADP, social: ADJ, changes: NOUN, ,: PUNCT, including: VERB, the: DET, rise: NOUN, of: ADP, the: DET, working: VERB, class: NOUN, and: CCONJ, the: DET, emergence: NOUN, of: ADP, labor: NOUN, movements: NOUN, advocating: VERB, for: ADP, workers: NOUN, ': PART, rights: NOUN, .: PUNCT
+S16: It: PRON, also: ADV, contributed: VERB, to: ADP, changes: NOUN, in: ADP, family: NOUN, structures: NOUN, and: CCONJ, roles: NOUN, .: PUNCT
+S17: 6: NUM, .: PUNCT
+S18: *: PUNCT, *: PUNCT, Scientific: ADJ, Progress: PROPN, :*: PUNCT, *: PUNCT, The: DET, demand: NOUN, for: ADP, innovation: NOUN, in: ADP, industries: NOUN, fueled: VERB, scientific: ADJ, discoveries: NOUN, and: CCONJ, technological: ADJ, innovations: NOUN, .: PUNCT
+S19: The: DET, connection: NOUN, between: ADP, science: NOUN, and: CCONJ, industry: NOUN, became: VERB, stronger: ADJ, ,: PUNCT, laying: VERB, the: DET, foundation: NOUN, for: ADP, further: ADJ, advancements: NOUN, in: ADP, the: DET, 20th: ADJ, and: CCONJ, 21st: ADJ, centuries: NOUN, .: PUNCT
+S20: 7: X, .: PUNCT
+S21: *: PUNCT, *: PUNCT, Global: PROPN, Impact: PROPN, :*: PROPN, *: PUNCT, The: DET, Industrial: PROPN, Revolution: PROPN, had: VERB, a: DET, global: ADJ, impact: NOUN, ,: PUNCT, affecting: VERB, not: PART, only: ADV, Western: PROPN, Europe: PROPN, and: CCONJ, North: PROPN, America: PROPN, but: CCONJ, also: ADV, spreading: VERB, to: ADP, other: ADJ, parts: NOUN, of: ADP, the: DET, world: NOUN, .: PUNCT
+S22: It: PRON, played: VERB, a: DET, role: NOUN, in: ADP, shaping: VERB, colonial: ADJ, economies: NOUN, and: CCONJ, trade: NOUN, patterns: NOUN, .: PUNCT
+S23: 8: X, .: PUNCT
+S24: *: PUNCT, *: PUNCT, Environmental: PROPN, Impact: PROPN, :*: PROPN, *: PUNCT, The: DET, shift: NOUN, to: ADP, industrialization: NOUN, had: AUX, unintended: VERB, consequences: NOUN, on: ADP, the: DET, environment: NOUN, .: PUNCT
+S25: Increased: VERB, use: NOUN, of: ADP, fossil: ADJ, fuels: NOUN, ,: PUNCT, deforestation: NOUN, ,: PUNCT, and: CCONJ, pollution: NOUN, contributed: VERB, to: ADP, environmental: ADJ, challenges: NOUN, that: PRON, are: AUX, still: ADV, relevant: ADJ, today: NOUN, .: PUNCT
+S26: 9: X, .: PUNCT
+S27: *: PUNCT, *: PUNCT, Capitalism: PROPN, and: CCONJ, Economic: PROPN, Systems: PROPN, :*: PROPN, *: PUNCT, The: DET, Industrial: PROPN, Revolution: PROPN, played: VERB, a: DET, role: NOUN, in: ADP, the: DET, rise: NOUN, of: ADP, capitalism: NOUN, as: ADP, an: DET, economic: ADJ, system: NOUN, .: PUNCT
+S28: It: PRON, altered: VERB, the: DET, traditional: ADJ, economic: ADJ, structures: NOUN, and: CCONJ, paved: VERB, the: DET, way: NOUN, for: ADP, modern: ADJ, capitalist: ADJ, societies: NOUN, .: PUNCT
+S29: 10: NUM, .: PUNCT
+S30: *: PUNCT, *: PUNCT, Cultural: ADJ, and: CCONJ, Intellectual: PROPN, Shifts: PROPN, :*: PROPN, *: PUNCT, The: DET, rapid: ADJ, changes: NOUN, brought: VERB, about: ADP, by: ADP, industrialization: NOUN, influenced: VERB, cultural: ADJ, and: CCONJ, intellectual: ADJ, movements: NOUN, .: PUNCT
+S31: Romanticism: NOUN, ,: PUNCT, realism: NOUN, ,: PUNCT, and: CCONJ, later: ADV, ,: PUNCT, modernism: NOUN, ,: PUNCT, emerged: VERB, as: ADP, responses: NOUN, to: ADP, the: DET, societal: ADJ, shifts: NOUN, and: CCONJ, challenges: NOUN, of: ADP, the: DET, time: NOUN, .: PUNCT
+S32: In: ADP, summary: NOUN, ,: PUNCT, the: DET, Industrial: PROPN, Revolution: PROPN, was: AUX, a: DET, transformative: ADJ, period: NOUN, that: PRON, reshaped: VERB, the: DET, economic: ADJ, ,: PUNCT, social: ADJ, ,: PUNCT, technological: ADJ, ,: PUNCT, and: CCONJ, cultural: ADJ, fabric: NOUN, of: ADP, societies: NOUN, worldwide: ADV, .: PUNCT
+S33: Its: PRON, impacts: NOUN, are: AUX, still: ADV, evident: ADJ, in: ADP, the: DET, modern: ADJ, world: NOUN, ,: PUNCT, influencing: VERB, the: DET, way: NOUN, we: PRON, live: VERB, ,: PUNCT, work: NOUN, ,: PUNCT, and: CCONJ, interact: VERB, .: PUNCT

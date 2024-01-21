@@ -1,0 +1,13 @@
+S1: 
+S2: 
+S3: 
+S4: 
+S5: U.S.: GPE, 10%: PERCENT, 70%: PERCENT, 2019: DATE, the Federal Reserve: ORG
+S6: 1989: DATE, just 60%: PERCENT
+S7: The Federal Reserve: ORG, Americans: NORP
+S8: 
+S9: 
+S10: 
+S11: 
+S12: 
+S13: 

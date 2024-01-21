@@ -1,0 +1,11 @@
+S1: Relational: ADJ, database: NOUN, management: NOUN, systems: NOUN, (: PUNCT, RDBMS: PROPN, ): PUNCT, reign: PROPN, supreme: NOUN, in: ADP, organizing: VERB, and: CCONJ, retrieving: VERB, data: NOUN, efficiently: ADV, .: PUNCT
+S2: Tables: NOUN, are: AUX, the: DET, fundamental: ADJ, units: NOUN, of: ADP, storage: NOUN, ,: PUNCT, holding: VERB, related: ADJ, data: NOUN, in: ADP, rows: NOUN, and: CCONJ, columns: NOUN, .: PUNCT
+S3: Each: DET, row: NOUN, represents: VERB, a: DET, single: ADJ, entity: NOUN, ,: PUNCT, like: ADP, a: DET, customer: NOUN, or: CCONJ, product: NOUN, ,: PUNCT, while: SCONJ, columns: NOUN, (: PUNCT, fields: NOUN, ): PUNCT, store: VERB, specific: ADJ, details: NOUN, like: ADP, name: NOUN, ,: PUNCT, address: NOUN, ,: PUNCT, or: CCONJ, price: NOUN, .: PUNCT
+S4: Each: DET, column: NOUN, defines: VERB, the: DET, type: NOUN, of: ADP, data: NOUN, it: PRON, holds: VERB, ,: PUNCT, like: ADP, numbers: NOUN, ,: PUNCT, text: NOUN, ,: PUNCT, or: CCONJ, dates: NOUN, .: PUNCT
+S5: This: PRON, ensures: VERB, data: NOUN, integrity: NOUN, and: CCONJ, allows: VERB, for: ADP, efficient: ADJ, processing: NOUN, .: PUNCT
+S6: Imagine: VERB, labeling: VERB, each: DET, drawer: NOUN, in: ADP, your: PRON, filing: NOUN, cabinet: NOUN, ,: PUNCT, ensuring: VERB, photos: NOUN, go: VERB, in: ADP, one: NUM, drawer: NOUN, and: CCONJ, invoices: NOUN, in: ADP, another: PRON, .: PUNCT
+S7: Every: DET, record: NOUN, needs: VERB, a: DET, unique: ADJ, identifier: NOUN, ,: PUNCT, like: ADP, a: DET, social: ADJ, security: NOUN, number: NOUN, .: PUNCT
+S8: This: PRON, is: AUX, the: DET, primary: ADJ, key: NOUN, ,: PUNCT, the: DET, master: NOUN, index: NOUN, finger: NOUN, pointing: VERB, directly: ADV, to: ADP, your: PRON, desired: VERB, record: NOUN, .: PUNCT
+S9: Secondary: ADJ, keys: NOUN, ,: PUNCT, like: ADP, a: DET, customer: NOUN, ID: NOUN, in: ADP, an: DET, order: NOUN, table: NOUN, ,: PUNCT, act: VERB, like: ADP, cross: NOUN, -: NOUN, references: NOUN, ,: PUNCT, linking: VERB, related: ADJ, data: NOUN, across: ADP, tables: NOUN, .: PUNCT
+S10: The: DET, magic: NOUN, of: ADP, RDBMS: NOUN, lies: NOUN, in: ADP, its: PRON, ability: NOUN, to: PART, connect: VERB, tables: NOUN, .: PUNCT
+S11: Foreign: ADJ, keys: NOUN, act: VERB, like: ADP, bridges: NOUN, ,: PUNCT, referencing: VERB, primary: ADJ, keys: NOUN, in: ADP, other: ADJ, tables: NOUN, .: PUNCT

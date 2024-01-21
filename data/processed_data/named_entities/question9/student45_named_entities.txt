@@ -1,0 +1,8 @@
+S1: World War 3: EVENT
+S2: World War III: EVENT
+S3: Thucydides Trap: WORK_OF_ART
+S4: 
+S5: 
+S6: Ukraine: GPE, Russia: GPE, Israeli: NORP, Iranian: NORP, Iranian: NORP, Chinese: NORP, Taiwan: GPE, World War III: EVENT
+S7: 
+S8: WW3: ORG

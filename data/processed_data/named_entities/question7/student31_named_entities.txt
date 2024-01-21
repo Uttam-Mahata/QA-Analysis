@@ -1,0 +1,28 @@
+S1: 
+S2: Relational Database Management System: ORG
+S3: 1: CARDINAL
+S4: 
+S5: 
+S6: 2: CARDINAL
+S7: 
+S8: 
+S9: 3: CARDINAL
+S10: 
+S11: 
+S12: 4: CARDINAL
+S13: 
+S14: 
+S15: 5: CARDINAL
+S16: 
+S17: 
+S18: 6: CARDINAL
+S19: 
+S20: 
+S21: 7: CARDINAL
+S22: SQL: PERSON, Structured Query Language: ORG
+S23: 
+S24: SQL: ORG, SELECT: ORG, INSERT: ORG, UPDATE: ORG, DELETE: ORG
+S25: 
+S26: 
+S27: SQL: ORG
+S28: 

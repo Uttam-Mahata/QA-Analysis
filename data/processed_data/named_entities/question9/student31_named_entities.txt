@@ -1,0 +1,9 @@
+S1: World War 3: EVENT
+S2: World War 3: EVENT
+S3: the United States: GPE, China: GPE, Russia: GPE
+S4: the South China Sea: LOC, Eastern Europe: LOC
+S5: 
+S6: 
+S7: 
+S8: 
+S9: World War 3: EVENT

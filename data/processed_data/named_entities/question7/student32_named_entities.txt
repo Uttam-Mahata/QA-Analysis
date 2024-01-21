@@ -1,0 +1,29 @@
+S1: 
+S2: Main Components: ORG, Data Management: ORG
+S3: 1: CARDINAL
+S4: Lego: GPE
+S5: Lego: ORG
+S6: Lego: PERSON
+S7: 
+S8: 
+S9: 2: CARDINAL
+S10: 
+S11: Lego: GPE
+S12: Lego: PERSON, one: CARDINAL
+S13: 
+S14: Lego: PERSON
+S15: 
+S16: 3: CARDINAL
+S17: Legos: FAC, RDBMS: ORG
+S18: 
+S19: 4: CARDINAL
+S20: Lego: PERSON
+S21: California: GPE, the last month: DATE
+S22: 
+S23: 
+S24: 
+S25: 
+S26: 
+S27: Lego: PERSON
+S28: 
+S29: 

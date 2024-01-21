@@ -1,0 +1,9 @@
+S1: The Industrial Revolution: EVENT
+S2: 
+S3: The Industrial Revolution: EVENT, anesthesia: GPE
+S4: the Industrial Revolution's: EVENT, first: ORDINAL
+S5: The Industrial Revolution: EVENT, today: DATE
+S6: the Industrial Revolution: EVENT
+S7: 
+S8: The Industrial Revolution: EVENT
+S9: The Industrial Revolution: EVENT, today: DATE

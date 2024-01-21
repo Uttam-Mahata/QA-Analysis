@@ -1,0 +1,12 @@
+S1: the French Revolution on European societies: EVENT
+S2: The French Revolution: EVENT, European: NORP
+S3: 
+S4: the revolutionary decade: DATE, French: NORP, about
+twenty: CARDINAL
+S5: 
+S6: 
+S7: Patrice Gueniffey's: PERSON, Le: FAC, the French Revolution: EVENT
+S8: Gueniffey: PERSON
+S9: recent years: DATE, Eastern Europe: LOC
+S10: Soviet: NORP, Europe: LOC, one: CARDINAL, South American: NORP, the twentieth century: DATE
+S11: two: CARDINAL

@@ -1,0 +1,13 @@
+S1: 
+S2: 
+S3: Macionis: GPE, 2004: DATE
+S4: 
+S5: Society: ORG, two: CARDINAL
+S6: 
+S7: 
+S8: Davis: PERSON, Moore: PERSON
+S9: Davis: PERSON, Moore: ORG
+S10: Davis: PERSON, Moore: PERSON, Macionis: GPE, 2004: DATE
+S11: Davis: PERSON
+S12: Melvin Tumin: PERSON
+S13: 

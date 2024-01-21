@@ -1,0 +1,22 @@
+S1: Explain: VERB, the: DET, concept: NOUN, of: ADP, social: ADJ, stratification: NOUN, and: CCONJ, its: PRON, impact: NOUN, on: ADP, societies: NOUN, .: PUNCT
+S2: Ans-: X, 
+: SPACE, Sociologists: PROPN, use: VERB, the: DET, term: NOUN, social: ADJ, stratification: NOUN, to: PART, describe: VERB, the: DET, system: NOUN, of: ADP, social: ADJ, standing: NOUN, .: PUNCT
+S3: Social: ADJ, stratification: NOUN, refers: VERB, to: ADP, a: DET, society: NOUN, ’s: PART, categorization: NOUN, of: ADP, its: PRON, people: NOUN, into: ADP, rankings: NOUN, of: ADP, socioeconomic: ADJ, tiers: NOUN, based: VERB, on: ADP, factors: NOUN, like: ADP, wealth: NOUN, ,: PUNCT, income: NOUN, ,: PUNCT, race: NOUN, ,: PUNCT, education: NOUN, ,: PUNCT, and: CCONJ, power: NOUN, .: PUNCT
+S4: You: PRON, may: AUX, remember: VERB, the: DET, word: NOUN, “: PUNCT, stratification: NOUN, ”: PUNCT, from: ADP, geology: NOUN, class: NOUN, .: PUNCT
+S5: The: DET, distinct: ADJ, vertical: ADJ, layers: NOUN, found: VERB, in: ADP, rock: NOUN, ,: PUNCT, called: VERB, stratification: NOUN, ,: PUNCT, are: AUX, a: DET, good: ADJ, way: NOUN, to: PART, visualize: VERB, social: ADJ, structure: NOUN, .: PUNCT
+S6: Society: NOUN, ’s: PART, layers: NOUN, are: AUX, made: VERB, of: ADP, people: NOUN, ,: PUNCT, and: CCONJ, society: NOUN, ’s: PART, resources: NOUN, are: AUX, distributed: VERB, unevenly: ADV, throughout: ADP, the: DET, layers: NOUN, .: PUNCT
+S7: The: DET, people: NOUN, who: PRON, have: VERB, more: ADJ, resources: NOUN, represent: VERB, the: DET, top: ADJ, layer: NOUN, of: ADP, the: DET, social: ADJ, structure: NOUN, of: ADP, stratification: NOUN, .: PUNCT
+S8: Other: ADJ, groups: NOUN, of: ADP, people: NOUN, ,: PUNCT, with: ADP, progressively: ADV, fewer: ADJ, and: CCONJ, fewer: ADJ, resources: NOUN, ,: PUNCT, represent: VERB, the: DET, lower: ADJ, layers: NOUN, of: ADP, our: PRON, society: NOUN, .: PUNCT
+S9: Strata: PROPN, in: ADP, rock: NOUN, illustrate: VERB, social: ADJ, stratification: NOUN, .: PUNCT
+S10: People: NOUN, are: AUX, sorted: VERB, ,: PUNCT, or: CCONJ, layered: VERB, ,: PUNCT, into: ADP, social: ADJ, categories: NOUN, .: PUNCT
+S11: Many: ADJ, factors: NOUN, determine: VERB, a: DET, person: NOUN, ’s: PART, social: ADJ, standing: NOUN, ,: PUNCT, such: ADJ, as: ADP, income: NOUN, ,: PUNCT, education: NOUN, ,: PUNCT, occupation: NOUN, ,: PUNCT, as: ADV, well: ADV, as: ADP, age: NOUN, ,: PUNCT, race: NOUN, ,: PUNCT, gender: NOUN, ,: PUNCT, and: CCONJ, even: ADV, physical: ADJ, abilities: NOUN, .: PUNCT
+S12: However: ADV, ,: PUNCT, sociologists: NOUN, recognize: VERB, that: SCONJ, social: ADJ, stratification: NOUN, is: AUX, a: DET, society: NOUN, -: PUNCT, wide: ADJ, system: NOUN, that: PRON, makes: VERB, inequalities: NOUN, apparent: ADJ, .: PUNCT
+S13: While: SCONJ, there: PRON, are: VERB, always: ADV, inequalities: NOUN, between: ADP, individuals: NOUN, ,: PUNCT, sociologists: NOUN, are: AUX, interested: ADJ, in: ADP, larger: ADJ, social: ADJ, patterns: NOUN, .: PUNCT
+S14: Stratification: NOUN, is: AUX, not: PART, about: ADP, individual: ADJ, inequalities: NOUN, ,: PUNCT, 
+ : SPACE, but: CCONJ, about: ADP, systematic: ADJ, inequalities: NOUN, based: VERB, on: ADP, group: NOUN, membership: NOUN, ,: PUNCT, classes: NOUN, ,: PUNCT, and: CCONJ, the: DET, like: ADJ, .: PUNCT
+S15: No: DET, individual: ADJ, ,: PUNCT, rich: ADJ, or: CCONJ, poor: ADJ, ,: PUNCT, can: AUX, be: AUX, blamed: VERB, for: ADP, social: ADJ, inequalities: NOUN, .: PUNCT
+S16: The: DET, structure: NOUN, of: ADP, society: NOUN, affects: VERB, a: DET, person: NOUN, ’s: PART, social: ADJ, standing: NOUN, .: PUNCT
+S17: Although: SCONJ, individuals: NOUN, may: AUX, support: VERB, or: CCONJ, fight: VERB, inequalities: NOUN, ,: PUNCT, social: ADJ, stratification: NOUN, is: AUX, created: VERB, and: CCONJ, supported: VERB, by: ADP, society: NOUN, as: ADP, a: DET, whole: NOUN, .: PUNCT
+S18: The: DET, people: NOUN, who: PRON, live: VERB, in: ADP, these: DET, houses: NOUN, most: ADV, likely: ADV, share: VERB, similar: ADJ, levels: NOUN, of: ADP, income: NOUN, and: CCONJ, education: NOUN, .: PUNCT
+S19: Neighborhoods: NOUN, often: ADV, house: VERB, people: NOUN, of: ADP, the: DET, same: ADJ, social: ADJ, standing: NOUN, .: PUNCT
+S20: Wealthy: ADJ, families: NOUN, do: AUX, not: PART, typically: ADV, live: VERB, next: ADJ, door: NOUN, to: ADP, poorer: ADJ, families: NOUN, ,: PUNCT, though: SCONJ, this: PRON, varies: VERB, depending: VERB, on: ADP, the: DET, particular: ADJ, city: NOUN, and: CCONJ, country: NOUN, .: PUNCT

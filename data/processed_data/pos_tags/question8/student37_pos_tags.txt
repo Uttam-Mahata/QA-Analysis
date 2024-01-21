@@ -1,0 +1,19 @@
+S1: How: SCONJ, industrial: ADJ, revolution: NOUN, has: AUX, impacted: VERB, the: DET, modern: ADJ, world: NOUN, ?: PUNCT
+S2: Ans-: INTJ, 
+: SPACE, The: DET, Industrial: PROPN, Revolution: PROPN, ,: PUNCT, a: DET, period: NOUN, of: ADP, rapid: ADJ, change: NOUN, in: ADP, the: DET, 18th: ADJ, and: CCONJ, 19th: ADJ, centuries: NOUN, ,: PUNCT, had: VERB, a: DET, massive: ADJ, impact: NOUN, on: ADP, the: DET, world: NOUN, we: PRON, know: VERB, today: NOUN, .: PUNCT
+S3: It: PRON, transformed: VERB, economies: NOUN, from: ADP, hand: NOUN, -: PUNCT, crafted: VERB, goods: NOUN, to: ADP, mass: ADJ, production: NOUN, ,: PUNCT, leading: VERB, to: ADP, both: DET, amazing: ADJ, advancements: NOUN, and: CCONJ, tough: ADJ, challenges: NOUN, .: PUNCT
+S4: On: ADP, the: DET, positive: ADJ, side: NOUN, ,: PUNCT, the: DET, Industrial: PROPN, Revolution: PROPN, brought: VERB, about: ADP, :: PUNCT, 
+
+: SPACE, *: PUNCT, *: PUNCT, *: ADJ, Technological: ADJ, leaps: NOUN, :*: PUNCT, *: NOUN, From: ADP, steam: NOUN, engines: NOUN, to: ADP, electricity: NOUN, ,: PUNCT, new: ADJ, inventions: NOUN, revolutionized: VERB, transportation: NOUN, ,: PUNCT, communication: NOUN, ,: PUNCT, and: CCONJ, everyday: ADJ, life: NOUN, .: PUNCT
+S5: *: PUNCT, *: PUNCT, *: PUNCT, Economic: ADJ, boom: NOUN, :*: PROPN, *: PUNCT, Factories: NOUN, churned: VERB, out: ADP, goods: NOUN, ,: PUNCT, making: VERB, them: PRON, cheaper: ADJ, and: CCONJ, more: ADV, accessible: ADJ, for: ADP, many: ADJ, people: NOUN, .: PUNCT
+S6: *: PUNCT, *: PUNCT, *: PUNCT, Urbanization: NOUN, :*: PROPN, *: PUNCT, Cities: PROPN, grew: VERB, as: SCONJ, people: NOUN, flocked: VERB, to: ADP, factories: NOUN, for: ADP, jobs: NOUN, ,: PUNCT, leading: VERB, to: ADP, new: ADJ, cultural: ADJ, and: CCONJ, social: ADJ, hubs: NOUN, .: PUNCT
+S7: However: ADV, ,: PUNCT, the: DET, revolution: NOUN, also: ADV, had: VERB, its: PRON, downsides: NOUN, :: PUNCT, 
+
+: SPACE, *: PUNCT, *: PUNCT, *: PUNCT, Harsh: ADJ, working: VERB, conditions: NOUN, :*: PROPN, *: PUNCT, Factory: NOUN, workers: NOUN, often: ADV, faced: VERB, long: ADJ, hours: NOUN, ,: PUNCT, low: ADJ, wages: NOUN, ,: PUNCT, and: CCONJ, dangerous: ADJ, conditions: NOUN, .: PUNCT
+S8: *: PUNCT, *: PUNCT, *: PUNCT, Widening: VERB, inequality: NOUN, :*: PROPN, *: PUNCT, Wealth: PROPN, concentrated: VERB, in: ADP, the: DET, hands: NOUN, of: ADP, factory: NOUN, owners: NOUN, ,: PUNCT, while: SCONJ, many: ADJ, workers: NOUN, struggled: VERB, to: PART, make: VERB, ends: NOUN, meet: VERB, .: PUNCT
+S9: *: PUNCT, *: PUNCT, *: PUNCT, Environmental: ADJ, damage: NOUN, :*: PROPN, *: NOUN, Pollution: PROPN, from: ADP, factories: NOUN, and: CCONJ, mines: NOUN, choked: VERB, cities: NOUN, and: CCONJ, harmed: VERB, ecosystems: NOUN, .: PUNCT
+S10: The: DET, Industrial: PROPN, Revolution: PROPN, 's: PART, legacy: NOUN, is: AUX, complex: ADJ, .: PUNCT
+S11: It: PRON, laid: VERB, the: DET, foundation: NOUN, for: ADP, modern: ADJ, technologies: NOUN, and: CCONJ, economies: NOUN, ,: PUNCT, but: CCONJ, also: ADV, left: VERB, behind: ADP, issues: NOUN, of: ADP, inequality: NOUN, and: CCONJ, environmental: ADJ, degradation: NOUN, that: SCONJ, we: PRON, still: ADV, grapple: VERB, with: ADP, today: NOUN, .: PUNCT
+S12: Understanding: VERB, this: DET, history: NOUN, is: AUX, crucial: ADJ, as: SCONJ, we: PRON, shape: VERB, the: DET, future: NOUN, of: ADP, our: PRON, world: NOUN, .: PUNCT
+S13: Remember: VERB, ,: PUNCT, history: NOUN, is: AUX, full: ADJ, of: ADP, diverse: ADJ, perspectives: NOUN, and: CCONJ, experiences: NOUN, .: PUNCT
+S14: It: PRON, 's: AUX, important: ADJ, to: PART, explore: VERB, different: ADJ, viewpoints: NOUN, to: PART, get: VERB, a: DET, complete: ADJ, picture: NOUN, of: ADP, the: DET, Industrial: PROPN, Revolution: PROPN, 's: PART, impact: NOUN, .: PUNCT

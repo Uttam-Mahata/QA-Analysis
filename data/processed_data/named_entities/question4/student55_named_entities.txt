@@ -1,0 +1,8 @@
+S1: The French Revolution: EVENT, France: GPE, the late 18th century: DATE
+S2: One: CARDINAL, French: NORP
+S3: French: NORP
+S4: 
+S5: 
+S6: 
+S7: Voltaire, Rousseau: LOC, Montesquieu: ORG
+S8: 

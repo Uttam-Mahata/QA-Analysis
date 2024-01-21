@@ -1,0 +1,10 @@
+S1: The French Revolution: EVENT, between 1789 and 1799: DATE, European: NORP
+S2: Firstly: ORDINAL, Europe: LOC
+S3: 
+S4: Secondly: ORDINAL, the French Revolution: EVENT
+S5: The Declaration of the Rights of Man: WORK_OF_ART, Citizen: ORG
+S6: the French Revolution: EVENT, egalitarian: NORP
+S7: Europe: LOC
+S8: France: GPE
+S9: the French Revolution: EVENT
+S10: 

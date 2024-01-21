@@ -1,0 +1,24 @@
+S1: Electric: ADJ, vehicles: NOUN, are: AUX, said: VERB, to: PART, be: AUX, greener: ADJ, ,: PUNCT, but: CCONJ, electricity: NOUN, production: NOUN, itself: PRON, causes: VERB, a: DET, lot: NOUN, of: ADP, pollution: NOUN, .: PUNCT
+S2: What: PRON, do: AUX, you: PRON, think: VERB, about: ADP, this: PRON, ?: PUNCT
+S3: Ans-: ADV, 
+: SPACE, .Calling: ADJ, EVs: NOUN, ": PUNCT, unconditionally: ADV, greener: ADJ, ": PUNCT, is: AUX, like: ADP, praising: VERB, a: DET, salad: NOUN, for: ADP, its: PRON, health: NOUN, while: SCONJ, ignoring: VERB, the: DET, plastic: ADJ, container: NOUN, it: PRON, comes: VERB, in: ADV, .: PUNCT
+S4: While: SCONJ, EVs: NOUN, eliminate: VERB, tailpipe: ADJ, emissions: NOUN, ,: PUNCT, the: DET, electricity: NOUN, powering: VERB, them: PRON, can: AUX, be: AUX, dirty: ADJ, ,: PUNCT, depending: VERB, on: ADP, the: DET, source: NOUN, .: PUNCT
+S5: However: ADV, ,: PUNCT, it: PRON, 's: AUX, not: PART, a: DET, zero: NUM, -: PUNCT, sum: NOUN, game: NOUN, .: PUNCT
+S6: Here: ADV, 's: AUX, the: DET, nuanced: VERB, picture: NOUN, :: PUNCT, 
+
+: SPACE, EVs: PROPN, win: VERB, on: ADP, local: ADJ, air: NOUN, quality: NOUN, :: PUNCT, No: DET, tailpipes: NOUN, mean: VERB, cleaner: ADJ, air: NOUN, in: ADP, cities: NOUN, ,: PUNCT, reducing: VERB, respiratory: ADJ, issues: NOUN, and: CCONJ, improving: VERB, public: ADJ, health: NOUN, .: PUNCT
+S7: EVs: PROPN, win: VERB, on: ADP, climate: NOUN, change: NOUN, in: ADP, most: ADJ, cases: NOUN, :: PUNCT, Even: ADV, factoring: VERB, in: ADP, electricity: NOUN, generation: NOUN, ,: PUNCT, studies: NOUN, show: VERB, EVs: PROPN, generally: ADV, have: VERB, a: DET, smaller: ADJ, lifetime: NOUN, carbon: NOUN, footprint: NOUN, than: ADP, gasoline: NOUN, cars: NOUN, ,: PUNCT, especially: ADV, with: ADP, cleaner: ADJ, grids: NOUN, .: PUNCT
+S8: But: CCONJ, electricity: NOUN, is: AUX, n't: PART, always: ADV, clean: ADJ, :: PUNCT, Coal: NOUN, -: PUNCT, powered: VERB, plants: NOUN, still: ADV, exist: VERB, ,: PUNCT, adding: VERB, emissions: NOUN, to: ADP, the: DET, equation: NOUN, .: PUNCT
+S9: This: DET, impact: NOUN, shrinks: VERB, as: SCONJ, grids: NOUN, transition: NOUN, to: ADP, renewables: NOUN, like: ADP, wind: NOUN, and: CCONJ, solar: ADJ, .: PUNCT
+S10: Battery: NOUN, production: NOUN, is: AUX, n't: PART, spotless: ADJ, either: ADV, :: PUNCT, Mining: NOUN, and: CCONJ, processing: NOUN, materials: NOUN, can: AUX, have: VERB, environmental: ADJ, costs: NOUN, .: PUNCT
+S11: But: CCONJ, research: NOUN, is: AUX, improving: VERB, sustainability: NOUN, and: CCONJ, extending: VERB, battery: NOUN, life: NOUN, .: PUNCT
+S12: So: ADV, ,: PUNCT, while: SCONJ, EV: PROPN, production: NOUN, and: CCONJ, electricity: NOUN, generation: NOUN, have: AUX, downsides: VERB, ,: PUNCT, the: DET, overall: ADJ, picture: NOUN, is: AUX, greener: ADJ, .: PUNCT
+S13: We: PRON, need: VERB, :: PUNCT, 
+
+: SPACE, More: ADV, renewable: ADJ, energy: NOUN, :: PUNCT, Wind: NOUN, ,: PUNCT, solar: ADJ, ,: PUNCT, and: CCONJ, hydropower: NOUN, will: AUX, significantly: ADV, reduce: VERB, EV: PROPN, emissions: NOUN, .: PUNCT
+S14: Sustainable: ADJ, battery: NOUN, production: NOUN, :: PUNCT, Recycling: NOUN, materials: NOUN, and: CCONJ, reducing: VERB, production: NOUN, emissions: NOUN, are: AUX, key: ADJ, .: PUNCT
+S15: Energy: NOUN, efficiency: NOUN, :: PUNCT, Improving: VERB, grids: NOUN, and: CCONJ, promoting: VERB, efficient: ADJ, practices: NOUN, will: AUX, further: ADV, minimize: VERB, environmental: ADJ, impact: NOUN, .: PUNCT
+S16: In: ADP, conclusion: NOUN, ,: PUNCT, EVs: NOUN, are: AUX, a: DET, step: NOUN, towards: ADP, a: DET, cleaner: ADJ, future: NOUN, ,: PUNCT, but: CCONJ, we: PRON, need: VERB, to: PART, keep: VERB, cleaning: VERB, the: DET, steps: NOUN, themselves: PRON, .: PUNCT
+S17: With: ADP, advancements: NOUN, in: ADP, clean: ADJ, energy: NOUN, and: CCONJ, battery: NOUN, technology: NOUN, ,: PUNCT, the: DET, future: NOUN, of: ADP, transportation: NOUN, looks: VERB, bright: ADJ, ,: PUNCT, and: CCONJ, EVs: PROPN, are: AUX, leading: VERB, the: DET, charge: NOUN, .: PUNCT
+S18: This: PRON, comes: VERB, in: ADP, at: ADP, under: ADP, 200: NUM, words: NOUN, ,: PUNCT, hopefully: ADV, providing: VERB, a: DET, concise: NOUN, yet: CCONJ, informative: ADJ, perspective: NOUN, .: PUNCT
+S19: Let: VERB, me: PRON, know: VERB, if: SCONJ, you: PRON, have: VERB, any: DET, further: ADJ, question: NOUN

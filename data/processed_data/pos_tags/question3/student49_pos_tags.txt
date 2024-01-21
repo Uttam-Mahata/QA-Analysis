@@ -1,0 +1,27 @@
+S1: Explain: VERB, the: DET, concept: NOUN, of: ADP, social: ADJ, stratification: NOUN, and: CCONJ, its: PRON, impact: NOUN, on: ADP, societies: NOUN, .: PUNCT
+S2: Ans-: CCONJ, 
+: SPACE, Social: ADJ, stratification: NOUN, is: AUX, a: DET, particular: ADJ, form: NOUN, of: ADP, social: ADJ, inequality: NOUN, .: PUNCT
+S3: All: DET, societies: NOUN, arrange: VERB, their: PRON, members: NOUN, 
+: SPACE, in: ADP, terms: NOUN, of: ADP, superiority: NOUN, ,: PUNCT, inferiority: NOUN, and: CCONJ, equality: NOUN, .: PUNCT
+S4: Stratification: NOUN, is: AUX, a: DET, process: NOUN, of: ADP, interaction: NOUN, or: CCONJ, 
+: SPACE, differentiation: NOUN, whereby: SCONJ, some: DET, people: NOUN, come: VERB, to: PART, rank: VERB, higher: ADJ, than: ADP, others: NOUN, .: PUNCT
+S5: In: ADP, one: NUM, word: NOUN, ,: PUNCT, when: SCONJ, individuals: NOUN, and: CCONJ, groups: NOUN, are: AUX, ranked: VERB, ,: PUNCT, according: VERB, to: ADP, some: DET, commonly: ADV, accepted: VERB, 
+: SPACE, basis: NOUN, of: ADP, valuation: NOUN, in: ADP, a: DET, hierarchy: NOUN, of: ADP, status: NOUN, levels: NOUN, based: VERB, upon: SCONJ, the: DET, inequality: NOUN, of: ADP, social: ADJ, positions: NOUN, ,: PUNCT, 
+: SPACE, social: ADJ, stratification: NOUN, occurs: VERB, .: PUNCT
+S6: Social: ADJ, stratification: NOUN, means: VERB, division: NOUN, of: ADP, society: NOUN, into: ADP, different: ADJ, strata: NOUN, or: CCONJ, 
+: SPACE, layers: NOUN, .: PUNCT
+S7: It: PRON, involves: VERB, a: DET, hierarchy: NOUN, of: ADP, social: ADJ, groups: NOUN, .: PUNCT
+S8: Members: NOUN, of: ADP, a: DET, particular: ADJ, layer: NOUN, have: VERB, a: DET, common: ADJ, 
+: SPACE, identity: NOUN, .: PUNCT
+S9: They: PRON, have: VERB, a: DET, similar: ADJ, life: NOUN, style: NOUN, .: PUNCT
+S10: The: DET, Indian: ADJ, Caste: PROPN, system: NOUN, provides: VERB, an: DET, example: NOUN, of: ADP, stratification: NOUN, system: NOUN, .: PUNCT
+S11: The: DET, society: NOUN, in: ADP, which: DET, 
+: SPACE, divisions: NOUN, of: ADP, social: ADJ, classes: NOUN, exist: VERB, is: AUX, known: VERB, as: ADP, a: DET, stratified: ADJ, society: NOUN, .: PUNCT
+S12: Modern: ADJ, stratification: NOUN, 
+: SPACE, fundamentally: ADV, differs: VERB, from: ADP, stratification: NOUN, of: ADP, primitive: ADJ, societies: NOUN, .: PUNCT
+S13: Social: ADJ, stratification: NOUN, involves: VERB, two: NUM, 
+: SPACE, phenomena: NOUN, (: PUNCT, i: NOUN, ): PUNCT, differentiation: NOUN, of: ADP, individuals: NOUN, or: CCONJ, groups: NOUN, on: ADP, the: DET, basis: NOUN, of: ADP, possession: NOUN, of: ADP, certain: ADJ, 
+: SPACE, characteristics: NOUN, whereby: SCONJ, some: DET, individuals: NOUN, or: CCONJ, groups: NOUN, come: VERB, to: PART, rank: VERB, higher: ADJ, than: ADP, others: NOUN, ,: PUNCT, (: PUNCT, ii: PROPN, ): PUNCT, the: DET, 
+: SPACE, ranking: NOUN, of: ADP, individuals: NOUN, according: VERB, to: ADP, some: DET, basis: NOUN, of: ADP, evaluation: NOUN, .: PUNCT
+S14: Sociologists: NOUN, are: AUX, concerned: VERB, not: PART, merely: ADV, with: ADP, the: DET, facts: NOUN, of: ADP, social: ADJ, differences: NOUN, but: CCONJ, also: ADV, with: ADP, their: PRON, 
+: SPACE, social: ADJ, evaluation: NOUN, .: PUNCT

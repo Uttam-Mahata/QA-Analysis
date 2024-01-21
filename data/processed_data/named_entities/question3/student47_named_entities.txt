@@ -1,0 +1,20 @@
+S1: 
+S2: 
+S3: 
+S4: 
+S5: 
+S6: Society: ORG
+S7: 
+S8: SES: ORG
+S9: 
+S10: 
+S11: 
+S12: 
+S13: 
+S14: 
+S15: One: CARDINAL
+S16: 
+S17: 
+S18: 
+S19: first: ORDINAL
+S20: 

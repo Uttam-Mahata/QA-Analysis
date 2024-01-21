@@ -1,0 +1,25 @@
+S1: continental: ORG
+S2: Continental: ORG, one: CARDINAL
+S3: Today: DATE, continental: ORG
+S4: continental: ORG, Alfred Wegener: PERSON
+S5: the early 20th century: DATE, Wegener: ORG, Earth: LOC
+S6: 
+S7: Wegener: ORG, Earth: LOC, Pangaea: GPE
+S8: Wegener: ORG, Pangaea: ORG
+S9: Africa: LOC, South America: LOC
+S10: only one meter: QUANTITY, 3.3 feet: QUANTITY, the Atlantic Ocean: LOC
+S11: 
+S12: Wegener: ORG, Arctic archipelago: LOC, Svalbard: GPE, Norway: GPE
+S13: Arctic: LOC
+S14: 
+S15: Svalbard: PERSON
+S16: Wegener: ORG
+S17: South America: LOC, Africa: LOC, Wegener: ORG
+S18: South America: LOC, Africa: LOC
+S19: Wegener: ORG, the Appalachian Mountains: LOC, United States: GPE, the Caledonian Mountains: LOC, Scotland: GPE
+S20: about 240 million years ago: DATE
+S21: about 200 million years ago: DATE
+S22: millions of years: DATE, Pangaea: PERSON
+S23: today: DATE
+S24: Today: DATE, Pangaea: ORG, Earth: LOC
+S25: Pannotia: PERSON, about 600 million years ago: DATE, Rodinia: GPE, more than a billion years ago: MONEY

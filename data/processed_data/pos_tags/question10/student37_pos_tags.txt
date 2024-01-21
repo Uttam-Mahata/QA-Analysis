@@ -1,0 +1,21 @@
+S1: Electric: ADJ, vehicles: NOUN, are: AUX, said: VERB, to: PART, be: AUX, greener: ADJ, ,: PUNCT, but: CCONJ, electricity: NOUN, production: NOUN, itself: PRON, causes: VERB, a: DET, lot: NOUN, of: ADP, pollution: NOUN, .: PUNCT
+S2: What: PRON, do: AUX, you: PRON, think: VERB, about: ADP, this: PRON, ?: PUNCT
+S3: Ans-: X, 
+: SPACE, Calling: VERB, EVs: NOUN, ": PUNCT, green: ADJ, ": PUNCT, is: AUX, true: ADJ, ,: PUNCT, but: CCONJ, incomplete: ADJ, .: PUNCT
+S4: While: SCONJ, they: PRON, eliminate: VERB, tailpipe: NOUN, emissions: NOUN, ,: PUNCT, electricity: NOUN, generation: NOUN, does: AUX, have: VERB, a: DET, dirty: ADJ, side: NOUN, .: PUNCT
+S5: It: PRON, 's: AUX, like: ADP, swapping: VERB, smoke: NOUN, for: ADP, a: DET, distant: ADJ, factory: NOUN, plume: NOUN, .: PUNCT
+S6: The: DET, good: ADJ, news: NOUN, :: PUNCT, EVs: PROPN, win: VERB, on: ADP, air: NOUN, quality: NOUN, ,: PUNCT, reducing: VERB, local: ADJ, pollutants: NOUN, harmful: ADJ, to: ADP, human: ADJ, health: NOUN, .: PUNCT
+S7: They: PRON, also: ADV, boast: VERB, lower: ADJ, overall: ADJ, emissions: NOUN, ,: PUNCT, even: ADV, accounting: VERB, for: ADP, electricity: NOUN, 's: PART, carbon: NOUN, footprint: NOUN, ,: PUNCT, especially: ADV, in: ADP, regions: NOUN, embracing: VERB, renewable: ADJ, energy: NOUN, .: PUNCT
+S8: Plus: CCONJ, ,: PUNCT, their: PRON, energy: NOUN, efficiency: NOUN, is: AUX, impressive: ADJ, .: PUNCT
+S9: The: DET, not: PART, -: PUNCT, so: ADV, -: PUNCT, good: ADJ, news: NOUN, :: PUNCT, Coal: NOUN, and: CCONJ, gas: NOUN, power: NOUN, plants: NOUN, still: ADV, pollute: VERB, ,: PUNCT, and: CCONJ, battery: NOUN, production: NOUN, is: AUX, n't: PART, always: ADV, shiny: ADJ, .: PUNCT
+S10: Upgrading: VERB, the: DET, grid: NOUN, for: ADP, more: ADJ, EVs: NOUN, comes: VERB, with: ADP, its: PRON, own: ADJ, environmental: ADJ, costs: NOUN, .: PUNCT
+S11: So: ADV, ,: PUNCT, the: DET, verdict: NOUN, ?: PUNCT
+S12: EVs: PROPN, are: AUX, a: DET, significant: ADJ, green: ADJ, leap: NOUN, ,: PUNCT, but: CCONJ, not: PART, a: DET, magic: ADJ, solution: NOUN, .: PUNCT
+S13: We: PRON, need: VERB, a: DET, two: NUM, -: PUNCT, pronged: ADJ, approach: NOUN, :: PUNCT, 
+
+: SPACE, Clean: VERB, up: ADP, electricity: NOUN, :: PUNCT, More: ADJ, renewables: NOUN, ,: PUNCT, cleaner: ADJ, battery: NOUN, tech: NOUN, ,: PUNCT, and: CCONJ, efficient: ADJ, grid: NOUN, upgrades: NOUN, .: PUNCT
+S14: Drive: VERB, smarter: ADV, :: PUNCT, Choose: VERB, EVs: NOUN, ,: PUNCT, charge: VERB, with: ADP, clean: ADJ, sources: NOUN, ,: PUNCT, and: CCONJ, embrace: VERB, green: ADJ, habits: NOUN, .: PUNCT
+S15: Remember: VERB, ,: PUNCT, the: DET, EV: PROPN, story: NOUN, is: AUX, constantly: ADV, evolving: VERB, .: PUNCT
+S16: As: SCONJ, we: PRON, clean: VERB, up: ADP, the: DET, electricity: NOUN, sector: NOUN, ,: PUNCT, the: DET, green: ADJ, edge: NOUN, of: ADP, EVs: PROPN, will: AUX, only: ADV, sharpen: VERB, ,: PUNCT, making: VERB, them: PRON, a: DET, key: ADJ, player: NOUN, in: ADP, a: DET, sustainable: ADJ, transportation: NOUN, futuresprograms: NOUN, minimizes: VERB, the: DET, environmental: ADJ, impact: NOUN, of: ADP, disposing: VERB, of: ADP, used: VERB, batteries: NOUN, .: PUNCT
+S17: As: SCONJ, society: NOUN, navigates: VERB, this: DET, intricate: ADJ, interplay: NOUN, between: ADP, technology: NOUN, ,: PUNCT, energy: NOUN, policy: NOUN, ,: PUNCT, and: CCONJ, environmental: ADJ, considerations: NOUN, ,: PUNCT, the: DET, future: NOUN, of: ADP, electric: ADJ, vehicles: NOUN, appears: VERB, promising: VERB, .: PUNCT
+S18: The: DET, quest: NOUN, for: ADP, a: DET, sustainable: ADJ, transportation: NOUN, ecosystem: NOUN, involves: VERB, not: PART, only: ADV, advancing: VERB, the: DET, technology: NOUN, of: ADP, EVs: PROPN, but: CCONJ, also: ADV, fostering: VERB, a: DET, holistic: ADJ, shift: NOUN, towards: ADP, cleaner: ADJ, and: CCONJ, renewable: ADJ, energy: NOUN, practices: NOUN, .: PUNCT

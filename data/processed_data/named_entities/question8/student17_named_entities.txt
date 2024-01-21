@@ -1,0 +1,7 @@
+S1: The Industrial Revolution: EVENT, the late 18th to the 19th centuries: DATE
+S2: agrarian: NORP
+S3: 
+S4: 
+S5: 
+S6: 
+S7: the Industrial Revolution: EVENT

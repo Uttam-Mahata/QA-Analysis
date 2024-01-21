@@ -1,0 +1,9 @@
+S1: 
+S2: zero: CARDINAL
+S3: 
+S4: 
+S5: 
+S6: EV: ORG
+S7: EV: ORG
+S8: 
+S9: EV: ORG

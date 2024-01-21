@@ -1,0 +1,8 @@
+S1: Earth: LOC
+S2: Charles Darwin: PERSON, the mid-19th century: DATE
+S3: 
+S4: 
+S5: 
+S6: 
+S7: 
+S8: 

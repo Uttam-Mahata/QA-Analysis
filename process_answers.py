@@ -1,5 +1,7 @@
 import os
 import spacy
+import nltk
+nltk.download('punkt')
 from nltk.tokenize import sent_tokenize
 
 # Load spaCy English language model

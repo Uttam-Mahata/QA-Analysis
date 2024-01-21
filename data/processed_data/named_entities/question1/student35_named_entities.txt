@@ -1,0 +1,19 @@
+S1: continental: ORG
+S2: Continental: ORG
+S3: Alfred Wegener: PERSON, 1912: DATE, 1: CARDINAL
+S4: Jigsaw Puzzle Fit:*: ORG, South America: LOC, Africa: LOC
+S5: one: CARDINAL, first: ORDINAL, Wegener: ORG
+S6: 2: CARDINAL
+S7: Fossil Distribution:*: PERSON
+S8: Mesosaurus: PERSON, South America: LOC, Africa: LOC
+S9: 3: CARDINAL
+S10: Rock Formations:*: ORG
+S11: South America: LOC, Africa: LOC
+S12: 4: CARDINAL
+S13: Glacial Evidence:*: ORG
+S14: 5: CARDINAL
+S15: Earth: LOC
+S16: continental: ORG
+S17: continental: ORG
+S18: Today: DATE, Earth: LOC
+S19: continental: ORG, Earth: LOC

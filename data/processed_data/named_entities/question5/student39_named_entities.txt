@@ -1,0 +1,34 @@
+S1: 
+S2: 
+S3: 
+S4: 1: CARDINAL
+S5: 
+S6: 
+S7: 2: CARDINAL
+S8: 
+S9: 
+S10: 3: CARDINAL
+S11: 
+S12: 
+S13: 4: CARDINAL
+S14: 
+S15: 
+S16: 5: CARDINAL
+S17: 
+S18: 
+S19: 6: CARDINAL
+S20: User Experiences:*: ORG
+S21: 
+S22: 7: CARDINAL
+S23: Scientific Research:*: ORG
+S24: 
+S25: 8: CARDINAL
+S26: 
+S27: 
+S28: 9: CARDINAL
+S29: 
+S30: 
+S31: 10: CARDINAL
+S32: Continuous Innovation:*: PERSON
+S33: 
+S34: 

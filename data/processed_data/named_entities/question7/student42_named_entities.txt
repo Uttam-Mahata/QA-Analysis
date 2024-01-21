@@ -1,0 +1,24 @@
+S1: Relational Database Management System: ORG
+S2: 
+S3: 1: CARDINAL
+S4: 
+S5: 
+S6: 2: CARDINAL
+S7: 
+S8: 3: CARDINAL
+S9: 
+S10: 
+S11: 4: CARDINAL
+S12: 
+S13: 
+S14: 5: CARDINAL
+S15: 
+S16: 6: CARDINAL
+S17: SQL: ORG, Structured Query Language: ORG
+S18: 
+S19: 7: CARDINAL
+S20: 
+S21: 8: CARDINAL
+S22: ACID Properties:*: ORG, ACID: ORG, Isolation, Durability: ORG
+S23: 
+S24: ACID: ORG

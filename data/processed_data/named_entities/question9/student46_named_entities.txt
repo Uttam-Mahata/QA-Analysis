@@ -1,0 +1,20 @@
+S1: World War 3: EVENT
+S2: World War 3: EVENT
+S3: 1: CARDINAL
+S4: 
+S5: 
+S6: 2: CARDINAL
+S7: World War II: EVENT
+S8: 
+S9: 3: CARDINAL
+S10: 
+S11: 
+S12: 4: CARDINAL
+S13: Ukraine: GPE, Taiwan: GPE, Iran: GPE
+S14: 
+S15: 5: CARDINAL
+S16: Russia: GPE, China: GPE
+S17: 
+S18: third: ORDINAL
+S19: The United States: GPE, China: GPE, Ukraine: GPE
+S20: 

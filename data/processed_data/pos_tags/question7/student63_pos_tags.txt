@@ -1,0 +1,14 @@
+S1: Relational: ADJ, database: NOUN, management: NOUN, systems: NOUN, (: PUNCT, RDBMS: PROPN, ): PUNCT, excel: VERB, at: ADP, efficient: ADJ, data: NOUN, organization: NOUN, and: CCONJ, retrieval: NOUN, through: ADP, several: ADJ, key: ADJ, methods: NOUN, :: PUNCT, 
+
+: SPACE, Imagine: VERB, searching: VERB, a: DET, phone: NOUN, book: NOUN, instead: ADV, of: ADP, flipping: VERB, through: ADP, every: DET, page: NOUN, .: PUNCT
+S2: Indexes: NOUN, act: VERB, like: ADP, shortcuts: NOUN, ,: PUNCT, mapping: VERB, specific: ADJ, data: NOUN, values: NOUN, to: ADP, their: PRON, locations: NOUN, .: PUNCT
+S3: This: PRON, dramatically: ADV, speeds: VERB, up: ADP, retrieval: NOUN, ,: PUNCT, letting: VERB, you: PRON, find: VERB, what: PRON, you: PRON, need: VERB, instantly: ADV, .: PUNCT
+S4: RDBMS: ADJ, enforces: NOUN, data: NOUN, consistency: NOUN, through: ADP, rules: NOUN, and: CCONJ, constraints: NOUN, .: PUNCT
+S5: This: PRON, ensures: VERB, accuracy: NOUN, and: CCONJ, prevents: VERB, corruption: NOUN, ,: PUNCT, eliminating: VERB, the: DET, risk: NOUN, of: ADP, conflicting: VERB, information: NOUN, or: CCONJ, missing: VERB, data: NOUN, .: PUNCT
+S6: Imagine: VERB, a: DET, world: NOUN, where: SCONJ, numbers: NOUN, always: ADV, add: VERB, up: ADP, and: CCONJ, every: DET, record: NOUN, has: VERB, a: DET, clear: ADJ, owner: NOUN, .: PUNCT
+S7: Sensitive: ADJ, data: NOUN, needs: VERB, protection: NOUN, .: PUNCT
+S8: RDBMS: PROPN, allows: VERB, granular: ADJ, control: NOUN, over: ADP, who: PRON, can: AUX, access: VERB, and: CCONJ, modify: VERB, data: NOUN, ,: PUNCT, ensuring: VERB, unauthorized: ADJ, users: NOUN, remain: VERB, locked: ADJ, out: ADP, .: PUNCT
+S9: This: DET, safeguards: NOUN, crucial: ADJ, information: NOUN, and: CCONJ, prevents: VERB, accidental: ADJ, or: CCONJ, malicious: ADJ, tampering: NOUN, .: PUNCT
+S10: As: SCONJ, data: NOUN, volumes: NOUN, grow: VERB, ,: PUNCT, RDBMS: PROPN, keeps: VERB, pace: NOUN, .: PUNCT
+S11: Its: PRON, structured: ADJ, approach: NOUN, and: CCONJ, efficient: ADJ, retrieval: NOUN, methods: NOUN, handle: VERB, large: ADJ, datasets: NOUN, without: ADP, breaking: VERB, a: DET, sweat: NOUN, .: PUNCT
+S12: Imagine: VERB, a: DET, library: NOUN, that: PRON, expands: VERB, gracefully: ADV, ,: PUNCT, accommodating: VERB, ever: ADV, -: PUNCT, growing: VERB, knowledge: NOUN, without: ADP, losing: VERB, order: NOUN, .: PUNCT

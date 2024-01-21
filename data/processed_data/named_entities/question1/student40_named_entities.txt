@@ -1,0 +1,15 @@
+S1: continental: ORG
+S2: continental: ORG, Alfred Wegener: PERSON, the early 20th century: DATE, Earth: LOC
+S3: Wegener: ORG, Pangaea: ORG
+S4: Wegener: ORG
+S5: Firstly: ORDINAL, between the eastern boundary of South America: TIME, Africa: LOC
+S6: Secondly: ORDINAL
+S7: 
+S8: 
+S9: the Appalachian Mountains: NORP, North America: LOC, the Caledonian Mountains: LOC, Scotland: GPE, Scandinavia: LOC
+S10: 
+S11: 
+S12: Wegener: ORG, the mid-20th century: DATE, Earth: LOC
+S13: Earth: LOC
+S14: continental: ORG, Earth: LOC
+S15: 
