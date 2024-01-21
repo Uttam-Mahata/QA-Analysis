@@ -13,7 +13,7 @@ def get_sentence_vector(sentence):
 def process_student_answers():
     # Loop through each question and each student's answer
     for question_number in range(1, 11):
-        for student_number in range(1, 16):  # Adjusted the range to 15 students
+        for student_number in range(1, 65):  # Adjusted the range to 15 students
             # Create directory to store average vectors for each question
             avg_vector_folder = f"data/processed_data/avg_vectors/question{question_number}"
             os.makedirs(avg_vector_folder, exist_ok=True)

@@ -28,7 +28,7 @@ def named_entity_extraction(sentence, question_number, student_number, sentence_
 def process_student_answers():
     # Loop through each question and each student's answer
     for question_number in range(1, 11):
-        for student_number in range(1, 16):  # Adjusted the range to 15 students
+        for student_number in range(1, 65):  # Adjusted the range to 15 students
             # Create directories to store processed answers, POS tags, and named entities
             processed_folder = f"data/processed_data/processed_answers/question{question_number}"
             os.makedirs(processed_folder, exist_ok=True)
