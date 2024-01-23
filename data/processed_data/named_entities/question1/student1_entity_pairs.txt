@@ -1,0 +1,27 @@
+S1 Entity Pairs: (continental, Alfred Wegener), (continental, the early 20th century), (continental, Pangaea), (Alfred Wegener, the early 20th century), (Alfred Wegener, Pangaea), (the early 20th century, Pangaea)
+S2 Entity Pairs: 
+S3 Entity Pairs: (One, continental), (One, South America), (One, Africa), (continental, South America), (continental, Africa), (South America, Africa)
+S4 Entity Pairs: 
+S5 Entity Pairs: (Fossil, today)
+S6 Entity Pairs: 
+S7 Entity Pairs: 
+S8 Entity Pairs: 
+S9 Entity Pairs: 
+S1 Entity Pairs: (continental, Alfred Wegener), (continental, the early 20th century), (continental, Pangaea), (Alfred Wegener, the early 20th century), (Alfred Wegener, Pangaea), (the early 20th century, Pangaea)
+S2 Entity Pairs: 
+S3 Entity Pairs: (One, continental), (One, South America), (One, Africa), (continental, South America), (continental, Africa), (South America, Africa)
+S4 Entity Pairs: 
+S5 Entity Pairs: (Fossil, today)
+S6 Entity Pairs: 
+S7 Entity Pairs: 
+S8 Entity Pairs: 
+S9 Entity Pairs: 
+S1 Entity Pairs: (continental, Alfred Wegener), (continental, the early 20th century), (continental, Pangaea), (Alfred Wegener, the early 20th century), (Alfred Wegener, Pangaea), (the early 20th century, Pangaea)
+S2 Entity Pairs: 
+S3 Entity Pairs: (One, continental), (One, South America), (One, Africa), (continental, South America), (continental, Africa), (South America, Africa)
+S4 Entity Pairs: 
+S5 Entity Pairs: (Fossil, today)
+S6 Entity Pairs: 
+S7 Entity Pairs: 
+S8 Entity Pairs: 
+S9 Entity Pairs: 

@@ -6,6 +6,16 @@ from nltk.tokenize import sent_tokenize
 # Load spaCy English language model with word embeddings
 nlp = spacy.load("en_core_web_sm")
 
+def get_named_entity_pairs(sentence):
+    # Tokenize the sentence into words
+    doc = nlp(sentence)
+    
+    # Extract named entities and form pairs
+    named_entities = [ent.text for ent in doc.ents]
+    entity_pairs = [(named_entities[i], named_entities[j]) for i in range(len(named_entities)) for j in range(i+1, len(named_entities))]
+    
+    return entity_pairs
+
 def get_sentence_vector(sentence):
     # Get the sentence vector using spaCy
     return nlp(sentence).vector
@@ -28,7 +38,16 @@ def process_student_answers():
                     processed_answers = processed_answer_file.read().split('\n')
 
                 # Vectorize each sentence and convert to numeric values
-                sentence_vectors = [get_sentence_vector(sentence).tolist() for sentence in processed_answers if sentence]
+                sentence_vectors = []
+                for sentence in processed_answers:
+                    named_entity_pairs = get_named_entity_pairs(sentence)
+                    # Use named entity pairs to form vectors
+                    vectors = [get_sentence_vector(pair[0] + ' ' + pair[1]).tolist() for pair in named_entity_pairs if pair[0] and pair[1]]
+                    if vectors:
+                        # Pad vectors to ensure they all have the same length
+                        max_len = max(len(vector) for vector in vectors)
+                        padded_vectors = [np.pad(vector, (0, max_len - len(vector))) for vector in vectors]
+                        sentence_vectors.append(np.mean(padded_vectors, axis=0))
 
                 if sentence_vectors:
                     # Calculate the average vector for all sentences
