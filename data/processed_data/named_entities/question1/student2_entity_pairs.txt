@@ -1,0 +1,13 @@
+S1 Entity Pairs: (Continental, Earth)
+S2 Entity Pairs: (Alfred Wegener, 1912)
+S3 Entity Pairs: (South America, Africa)
+S4 Entity Pairs: 
+S5 Entity Pairs: 
+S6 Entity Pairs: 
+S7 Entity Pairs: 
+S8 Entity Pairs: 
+S9 Entity Pairs: 
+S10 Entity Pairs: 
+S11 Entity Pairs: 
+S12 Entity Pairs: (Continental, Earth)
+S13 Entity Pairs: 
