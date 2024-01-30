@@ -1,1 +1,12 @@
-Reference Answer to Question 1
+The theory of continental drift, originally proposed by Alfred Wegener, posits that Earth's continents were once part of a single supercontinent known as Pangaea and have since drifted to their present locations. This theory finds support in various forms of evidence.
+Fossil evidence offers insights into the connection between continents. Similar fossils of plants and animals have been discovered on continents now separated by vast oceans, indicating a shared history.
+Rock formations and mountain ranges provide another layer of proof. Identical geological features on continents widely apart suggest that they were once joined in a different configuration.
+The fit of continents along coastlines is striking. For instance, the matching outlines of South America and Africa imply a previous adjacency.
+Paleoclimatic evidence, such as glacial deposits and coal beds, further supports the theory. It suggests that continents experienced different climates due to their varied historical positions.
+The distribution of species across continents aligns with the concept of continental drift, offering a more coherent explanation for the current dispersion of certain plant and animal life.
+Polar wandering, observed through changes in the Earth's magnetic poles, is consistent with the idea of continents shifting over time.
+The discovery of mid-ocean ridges and the process of seafloor spreading provide a mechanism for the movement of continents, bolstering Wegener's theory.
+Paleomagnetic evidence, derived from the magnetic properties of rocks, supports the argument for continental drift by revealing patterns that align with the proposed movement of continents.
+Plate tectonics, a modern framework, integrates Wegener's ideas, explaining the dynamic nature of Earth's lithosphere through the movement of tectonic plates over the semi-fluid asthenosphere.
+Advancements in technology, particularly satellite observations and GPS measurements, continue to provide real-time data supporting the ongoing movement of continents.
+In summary, continental drift is substantiated by a mosaic of geological, paleontological, and climatic evidence, as well as contemporary technological observations, shaping our understanding of Earth's dynamic history.
