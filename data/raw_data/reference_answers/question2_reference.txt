@@ -1,4 +1,3 @@
-
 Natural selection, a fundamental mechanism in the theory of evolution, is the process by which organisms with advantageous traits are more likely to survive and reproduce, passing on these traits to successive generations. This results in the gradual adaptation of species to their environment.
 For example, consider the peppered moth during the Industrial Revolution. Initially light-colored, the prevalence of dark-colored moths increased as they were better camouflaged against soot-covered trees, illustrating how environmental changes can drive natural selection.
 In the Galápagos Islands, Darwin observed finches with varying beak sizes. During dry periods, finches with larger, more robust beaks had an advantage in accessing hard-to-reach seeds, showcasing how selective pressures lead to the evolution of specialized traits.
