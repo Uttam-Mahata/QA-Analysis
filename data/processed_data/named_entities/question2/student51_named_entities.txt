@@ -1,9 +1,0 @@
-S1: Charles Darwin: PERSON
-S2: 
-S3: 
-S4: 
-S5: 
-S6: 
-S7: millions of years: DATE
-S8: Earth: LOC
-S9: 

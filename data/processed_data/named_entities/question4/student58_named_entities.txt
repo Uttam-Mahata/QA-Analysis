@@ -1,9 +1,0 @@
-S1: The French Revolution: EVENT, between 1789 and 1799: DATE, European: NORP
-S2: One: CARDINAL, Europe: LOC
-S3: 
-S4: the French Revolution: EVENT
-S5: the Declaration of the Rights of Man: WORK_OF_ART, Citizen: ORG
-S6: 
-S7: the French Revolution: EVENT
-S8: the French Republic: GPE, European: NORP
-S9: Napoleon Bonaparte: PERSON, European: NORP, French: NORP

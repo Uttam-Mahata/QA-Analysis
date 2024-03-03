@@ -1,7 +1,0 @@
-S1: The French Revolution: EVENT, European: NORP
-S2: One: CARDINAL, the French Revolution: EVENT
-S3: European: NORP
-S4: 
-S5: The French Revolution: EVENT
-S6: European: NORP
-S7: France: GPE

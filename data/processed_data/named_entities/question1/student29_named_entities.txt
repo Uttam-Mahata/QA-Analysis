@@ -1,5 +1,0 @@
-S1: Earth: LOC, Pangaea: PERSON
-S2: 
-S3: 
-S4: 
-S5: 

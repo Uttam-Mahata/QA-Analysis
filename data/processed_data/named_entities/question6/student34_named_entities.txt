@@ -1,9 +1,0 @@
-S1: 
-S2: Machine: ORG, three: CARDINAL
-S3: 
-S4: 
-S5: 
-S6: AI: ORG, AI: ORG
-S7: AI: ORG
-S8: AI: ORG
-S9: AI: ORG

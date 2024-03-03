@@ -1,6 +1,0 @@
-S1: World War III: EVENT
-S2: One: CARDINAL, the United States: GPE, China: GPE, Russia: GPE
-S3: the South China Sea: LOC, Eastern Europe: LOC
-S4: 
-S5: 
-S6: the Middle East: LOC, Asia: LOC

@@ -1,2 +1,0 @@
-S1: Charles Darwin's: PERSON
-S2: the peppered moth's: ORG, the Industrial Revolution: EVENT

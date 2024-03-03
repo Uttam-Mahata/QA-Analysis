@@ -1,6 +1,0 @@
-S1: Charles Darwin: PERSON, the 19th century: DATE
-S2: 
-S3: 
-S4: the Galápagos Islands: LOC
-S5: Darwin: PERSON
-S6: Darwin: PERSON, Earth: LOC

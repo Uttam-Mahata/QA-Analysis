@@ -1,8 +1,0 @@
-S1: Continental: ORG, Earth: LOC
-S2: Darles Charwin: PERSON, 17th century: DATE
-S3: Earth: LOC
-S4: One: CARDINAL, Earth: LOC
-S5: Himalayas: ORG, Indian: NORP, Eurasian: NORP
-S6: 
-S7: 
-S8: 

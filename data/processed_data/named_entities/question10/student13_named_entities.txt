@@ -1,7 +1,0 @@
-S1: Limited Emission Reduction: While EVs: WORK_OF_ART, zero: CARDINAL
-S2: Energy-Intensive Production:: ORG
-S3: Battery Production Concerns: Critics: ORG, EV: ORG
-S4: EV: ORG
-S5: 
-S6: 
-S7: 

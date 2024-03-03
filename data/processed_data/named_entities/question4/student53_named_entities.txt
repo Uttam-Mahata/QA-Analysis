@@ -1,9 +1,0 @@
-S1: The French Revolution: EVENT, 1789 to 1799: DATE, European: NORP
-S2: Firstly: ORDINAL, France: GPE
-S3: 
-S4: 
-S5: The French Revolution's: EVENT
-S6: 
-S7: 
-S8: the French Revolution's: EVENT, Europe: LOC
-S9: European: NORP

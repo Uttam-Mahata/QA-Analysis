@@ -1,6 +1,0 @@
-S1: Relational Database Management System: ORG
-S2: 
-S3: 
-S4: 
-S5: SQL: GPE
-S6: 

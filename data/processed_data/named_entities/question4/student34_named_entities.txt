@@ -1,9 +1,0 @@
-S1: the French Revolution on European societies: EVENT
-S2: The French Revolution's: EVENT, Europe: LOC
-S3: Europe: LOC
-S4: France: GPE, Europe: LOC
-S5: The Declaration of the Rights of Man: WORK_OF_ART, Citizen: ORG
-S6: French: NORP, Europe: LOC
-S7: 
-S8: The French Republic's: GPE, European: NORP, Napoleonic: ORG, French: NORP
-S9: The French Revolution: EVENT, the Haitian Revolution: EVENT, first: ORDINAL, Americas: LOC

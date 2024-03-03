@@ -1,9 +1,0 @@
-S1: The French Revolution: EVENT, 1789: DATE, the early 19th century: DATE, European: NORP
-S2: The French Revolution: EVENT
-S3: 
-S4: 
-S5: 
-S6: 
-S7: the Napoleonic Wars: EVENT, the Congress of Vienna: ORG, Europe: LOC
-S8: The French Revolution: EVENT, democratic: NORP
-S9: Europe: LOC, the 19th and 20th centuries: DATE

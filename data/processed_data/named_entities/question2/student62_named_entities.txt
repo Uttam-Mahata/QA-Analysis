@@ -1,8 +1,0 @@
-S1: 
-S2: 
-S3: 
-S4: 
-S5: Charles Darwin's: PERSON, On the Origin of Species: WORK_OF_ART
-S6: Darwin: PERSON
-S7: 
-S8: 

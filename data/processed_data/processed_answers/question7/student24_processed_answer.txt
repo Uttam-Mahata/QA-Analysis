@@ -1,8 +1,0 @@
-A Relational Database Management System (RDBMS) consists of essential components that collaboratively facilitate efficient data organization and retrieval.
-Tables serve as the foundational structures, organizing data into rows and columns.
-Rows represent individual records, while columns define the attributes of the data.
-Keys, including primary and foreign keys, establish relationships between tables, ensuring data integrity.
-Indexes enhance retrieval speed by providing quick references to specific data locations.
-Users interact with the RDBMS through SQL queries, allowing for seamless data manipulation and retrieval.
-Together, these components enforce structure, relationships, and retrieval optimization, enabling the RDBMS to systematically handle extensive datasets and intricate data relationships.
-The adherence to relational model principles further contributes to the overall effectiveness of the system in managing and retrieving data.

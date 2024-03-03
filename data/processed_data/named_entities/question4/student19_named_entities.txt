@@ -1,7 +1,0 @@
-S1: 1789 to 1799: DATE, the French Revolution: EVENT, European: NORP
-S2: 
-S3: Europe: LOC
-S4: the French Revolution: EVENT, the Napoleonic Wars: LOC, 1803 to 1815: DATE
-S5: Napoleon Bonaparte's: PERSON, European: NORP
-S6: 
-S7: the French Revolution: EVENT, European: NORP

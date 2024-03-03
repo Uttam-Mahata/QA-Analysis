@@ -1,9 +1,0 @@
-S1: continental: ORG
-S2: Continental: ORG, Alfred Wegener: PERSON, 1912: DATE, Earth: LOC, Pangea: PRODUCT
-S3: South America: LOC, Africa: LOC
-S4: Fossil: PERSON, Mesosaurus: GPE, South America: LOC, Africa: LOC
-S5: the Karoo Basin: LOC, South Africa: GPE, South America: LOC
-S6: Antarctica: LOC
-S7: Wegener: ORG, the 1960s: DATE, continental: ORG
-S8: Earth: LOC
-S9: Earth: LOC

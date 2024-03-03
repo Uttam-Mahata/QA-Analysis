@@ -1,9 +1,0 @@
-S1: Relational Database Management Systems: ORG
-S2: One: CARDINAL
-S3: 
-S4: 
-S5: 
-S6: 
-S7: 
-S8: 
-S9: 

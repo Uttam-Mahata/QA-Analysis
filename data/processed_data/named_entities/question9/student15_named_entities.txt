@@ -1,6 +1,0 @@
-S1: U.S.: GPE, China: GPE, Russia: GPE
-S2: the South China Sea: LOC, Kashmir: LOC
-S3: 
-S4: 
-S5: 
-S6: 

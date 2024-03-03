@@ -1,9 +1,0 @@
-S1: ML: ORG
-S2: One: CARDINAL
-S3: 
-S4: 
-S5: 
-S6: third: ORDINAL
-S7: 
-S8: 
-S9: 

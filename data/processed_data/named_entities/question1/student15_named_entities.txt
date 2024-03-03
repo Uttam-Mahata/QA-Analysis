@@ -1,9 +1,0 @@
-S1: Continental: ORG
-S2: 
-S3: Earth: LOC
-S4: 
-S5: 
-S6: South America: LOC, Africa: LOC
-S7: 
-S8: Earth: LOC
-S9: continental: ORG, Earth: LOC

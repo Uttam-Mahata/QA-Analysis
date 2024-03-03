@@ -1,7 +1,0 @@
-S1: The Industrial Revolution: EVENT, the late 18th to the 19th centuries: DATE
-S2: 
-S3: 
-S4: 
-S5: the Industrial Revolution: EVENT
-S6: 
-S7: the Industrial Revolution: EVENT

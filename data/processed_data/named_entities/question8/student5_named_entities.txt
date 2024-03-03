@@ -1,9 +1,0 @@
-S1: the Industrial Revolution: EVENT, the Middle Ages: DATE
-S2: Enchantment Forges: WORK_OF_ART
-S3: 
-S4: 
-S5: 
-S6: 
-S7: 
-S8: 
-S9: the Industrial Revolution: EVENT

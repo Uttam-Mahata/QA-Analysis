@@ -1,2 +1,0 @@
-S1: Charles Darwin's: PERSON
-S2: The Industrial Revolution's: EVENT

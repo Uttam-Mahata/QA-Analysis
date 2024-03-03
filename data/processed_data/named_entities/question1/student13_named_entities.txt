@@ -1,8 +1,0 @@
-S1: continental: ORG, Earth: LOC
-S2: 
-S3: 
-S4: 
-S5: 
-S6: Earth: LOC
-S7: Earth: LOC
-S8: continental: ORG

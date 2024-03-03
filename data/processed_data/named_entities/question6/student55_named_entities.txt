@@ -1,7 +1,0 @@
-S1: 
-S2: three: CARDINAL
-S3: 
-S4: 
-S5: 
-S6: AI: ORG
-S7: 
