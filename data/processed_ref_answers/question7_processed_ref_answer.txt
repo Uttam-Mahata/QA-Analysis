@@ -1,0 +1,12 @@
+A Relational Database Management System (RDBMS) comprises several crucial components.
+Firstly, there is the database itself, which stores data in tables with predefined relationships.
+Tables consist of rows and columns, representing entities and attributes, ensuring structured data storage.
+The Data Definition Language (DDL) allows users to define and modify the database schema, specifying tables, constraints, and relationships.
+The Data Manipulation Language (DML) enables data retrieval and manipulation through operations like SELECT, INSERT, UPDATE, and DELETE.
+Indexes enhance query performance by creating a structured order for quick data access.
+Normalization is vital for efficient data organization, minimizing redundancy and dependency.
+Transactions ensure data integrity by enforcing the ACID (Atomicity, Consistency, Isolation, Durability) properties.
+The Query Optimizer optimizes SQL queries for faster execution by selecting the most efficient execution plan.
+A locking mechanism prevents conflicts during concurrent data access, maintaining consistency.
+Finally, stored procedures and triggers encapsulate frequently used operations, enhancing code modularity and maintainability in the RDBMS environment.
+Together, these components form a robust system that supports efficient data organization and retrieval in relational databases.

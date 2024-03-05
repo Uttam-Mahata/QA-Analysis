@@ -1,7 +1,0 @@
-Continental drift is the geological theory proposing that Earth's continents were once part of a single supercontinent and have since moved over time to their current positions.
-It was proposed by Robert Hooke in 19th century stating the landmasses continue to move around the globe due to plate movements.
-The tectonic plate theory is a fundamental concept in geology that explains the Earth's lithosphere as being divided into large, rigid plates that float on the semi-fluid asthenosphere beneath them.
-These plates are in constant motion, driven by forces like mantle convection currents.
-Each tectonic plate comprises a combination of continental and oceanic crust, with their boundaries classified into three main types: divergent boundaries, where plates move away from each other; convergent boundaries, where plates move towards each other and transform boundaries, where plates slide past each other horizontally.
-The tectonic plate theory explains various geological phenomena, including earthquakes, volcanic eruptions, and the creation and destruction of crustal features.
-It has provided a unifying framework for understanding the dynamic processes shaping the Earth's surface.

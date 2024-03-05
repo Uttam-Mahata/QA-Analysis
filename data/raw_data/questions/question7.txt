@@ -1,1 +1,0 @@
-What are the main components of a relational database management system (RDBMS), and how do they facilitate efficient data organization and retrieval?

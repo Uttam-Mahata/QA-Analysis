@@ -1,7 +1,0 @@
-Machine learning (ML) is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform tasks without explicit programming. 
-
-Firstly, the principle of supervised learning involves training a model on a labeled dataset, where the algorithm learns to map input data to corresponding output labels.Another key principle is unsupervised learning, which deals with unlabeled data, seeking to discover inherent patterns or relationships within the dataset. 
-
-The principle of generalization is crucial for ensuring that machine learning models perform well on unseen data. Models should not just memorize the training data but should instead generalize patterns to make accurate predictions on new, unseen instances. Generalization is essential for creating intelligent systems that can adapt and perform reliably in diverse real-world scenarios.
-
-Bias and fairness are critical considerations in machine learning, emphasizing the need to ensure that models do not perpetuate or amplify existing biases in the data. Addressing bias contributes to the development of intelligent systems that make fair and ethical decisions across diverse populations. 

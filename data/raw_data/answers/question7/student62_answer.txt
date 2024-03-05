@@ -1,9 +1,0 @@
-Relational database management systems (RDBMS) reign supreme in organizing and retrieving data efficiently.
-
-Tables are the fundamental units of storage, holding related data in rows and columns. Each row represents a single entity, like a customer or product, while columns (fields) store specific details like name, address, or price. 
-
-Each column defines the type of data it holds, like numbers, text, or dates. This ensures data integrity and allows for efficient processing. Imagine labeling each drawer in your filing cabinet, ensuring photos go in one drawer and invoices in another.
-
-Every record needs a unique identifier, like a social security number. This is the primary key, the master index finger pointing directly to your desired record. Secondary keys, like a customer ID in an order table, act like cross-references, linking related data across tables. 
-
-The magic of RDBMS lies in its ability to connect tables. Foreign keys act like bridges, referencing primary keys in other tables.

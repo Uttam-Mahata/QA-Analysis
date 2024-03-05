@@ -1,9 +1,0 @@
-Relational Database Management Systems (RDBMS) find widespread applications in various real-life problems.
-RDBMS is extensively used in business and finance applications for tasks such as managing customer information, processing financial transactions, and maintaining accounting records.
-It enables businesses to organize and retrieve data related to sales, inventory and financial reporting, facilitating decision-making processes.
-In the healthcare sector, RDBMS plays a crucial role in storing and managing patient records, medical histories, and treatment plans.
-It ensures secure and organized access to critical health information, supporting healthcare professionals.
-RDBMS is utilized in human resources management to store and manage employee data, including personal details, payroll information, performance evaluations, and training records.
-This helps organizations streamline HR processes and make informed decisions about workforce management.
-Educational institutions use RDBMS to manage student information, academic records, course schedules, and grading systems.
-This helps in maintaining accurate and organized data, supporting administrative tasks, and improving communication between students, faculty, and staff.

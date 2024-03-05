@@ -1,6 +1,0 @@
-The question of whether electric vehicles are truly "green" is a complex one, as it involves considering the emissions generated not only by the vehicles themselves but also by the production of the electricity used to power them.
-While it is true that producing electric vehicles leads to significantly more emissions than producing petrol cars, experts broadly agree that electric vehicles create a lower carbon footprint over the course of internal combustion engines.
-The batteries in electric vehicles charge on power that is coming straight off the electric grid, which is itself often powered by fossil fuels.
-However, as the world shifts towards renewable energy sources, the carbon footprint of electric vehicles is expected to decrease further.
-Moreover, electric vehicles are more efficient than traditional internal combustion engines that burn fossil fuels, and they produce zero tailpipe emissions when running only on electricity.
-While the production of electric vehicles and their batteries is more emissions-intensive than that of traditional vehicles, the overall lifetime emissions of electric vehicles are lower than those of gasoline cars.
